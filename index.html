@@ -1,0 +1,1354 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IELTS Summer Academy 2026 ☀️🌴</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Google Fonts: Quicksand for cute summer rounded look -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Lucide Icons -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <!-- Canvas Confetti for high-energy rewards -->
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+    
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        quicksand: ['Quicksand', 'sans-serif'],
+                    },
+                    colors: {
+                        summerYellow: '#FFD07B',
+                        summerOrange: '#FF8A5B',
+                        summerTeal: '#4ECDC4',
+                        summerBlue: '#2AB7CA',
+                        summerSand: '#FFF8F0',
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        body {
+            font-family: 'Quicksand', sans-serif;
+            background: linear-gradient(135deg, #FFF8F0 0%, #FFEFCF 50%, #E0F7FA 100%);
+            min-height: 100vh;
+        }
+        .glass-card {
+            background: rgba(255, 255, 255, 0.85);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.6);
+        }
+        /* Custom scrollbar for horizontal calendar */
+        .no-scrollbar::-webkit-scrollbar {
+            display: none;
+        }
+        .no-scrollbar {
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+        }
+        /* Floating wave animation */
+        @keyframes float-wave {
+            0% { transform: translateY(0px) rotate(0deg); }
+            50% { transform: translateY(-5px) rotate(1deg); }
+            100% { transform: translateY(0px) rotate(0deg); }
+        }
+        .float-element {
+            animation: float-wave 4s ease-in-out infinite;
+        }
+        .float-element-delayed {
+            animation: float-wave 5s ease-in-out infinite;
+            animation-delay: 1.5s;
+        }
+    </style>
+</head>
+<body class="text-slate-800 pb-20 selection:bg-summerYellow/50">
+
+    <!-- Floating Background Decors -->
+    <div class="absolute top-10 left-10 text-4xl select-none opacity-20 pointer-events-none float-element">🌴</div>
+    <div class="absolute top-40 right-10 text-5xl select-none opacity-20 pointer-events-none float-element-delayed">⛵</div>
+    <div class="absolute bottom-20 left-5 text-4xl select-none opacity-25 pointer-events-none float-element-delayed">🦩</div>
+    <div class="absolute top-2/3 right-8 text-4xl select-none opacity-20 pointer-events-none float-element">🥥</div>
+
+    <!-- MAIN WRAPPER -->
+    <div class="max-w-4xl mx-auto px-4 pt-6">
+
+        <!-- HEADER -->
+        <header class="text-center mb-8 relative">
+            <h1 class="text-3xl md:text-4xl font-bold tracking-tight text-transparent bg-clip-text bg-gradient-to-r from-orange-600 via-amber-500 to-sky-600 mb-2">
+                Hè Rực Rỡ, Điểm Số Hết Cỡ! ☀️🌴
+            </h1>
+            <p class="text-slate-600 font-medium text-sm md:text-base max-w-lg mx-auto">
+                Chinh phục lộ trình IELTS & ĐGNL 12 Tuần đầy đủ và bài bản của bạn.
+            </p>
+        </header>
+
+        <!-- SOUNDSCAPE & STATS ROW -->
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
+            <!-- Streak Tracker -->
+            <div class="glass-card rounded-2xl p-4 flex items-center justify-between shadow-sm">
+                <div class="flex items-center space-x-3">
+                    <div class="w-10 h-10 rounded-full bg-orange-100 text-orange-500 flex items-center justify-center text-lg animate-bounce">
+                        🔥
+                    </div>
+                    <div>
+                        <h3 class="font-bold text-sm text-slate-700">Chuỗi ngày chăm</h3>
+                        <p class="text-xs text-slate-500" id="streak-count">0 ngày liên tiếp</p>
+                    </div>
+                </div>
+                <div class="px-3 py-1 bg-amber-100 text-amber-700 font-bold rounded-lg text-xs" id="streak-level">
+                    Khởi động!
+                </div>
+            </div>
+
+            <!-- Summer Water Reminder -->
+            <div class="glass-card rounded-2xl p-4 flex flex-col justify-between shadow-sm">
+                <div class="flex items-center justify-between mb-2">
+                    <h3 class="font-bold text-xs text-slate-500 uppercase tracking-wider flex items-center gap-1">
+                        <span>Cấp nước ngày hè 🥥</span>
+                        <span id="water-lock-badge" class="text-slate-400 hidden"><i data-lucide="lock" class="w-3 h-3 inline"></i></span>
+                    </h3>
+                    <span id="water-count" class="text-xs font-bold text-sky-600">0 / 8 ly</span>
+                </div>
+                <div class="flex justify-between items-center px-1" id="water-slots">
+                    <!-- 8 Water Cups -->
+                </div>
+            </div>
+        </div>
+
+        <!-- MOTIVATION CORNER -->
+        <div id="motivation-box" class="glass-card rounded-2xl p-4 mb-6 bg-gradient-to-r from-amber-500/10 via-orange-500/5 to-sky-500/10 border-l-4 border-summerOrange">
+            <div class="flex items-start space-x-3">
+                <span class="text-2xl select-none" id="motivation-emoji">🍍</span>
+                <div>
+                    <h4 class="font-bold text-xs text-summerOrange uppercase tracking-wider mb-0.5">Lời nhắc quả dứa</h4>
+                    <p class="text-xs md:text-sm italic text-slate-600" id="motivation-quote">
+                        "Một ly nước ép dứa, một bài đọc IELTS, hè này quyết tâm bứt phá điểm số nhé bạn ơi!"
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <!-- WEEK SELECTOR & CALENDAR CONTROLS -->
+        <div class="mb-6">
+            <div class="flex items-center justify-between mb-3">
+                <div class="flex items-center space-x-2">
+                    <button onclick="changeWeek(-1)" class="w-8 h-8 rounded-full bg-white shadow-sm flex items-center justify-center hover:bg-slate-50 text-slate-600 transition-all">
+                        <i data-lucide="chevron-left" class="w-4 h-4"></i>
+                    </button>
+                    <h2 class="font-bold text-lg text-slate-800" id="current-week-title">Tuần 1 (01/06 - 07/06)</h2>
+                    <button onclick="changeWeek(1)" class="w-8 h-8 rounded-full bg-white shadow-sm flex items-center justify-center hover:bg-slate-50 text-slate-600 transition-all">
+                        <i data-lucide="chevron-right" class="w-4 h-4"></i>
+                    </button>
+                </div>
+                <div class="flex space-x-1">
+                    <button onclick="toggleCalendarModal(true)" class="p-2 rounded-xl bg-white shadow-sm hover:bg-slate-50 text-slate-600 transition-all" title="Xem lịch toàn diện">
+                        <i data-lucide="calendar" class="w-4.5 h-4.5"></i>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Days Slider -->
+            <div class="flex overflow-x-auto space-x-2 pb-2 no-scrollbar" id="day-tabs">
+                <!-- Day buttons populated dynamically -->
+            </div>
+        </div>
+
+        <!-- PROGRESS CIRCLE & COMPLETION SUMMARY -->
+        <div class="glass-card rounded-3xl p-6 mb-6 shadow-md relative overflow-hidden">
+            <div class="absolute right-0 top-0 translate-x-10 -translate-y-10 w-40 h-40 bg-sky-200/20 rounded-full blur-xl"></div>
+            
+            <div class="flex flex-col md:flex-row items-center justify-between gap-6">
+                <!-- Left: Big stats -->
+                <div class="flex-1 text-center md:text-left">
+                    <span class="text-xs font-bold text-sky-600 tracking-wider uppercase" id="selected-day-label">Hôm nay • Thứ Hai 01/06</span>
+                    <h2 class="text-2xl font-bold text-slate-800 mt-1 mb-2" id="selected-day-title">Chăm chỉ học tập nào! 🏖️</h2>
+                    <div class="flex flex-wrap gap-2 justify-center md:justify-start mt-2">
+                        <span class="text-xs bg-slate-100 text-slate-600 px-2.5 py-1 rounded-full font-medium" id="total-tasks-badge">
+                            0 ca học hôm nay
+                        </span>
+                        <span class="text-xs bg-emerald-50 text-emerald-700 border border-emerald-200 px-2.5 py-1 rounded-full font-bold hidden" id="all-done-badge">
+                            🎉 Hoàn thành xuất sắc!
+                        </span>
+                    </div>
+                </div>
+
+                <!-- Right: Radial Circular Progress bar -->
+                <div class="flex items-center space-x-4">
+                    <div class="relative w-24 h-24 flex items-center justify-center">
+                        <svg class="w-full h-full transform -rotate-90">
+                            <!-- Background Circle -->
+                            <circle cx="48" cy="48" r="40" stroke="currentColor" stroke-width="8" class="text-slate-100" fill="transparent"></circle>
+                            <!-- Progress Circle -->
+                            <circle cx="48" cy="48" r="40" stroke="currentColor" stroke-width="8" class="text-summerTeal transition-all duration-500 ease-out" 
+                                    stroke-dasharray="251.2" stroke-dashoffset="251.2" id="progress-circle" fill="transparent" stroke-linecap="round"></circle>
+                        </svg>
+                        <div class="absolute text-center">
+                            <span class="text-lg font-bold text-slate-800" id="progress-percent">0%</span>
+                            <p class="text-[9px] font-bold text-slate-400 uppercase tracking-widest">Tiến độ</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- TIMELINE TASK LIST -->
+        <div class="space-y-4" id="task-timeline-container">
+            <!-- Daily study blocks populating dynamically -->
+        </div>
+
+        <!-- NOTE AREA FOR THE SELECTED DAY -->
+        <div class="mt-6 glass-card rounded-3xl p-5 shadow-sm">
+            <h3 class="font-bold text-slate-800 text-sm flex items-center gap-1.5 mb-2">
+                <i data-lucide="edit-3" class="w-4 h-4 text-amber-500"></i>
+                Nhật ký ôn tập ngày này 📝
+            </h3>
+            <textarea id="day-notes" rows="3" oninput="saveDayNotes()" 
+                      placeholder="Ghi lại từ vựng hay, công thức Toán, hoặc lỗi sai Speaking hôm nay..." 
+                      class="w-full bg-white/50 border border-amber-100 rounded-xl p-3 text-sm focus:outline-none focus:ring-2 focus:ring-summerOrange transition-all"></textarea>
+            <div class="flex justify-between items-center mt-2">
+                <span class="text-[10px] text-slate-400">Tự động sao lưu vào trình duyệt của bạn</span>
+                <span class="text-[10px] font-semibold text-emerald-600 flex items-center gap-1" id="notes-status-text">
+                    <i data-lucide="check" class="w-3 h-3"></i> Đã lưu
+                </span>
+            </div>
+        </div>
+
+    </div>
+
+    <!-- CALENDAR MODAL VIEW (FULL LIST OF DAYS IN ONE DRAWER) -->
+    <div id="calendar-modal" class="fixed inset-0 bg-slate-950/40 backdrop-blur-sm z-50 flex items-end justify-center hidden opacity-0 transition-opacity duration-300">
+        <div class="bg-white rounded-t-3xl w-full max-w-2xl p-6 shadow-2xl max-h-[85vh] overflow-y-auto transform translate-y-full transition-transform duration-300 ease-out" id="modal-content">
+            <div class="flex items-center justify-between border-b pb-4 mb-4">
+                <h3 class="font-bold text-lg text-slate-800 flex items-center gap-1.5">
+                    <i data-lucide="calendar-range" class="w-5 h-5 text-summerOrange"></i>
+                    Bản đồ lộ trình học tập mùa hè ☀️
+                </h3>
+                <button onclick="toggleCalendarModal(false)" class="p-1.5 bg-slate-100 hover:bg-slate-200 text-slate-500 rounded-full transition-all">
+                    <i data-lucide="x" class="w-5 h-5"></i>
+                </button>
+            </div>
+            
+            <p class="text-xs text-slate-500 mb-4">Chọn bất kỳ ngày nào bên dưới để xem giáo trình và đánh dấu hoàn thành bài tập.</p>
+            
+            <!-- Quick search / Filter -->
+            <div class="mb-4 relative">
+                <input type="text" id="modal-search" placeholder="Tìm kiếm môn học, bài viết, chủ đề..." oninput="filterCalendarModal()"
+                       class="w-full text-xs bg-slate-50 border border-slate-200 rounded-xl pl-8 pr-3 py-2 focus:outline-none focus:ring-2 focus:ring-summerTeal">
+                <i data-lucide="search" class="w-3.5 h-3.5 text-slate-400 absolute left-2.5 top-3"></i>
+            </div>
+
+            <!-- List of weeks -->
+            <div class="space-y-4" id="modal-weeks-list">
+                <!-- Filled dynamically -->
+            </div>
+        </div>
+    </div>
+
+    <!-- SOUND & CONFETTI REWARD LOGIC -->
+    <script>
+        // Cute Speaking Part 1 Topics for 12 weeks
+        const sP1List = [
+            "Hometown, Accommodation, Daily routine",
+            "Hobbies, Sports, Music",
+            "Technology, Social media, Apps",
+            "Weather, Seasons, Clothes",
+            "Music, Concerts, Instruments",
+            "Food, Cooking, Restaurants",
+            "Travel, Holidays, Transport",
+            "Health, Exercise, Sleep",
+            "Friends, Family, Neighbors",
+            "News, Books, Movies",
+            "Luyện phản xạ ngẫu nhiên 20 câu hỏi Part 1 thông dụng",
+            "Luyện nói trôi chảy (Fluency) và tránh ngập ngừng (fillers)"
+        ];
+
+        // Curriculums for dynamic 12-week generation
+        const readingTopics = [
+            "Làm 1 passage timed practice. Trọng tâm: T/F/NG + paraphrase tracking. Sau khi chữa bài, note paraphrase và từ vựng học thuật.",
+            "Làm 1 passage timed practice. Trọng tâm: Matching headings. Sau khi chữa bài, dịch chi tiết các đoạn khó để học cấu trúc câu.",
+            "Làm 1 passage timed practice. Trọng tâm: Matching information. Sau khi chữa bài, lập bảng keyword table cho các từ đồng nghĩa.",
+            "Làm 1 passage timed practice. Trọng tâm: Multiple choice. Sau khi chữa bài, phân tích kỹ các lỗi sai do chủ quan.",
+            "Làm 1 passage timed practice. Trọng tâm: Summary completion. Sau khi chữa bài, ghi chú lại các collocations hay gặp.",
+            "Làm 1 passage timed practice. Trọng tâm: Sentence completion / Matching features. Phân tích bẫy trong đoạn văn.",
+            "Làm full Test 1 (Cam 18/19). Timed practice 60 mins. Phân tích chiến thuật phân bổ thời gian hiệu quả.",
+            "Làm full Test 2 (Cam 18/19). Timed practice 60 mins. Kiểm tra xem tốc độ đọc hiểu đã cải thiện chưa.",
+            "Làm full Test 3 (Cam 18/19). Timed practice 60 mins. Tập trung quản lý thời gian và giữ bình tĩnh khi gặp passage khó.",
+            "Làm full Test 4 (Cam 18/19). Timed practice 60 mins. Đánh giá sự tiến bộ sau chuỗi bài full test.",
+            "Review lại toàn bộ Keyword Tables + Sổ tay từ vựng tích lũy. Làm lại các passage từng làm sai nhiều nhất.",
+            "Làm 1 full test nhẹ nhàng dưới áp lực phòng thi thật. Giữ tâm lý thoải mái trước ngày thi chính thức."
+        ];
+
+        const task1Topics = [
+            "Lesson 01: Static Charts (Biểu đồ tĩnh - So sánh các số liệu tại một thời điểm)",
+            "Lesson 02: Line Graphs (Biểu đồ đường - Mô tả xu hướng thay đổi theo thời gian)",
+            "Lesson 03: Bar Charts (Biểu đồ cột - So sánh số liệu tĩnh & động)",
+            "Lesson 04: Pie Charts (Biểu đồ tròn - Mô tả tỷ lệ phần trăm)",
+            "Lesson 05: Tables (Bảng số liệu - Cách chọn lọc thông tin nổi bật nhất)",
+            "Lesson 06: Process Diagram (Sơ đồ quy trình sản xuất, vòng đời sinh học)",
+            "Lesson 07: Map Comparison (Sự thay đổi của một khu vực qua thời gian)",
+            "Lesson 08: Mixed Charts (Biểu đồ kết hợp - Cách viết mạch lạc giữa 2 loại đồ thị)",
+            "Luyện đề thi thật Task 1 - Đề số 1",
+            "Luyện đề thi thật Task 1 - Đề số 2",
+            "Review & Refine: Tinh chỉnh cấu trúc so sánh và từ vựng chỉ xu hướng nâng cao",
+            "Brainstorm nhanh cách viết cho 5 đề Task 1 ngẫu nhiên để rèn phản xạ"
+        ];
+
+        const task2Topics = [
+            "Lesson 01: Agree or Disagree - Cách brainstorm ý tưởng & lập dàn ý cân bằng",
+            "Lesson 02: Discussion (Discuss both views) - Phân tích cả 2 quan điểm và đưa ra ý kiến cá nhân",
+            "Lesson 03: Advantages & Disadvantages - Biện luận mặt tốt & xấu của vấn đề",
+            "Lesson 04: Causes & Effects/Solutions - Tìm nguyên nhân, tác hại & đề xuất giải pháp thực tế",
+            "Lesson 05: Direct Questions (Two-part questions) - Trả lời trực tiếp các câu hỏi của đề bài",
+            "Review Task 2: Cách viết Mở bài ấn tượng & Kết bài súc tích trong 5 phút",
+            "Chủ đề Giáo dục (Education) - Từ vựng học thuật & lập dàn ý viết bài hoàn chỉnh",
+            "Chủ đề Công nghệ (Technology) - Từ vựng học thuật & lập dàn ý viết bài hoàn chỉnh",
+            "Chủ đề Môi trường (Environment) - Từ vựng học thuật & lập dàn ý viết bài hoàn chỉnh",
+            "Chủ đề Việc làm & Kinh tế (Work & Economy) - Từ vựng học thuật & lập dàn ý viết bài hoàn chỉnh",
+            "Nâng cấp từ vựng học thuật (lexical resource) và cấu trúc câu phức/ghép",
+            "Lập dàn ý chi tiết cho 10 đề thi thật gần đây để chuẩn bị tâm lý phòng thi"
+        ];
+
+        const speakingTopics = [
+            "Views & Scenery", "Work & Study", "Technology", "Art & Culture", "Science & Nature",
+            "Leisure Time & Sports", "Travel & Tourism", "Food & Health", "People & Relationships",
+            "Media & News", "Review tổng hợp collocations của các chủ đề chính", "Luyện tập phản xạ nói nhanh cho Part 1"
+        ];
+
+        const speakingPart2 = [
+            "A beautiful place", "A person you admire", "An object (tech/book)", "An event/historic building",
+            "An environmental issue", "A sport/game", "A memorable journey", "A healthy habit",
+            "A person who helped you", "A local business/news", "Luyện nói trọn vẹn 2 phút cho 5 đề Part 2 ngẫu nhiên",
+            "Mock test Speaking Part 2 ghi âm & tự sửa lỗi"
+        ];
+
+        const speakingPart3 = [
+            "Tourism & Environment (đưa ra giải pháp, so sánh)",
+            "Education & Career (dự đoán tương lai, nêu lợi ích)",
+            "Technology & Society (phân tích mặt lợi & hại)",
+            "Art, Culture & Preservation (bày tỏ quan điểm)",
+            "Science & Human advancement (phân tích nguyên nhân)",
+            "Leisure, Sports & Health (nêu tầm quan trọng)",
+            "Globalization & Tourism (đánh giá tác động)",
+            "Food culture & Health policies (đề xuất ý kiến)",
+            "Social relationships & Community (so sánh quá khứ - hiện tại)",
+            "Media & News accuracy (nêu tác động)",
+            "Luyện cấu trúc câu mở rộng ý (Extend your answers) Part 3",
+            "Luyện trả lời trôi chảy các câu hỏi Part 3 khó dạng trừu tượng"
+        ];
+
+        const codeCurriculum = [
+            { mon: "Bài 44 (10 phút) + Bài 45 (17 phút) + Bài 46 (6 phút) → Tổng 33 phút", wed: "Bài 47 (10 phút) + Bài 48 (6 phút) + Bài 49 (6 phút) → Tổng 22 phút", thu: "Bài 50 (6 phút) + Bài 51.1 (11 phút) + Bài 51.2 (7 phút) → Tổng 24 phút", fri: "Bài 52 (7 phút) + Bài 53 (14 phút) → Tổng 21 phút" },
+            { mon: "Bài 54 (4 phút) + Bài 55 (15 phút) + Bài 56 (15 phút) → Tổng 34 phút", wed: "Bài 57 (19 phút) + Bài 58 (4 phút) + Bài 59 (6 phút) → Tổng 29 phút", thu: "Bài 60 (11 phút) + Bài 61 (9 phút) + Bài 62 (9 phút) → Tổng 29 phút", fri: "Bài 63 (8 phút) + Bài 64 (9 phút) + Bài 65 (9 phút) → Tổng 26 phút" },
+            { mon: "Bài 66 (9 phút) + Bài 67 (6 phút) + Bài 68 (6 phút) → Tổng 21 phút", wed: "Bài 69 (6 phút) + Bài 70 (10 phút) + Bài 71 (10 phút) → Tổng 26 phút", thu: "Bài 72 (11 phút) + Bài 73 (10 phút) + Bài 74 (6 phút) → Tổng 27 phút", fri: "Bài 75 (11 phút) + Bài 76 (6 phút) + Bài 77 (23 phút) → Tổng 40 phút" },
+            { mon: "Bài 78 (9 phút) + Bài 79 (16 phút) + Bài 80 (8 phút) → Tổng 33 phút", wed: "Bài 81 (6 phút) + Bài 82 (7 phút) + Bài 83 (11 phút) → Tổng 24 phút", thu: "Bài 84 (11 phút) + Bài 85 (8 phút) + Bài 86 (13 phút) → Tổng 32 phút", fri: "Bài 87.1 (8 phút) + Bài 87.2 (10 phút) + Bài 87.3 (7 phút) + Bài 87.4 (12 phút) → Tổng 37 phút" },
+            { mon: "Bài 87.5 (4 phút) + Bài 87.6 (6 phút) + Bài 88 (14 phút) + Bài 89.1 (7 phút) → Tổng 31 phút", wed: "Bài 89.2 (5 phút) + Bài 89.3 (8 phút) + Bài 90 (11 phút) + Bài 91 (8 phút) → Tổng 32 phút", thu: "Bài 92 (7 phút) + Bài 93 (10 phút) + Bài 94.1 (6 phút) + Bài 94.2 (9 phút) → Tổng 32 phút", fri: "Bài 95 (12 phút) + Bài 96 (5 phút) + Bài 97.1 (10 phút) + Bài 97.2 (4 phút) → Tổng 31 phút" },
+            { mon: "Bài 97.3 (9 phút) + Bài 97.4 (14 phút) + Bài 98.1 (22 phút) + Bài 98.2 (6 phút) → Tổng 51 phút", wed: "Bài 98.3 (19 phút) + Bài 98.4 (8 phút) + Bài 98.5 (7 phút) + Bài 99 (17 phút) → Tổng 51 phút", thu: "Bài 100.1 (17 phút) + Bài 100.2 (8 phút) + Bài 100.3 (6 phút) + Bài 100.4 (4 phút) → Tổng 35 phút", fri: "Bài 100.5 (6 phút) + Bài 100.6 (8 phút) + Bài 100.7 (5 phút) + Bài 100.8 (8 phút) → Tổng 27 phút" },
+            { mon: "Bài 100.9 (14 phút) + Bài 100.10 (8 phút) + Bài 100.11 (11 phút) + Bài 101.1 (26 phút) → Tổng 59 phút", wed: "Bài 101.2 (13 phút) + Bài 101.3 (8 phút) + Bài 101.4 (5 phút) + Bài 101.5 (3 phút) → Tổng 32 phút", thu: "Bài 101.6 (5 phút) + Bài 101.7 (20 phút) + Bài 102 (6 phút) + Bài 103 (20 phút) → Tổng 51 phút", fri: "Bài 104 (20 phút) + Bài 105 (8 phút) + Bài 106 (13 phút) + Bài 107 (16 phút) → Tổng 57 phút" },
+            { mon: "Bài 108 (19 phút) + Bài 109 (18 phút) + Bài 109.1 (3 phút) + Bài 109.2 (6 phút) → Tổng 46 phút", wed: "Bài 109.3 (9 phút) + Bài 110 (6 phút) + Bài 111 (14 phút) → Tổng 29 phút", thu: "Lập trình ứng dụng Web cơ bản: Học cách xây dựng layouts và bố trí CSS", fri: "Chuyên đề Javascript: Luyện tập về DOM, event listeners và async/await" },
+            { mon: "Bài tập lập trình thuật toán cơ bản: Array, String & Object manipulation", wed: "Project thực tế 1: Xây dựng Todo app xịn sò có lưu trữ trạng thái", thu: "Project thực tế 2: Lập trình game Tic Tac Toe đơn giản", fri: "Project thực tế 3: Thiết kế trang cá nhân (Personal Portfolio)" },
+            { mon: "Tối ưu hóa mã nguồn: Debugging nâng cao & Performance profiling", wed: "Học cách deploy website lên các nền tảng miễn phí (GitHub Pages, Vercel)", thu: "Ôn tập kiến thức cấu trúc dữ liệu và giải thuật thông dụng", fri: "Lập trình UI nâng cao với Tailwind CSS và các animations mượt mà" },
+            { mon: "Tự do phát triển ý tưởng dự án cá nhân mùa hè", wed: "Code review: Tự kiểm tra code, viết chú thích và dọn dẹp file", thu: "Thực hành làm việc với API công cộng để lấy dữ liệu thời tiết/tin tức", fri: "Học cách sử dụng Git để quản lý phiên bản mã nguồn" },
+            { mon: "Hoàn thiện sản phẩm lớn cuối khóa học Code mùa hè", wed: "Tối ưu hóa giao diện di động (Responsive Web Design check)", thu: "Chia sẻ sản phẩm với mọi người và ghi nhận ý kiến phản hồi", fri: "Tổng kết chặng đường học code mùa hè 2026" }
+        ];
+
+        // Safe timezone-independent date string formatter
+        function formatDateToString(date) {
+            const y = date.getFullYear();
+            const m = String(date.getMonth() + 1).padStart(2, '0');
+            const d = String(date.getDate()).padStart(2, '0');
+            return `${y}-${m}-${d}`;
+        }
+
+        // Logic dynamic 12-week schedule builder
+        function generate12WeeksTKB() {
+            const db = [];
+            const baseDate = new Date(2026, 5, 1); // 2026-06-01 (Month index 5 is June)
+
+            for (let w = 0; w < 12; w++) {
+                for (let d = 0; d < 7; d++) {
+                    const currentDay = new Date(baseDate);
+                    currentDay.setDate(baseDate.getDate() + (w * 7) + d);
+                    const dateStr = formatDateToString(currentDay);
+
+                    const weekCode = codeCurriculum[w] || codeCurriculum[11];
+                    const rTopic = readingTopics[w] || readingTopics[11];
+                    const t1Topic = task1Topics[w] || task1Topics[11];
+                    const t2Topic = task2Topics[w] || task2Topics[11];
+                    const sTopic = speakingTopics[w] || speakingTopics[11];
+                    const sP2Topic = speakingPart2[w] || speakingPart2[11];
+                    const sP3Topic = speakingPart3[w] || speakingPart3[11];
+
+                    if (d === 0) { // Thứ Hai
+                        db.push({ date: dateStr, dayOfWeek: "Thứ Hai", timeSlot: "8h-9h45", subject: "Toán", suggestion: "Học toán anh Kid" });
+                        db.push({ date: dateStr, dayOfWeek: "Thứ Hai", timeSlot: "10h-11h", subject: "code", suggestion: weekCode.mon });
+                        db.push({ date: dateStr, dayOfWeek: "Thứ Hai", timeSlot: "13h30-15h10", subject: "Reading", suggestion: rTopic });
+                        db.push({ date: dateStr, dayOfWeek: "Thứ Hai", timeSlot: "15h25-17h", subject: "Writing (task 1 book)", suggestion: t1Topic });
+                        db.push({ date: dateStr, dayOfWeek: "Thứ Hai", timeSlot: "19h-20h40", subject: "Speaking (learn vocab for topic)", suggestion: `Học collocations + idioms tự nhiên cho chủ đề '${sTopic}'. Tạo ví dụ cá nhân hóa.` });
+                        db.push({ date: dateStr, dayOfWeek: "Thứ Hai", timeSlot: "20h55-22h30", subject: "Tự do", suggestion: "Nghỉ ngơi nạp lại năng lượng" });
+                    }
+                    else if (d === 1) { // Thứ Ba
+                        db.push({ date: dateStr, dayOfWeek: "Thứ Ba", timeSlot: "8h-9h45", subject: "ĐGNL", suggestion: "Tự ôn tập phần tư duy định lượng logic lớp 12" });
+                        db.push({ date: dateStr, dayOfWeek: "Thứ Ba", timeSlot: "10h-11h", subject: "Speaking (xem sample answer)", suggestion: `Nghe và phân tích bài mẫu IELTS Speaking Part 2. Chủ đề: ${sP2Topic}` });
+                        db.push({ date: dateStr, dayOfWeek: "Thứ Ba", timeSlot: "13h30-15h10", subject: "Toán", suggestion: "Học toán anh Kid (Hình học hoặc Đại Số)" });
+                        db.push({ date: dateStr, dayOfWeek: "Thứ Ba", timeSlot: "15h25-17h", subject: "Listening", suggestion: `Làm phần nghe Listening Test tuần ${w + 1}. Ghi chú lại lỗi chính tả.` });
+                        db.push({ date: dateStr, dayOfWeek: "Thứ Ba", timeSlot: "19h-20h40", subject: "Writing (task 1)", suggestion: "Luyện viết hoàn chỉnh biểu đồ Task 1 tương ứng." });
+                    }
+                    else if (d === 2) { // Thứ Tư
+                        db.push({ date: dateStr, dayOfWeek: "Thứ Tư", timeSlot: "8h-9h45", subject: "Toán", suggestion: "Toán Đại Số nâng cao - Hệ phương trình phức tạp" });
+                        db.push({ date: dateStr, dayOfWeek: "Thứ Tư", timeSlot: "10h-11h", subject: "code", suggestion: weekCode.wed });
+                        db.push({ date: dateStr, dayOfWeek: "Thứ Tư", timeSlot: "13h30-15h10", subject: "ĐGNL", suggestion: "Giải đề tư duy logic & phân tích số liệu" });
+                        db.push({ date: dateStr, dayOfWeek: "Thứ Tư", timeSlot: "15h25-17h", subject: "Speaking (part 1)", suggestion: `Luyện nói phản xạ nhanh. Chủ đề: ${sP1List[w] || sP1List[11]}` });
+                        db.push({ date: dateStr, dayOfWeek: "Thứ Tư", timeSlot: "19h-20h40", subject: "Listening", suggestion: "Nghe chép chính tả một bài khoa học hoặc bản tin" });
+                        db.push({ date: dateStr, dayOfWeek: "Thứ Tư", timeSlot: "20h55-22h30", subject: "Reading", suggestion: "Luyện tập thêm 1 bài đọc passage khó trong Cambridge" });
+                    }
+                    else if (d === 3) { // Thứ Năm
+                        db.push({ date: dateStr, dayOfWeek: "Thứ Năm", timeSlot: "8h-9h45", subject: "ĐGNL", suggestion: "Luyện tập phần ngôn ngữ tiếng Việt" });
+                        db.push({ date: dateStr, dayOfWeek: "Thứ Năm", timeSlot: "10h-11h", subject: "code", suggestion: weekCode.thu });
+                        db.push({ date: dateStr, dayOfWeek: "Thứ Năm", timeSlot: "13h30-15h10", subject: "Listening", suggestion: `Luyện tập Full Listening Test Cam ${16 + Math.floor(w/4)} Test ${(w%4)+1}` });
+                        db.push({ date: dateStr, dayOfWeek: "Thứ Năm", timeSlot: "15h25-17h", subject: "Speaking (part 2)", suggestion: `Thực hành nói 2 phút chủ đề: ${sP2Topic}` });
+                        db.push({ date: dateStr, dayOfWeek: "Thứ Năm", timeSlot: "19h-20h40", subject: "Reading", suggestion: "Rèn luyện tốc độ đọc tìm thông tin Keyword (Skimming & Scanning)" });
+                    }
+                    else if (d === 4) { // Thứ Sáu
+                        db.push({ date: dateStr, dayOfWeek: "Thứ Sáu", timeSlot: "8h-9h45", subject: "Toán", suggestion: "Chuyên đề tích phân và ứng dụng nâng cao" });
+                        db.push({ date: dateStr, dayOfWeek: "Thứ Sáu", timeSlot: "10h-11h", subject: "code", suggestion: weekCode.fri });
+                        db.push({ date: dateStr, dayOfWeek: "Thứ Sáu", timeSlot: "13h30-15h10", subject: "Writing (task 2 book)", suggestion: t2Topic });
+                        db.push({ date: dateStr, dayOfWeek: "Thứ Sáu", timeSlot: "15h25-17h", subject: "Speaking (part 3)", suggestion: sP3Topic });
+                        db.push({ date: dateStr, dayOfWeek: "Thứ Sáu", timeSlot: "19h-20h40", subject: "Listening", suggestion: "Transcript Analysis: Phân tích kỹ bẫy trong đoạn nghe" });
+                        db.push({ date: dateStr, dayOfWeek: "Thứ Sáu", timeSlot: "20h55-22h30", subject: "Reading", suggestion: "Sửa bài và lập keyword table cho các câu trả lời sai" });
+                    }
+                    else if (d === 5) { // Thứ Bảy
+                        db.push({ date: dateStr, dayOfWeek: "Thứ Bảy", timeSlot: "8h-9h45", subject: "ĐGNL", suggestion: "Tự ôn tập Lịch sử - Địa lý (ĐGNL)" });
+                        db.push({ date: dateStr, dayOfWeek: "Thứ Bảy", timeSlot: "10h-11h", subject: "Speaking (correct & upgrade)", suggestion: "Tự ghi âm nói lại, sửa phát âm và nâng cấp từ vựng band cao" });
+                        db.push({ date: dateStr, dayOfWeek: "Thứ Bảy", timeSlot: "13h30-15h10", subject: "Writing (task 2)", suggestion: "Viết bài luận hoàn chỉnh Task 2 cho chủ đề ngày Thứ Sáu" });
+                        db.push({ date: dateStr, dayOfWeek: "Thứ Bảy", timeSlot: "19h-20h40", subject: "Reading", suggestion: `Luyện Reading Cambridge Test ${(w%4)+1}` });
+                    }
+                    else if (d === 6) { // Chủ Nhật
+                        db.push({ date: dateStr, dayOfWeek: "Chủ Nhật", timeSlot: "8h-9h45", subject: "OFF", suggestion: "Thư giãn nghỉ ngơi nạp lại năng lượng ngày hè!" });
+                        db.push({ date: dateStr, dayOfWeek: "Chủ Nhật", timeSlot: "13h30-15h10", subject: "Review week", suggestion: "Nhìn lại tuần qua, chữa lại các câu sai trong sổ tay" });
+                        db.push({ date: dateStr, dayOfWeek: "Chủ Nhật", timeSlot: "15h25-17h", subject: "Speaking (xem Youtube)", suggestion: "Xem vlog của chuyên gia bản xứ chia sẻ mẹo làm bài" });
+                        db.push({ date: dateStr, dayOfWeek: "Chủ Nhật", timeSlot: "19h-20h40", subject: "Reading", suggestion: "Đọc tin tức khoa học nhẹ nhàng hoặc truyện ngắn" });
+                    }
+                }
+            }
+            return db;
+        }
+
+        // Default Timetable Database - dynamic generated fully to cover 12 weeks
+        const DEFAULT_SCHEDULE_DB = generate12WeeksTKB();
+
+        // Cute Summer motivation messages
+        const MOTIVATION_QUOTES = [
+            { quote: "Một ly nước ép dứa, một bài đọc IELTS, hè này quyết tâm bứt phá điểm số nhé bạn ơi! 🍍📖", emoji: "🍍" },
+            { quote: "Sóng biển rì rào, tinh thần dâng cao. Cố lên, bứt phá giới hạn bản thân! 🌊💪", emoji: "🌊" },
+            { quote: "Hãy chăm chỉ như chú cua biển xây lâu đài cát, tích lũy kiến thức từng ngày một nhé! 🦀🏰", emoji: "🦀" },
+            { quote: "Mát lạnh như cây kem chanh, thông suốt mọi bài học hóc búa ngày hôm nay! 🍦🧠", emoji: "🍦" },
+            { quote: "Thành công không đến từ may mắn, nó đến từ việc bạn duy trì thói quen tích chọn 'Hoàn thành' mỗi ngày! ☀️🏆", emoji: "☀️" },
+            { quote: "Học tập dưới bóng dừa mát rượi, tận hưởng cảm giác chinh phục thử thách IELTS. Go! 🌴🥥", emoji: "🌴" },
+            { quote: "Một ca học tập trung hôm nay bằng cả tuần học mơ màng ngày mai. Quyết tâm lên! 🚀⛱️", emoji: "🚀" }
+        ];
+
+        // Global States
+        let timetableData = [...DEFAULT_SCHEDULE_DB];
+        let selectedDate = "2026-06-01";
+        let activeWeekIndex = 0; // index of the selected week in sorted list of weeks
+        let weeksArray = []; // dynamic list of weeks based on active data
+        let userNotes = {}; // key: date, value: text
+        let completedSessions = {}; // key: "date_time_subject", value: boolean
+        let completedSubtasks = {}; // key: "date_time_subject_subindex", value: boolean
+        let waterIntake = {}; // key: date, value: count of cups (0-8)
+        let streakCount = 0;
+
+        // Initialize App
+        window.addEventListener('DOMContentLoaded', () => {
+            lucide.createIcons();
+            
+            // Load Local Storage values
+            loadFromLocalStorage();
+
+            // Process Active Timetable Data
+            processDataAndWeeks();
+
+            // Render stats
+            updateStreakDisplay();
+            
+            // Auto Select Today's date if it exists in DB, otherwise select first available
+            const formatToday = getFormattedToday();
+            const dateExists = timetableData.some(d => d.date === formatToday);
+            if (dateExists) {
+                selectedDate = formatToday;
+            } else {
+                selectedDate = timetableData[0]?.date || "2026-06-01";
+            }
+            
+            // Focus visual to selected week and day
+            activeWeekIndex = findWeekIndexForDate(selectedDate);
+            selectDate(selectedDate);
+            
+            // Update daily quotes
+            refreshMotivationQuote();
+        });
+
+        function getFormattedToday() {
+            const d = new Date();
+            let y = d.getFullYear();
+            let m = String(d.getMonth() + 1).padStart(2, '0');
+            let day = String(d.getDate()).padStart(2, '0');
+            return `${y}-${m}-${day}`;
+        }
+
+        // Helper function to check if a date has strictly passed today
+        function isPastDate(dateStr) {
+            const todayStr = getFormattedToday();
+            return dateStr < todayStr;
+        }
+
+        // Load data from LocalStorage
+        function loadFromLocalStorage() {
+            try {
+                // Notes
+                const notesStr = localStorage.getItem('summer_study_notes');
+                if (notesStr) userNotes = JSON.parse(notesStr);
+
+                // Main checkbox statuses
+                const mainChkStr = localStorage.getItem('summer_study_completed_main');
+                if (mainChkStr) completedSessions = JSON.parse(mainChkStr);
+
+                // Subtask checklist statuses
+                const subChkStr = localStorage.getItem('summer_study_completed_sub');
+                if (subChkStr) completedSubtasks = JSON.parse(subChkStr);
+
+                // Water
+                const waterStr = localStorage.getItem('summer_study_water');
+                if (waterStr) waterIntake = JSON.parse(waterStr);
+
+                // Streaks calculation
+                calculateStreaks();
+            } catch (e) {
+                console.error("Lỗi khi tải dữ liệu từ bộ nhớ cục bộ:", e);
+            }
+        }
+
+        function saveNotesToLocalStorage() {
+            localStorage.setItem('summer_study_notes', JSON.stringify(userNotes));
+        }
+
+        function saveCompletedToLocalStorage() {
+            localStorage.setItem('summer_study_completed_main', JSON.stringify(completedSessions));
+            localStorage.setItem('summer_study_completed_sub', JSON.stringify(completedSubtasks));
+            calculateStreaks();
+            updateStreakDisplay();
+        }
+
+        function saveWaterToLocalStorage() {
+            localStorage.setItem('summer_study_water', JSON.stringify(waterIntake));
+        }
+
+        // Process data, group into weeks
+        function processDataAndWeeks() {
+            // Sort database by Date ascending
+            timetableData.sort((a, b) => a.date.localeCompare(b.date));
+
+            // Group by Week Monday-Sunday
+            const dates = [...new Set(timetableData.map(item => item.date))].sort();
+            
+            let weeksMap = {};
+            
+            dates.forEach(dateStr => {
+                const dateObj = new Date(dateStr);
+                // Get Monday of that week
+                const day = dateObj.getDay(); // 0 is Sun, 1-6 Mon-Sat
+                const diff = dateObj.getDate() - day + (day === 0 ? -6 : 1); // adjust when day is sunday
+                const mondayObj = new Date(dateObj.setDate(diff));
+                const mondayStr = mondayObj.toISOString().split('T')[0];
+                
+                if (!weeksMap[mondayStr]) {
+                    weeksMap[mondayStr] = [];
+                }
+                weeksMap[mondayStr].push(dateStr);
+            });
+
+            const sortedMondays = Object.keys(weeksMap).sort();
+            weeksArray = sortedMondays.map((mondayStr, index) => {
+                const weekDates = weeksMap[mondayStr].sort();
+                const startFmt = formatDateStringSimple(weekDates[0]);
+                const endFmt = formatDateStringSimple(weekDates[weekDates.length - 1]);
+                return {
+                    weekIndex: index,
+                    title: `Tuần ${index + 1} (${startFmt} - ${endFmt})`,
+                    dates: weekDates,
+                    mondayDate: mondayStr
+                };
+            });
+
+            if (weeksArray.length === 0) {
+                weeksArray = [{
+                    weekIndex: 0,
+                    title: "Chưa có dữ liệu",
+                    dates: [],
+                    mondayDate: ""
+                }];
+            }
+        }
+
+        function formatDateStringSimple(dateStr) {
+            if (!dateStr) return "";
+            const parts = dateStr.split('-');
+            if (parts.length < 3) return dateStr;
+            return `${parts[2]}/${parts[1]}`;
+        }
+
+        function findWeekIndexForDate(dateStr) {
+            for (let i = 0; i < weeksArray.length; i++) {
+                if (weeksArray[i].dates.includes(dateStr)) {
+                    return i;
+                }
+            }
+            return 0;
+        }
+
+        // Change Active Week
+        function changeWeek(direction) {
+            const nextIdx = activeWeekIndex + direction;
+            if (nextIdx >= 0 && nextIdx < weeksArray.length) {
+                activeWeekIndex = nextIdx;
+                // Auto select first day of new week
+                const newWeek = weeksArray[activeWeekIndex];
+                if (newWeek && newWeek.dates.length > 0) {
+                    selectDate(newWeek.dates[0]);
+                }
+            }
+        }
+
+        // UI rendering for the slider
+        function renderDayTabs() {
+            const tabContainer = document.getElementById('day-tabs');
+            tabContainer.innerHTML = '';
+            
+            const activeWeek = weeksArray[activeWeekIndex];
+            if (!activeWeek || !activeWeek.dates) return;
+
+            activeWeek.dates.forEach(dateStr => {
+                const isSelected = (dateStr === selectedDate);
+                const dayItems = timetableData.filter(i => i.date === dateStr);
+                const isToday = (dateStr === getFormattedToday());
+                const isPast = isPastDate(dateStr);
+                
+                let completionClass = "";
+                let checkBadge = "";
+                
+                if (isPast) {
+                    // Passed days styled gray
+                    if (isSelected) {
+                        completionClass = "bg-slate-500 text-white shadow-md border border-slate-600";
+                    } else {
+                        completionClass = "bg-slate-200/60 text-slate-400 border border-slate-300 opacity-60 hover:bg-slate-200";
+                    }
+                    checkBadge = "🔒";
+                } else {
+                    completionClass = "bg-white text-slate-700 border border-slate-100 hover:bg-amber-50/50";
+                    if (dayItems.length > 0) {
+                        const completedCount = dayItems.filter(item => {
+                            const key = `${item.date}_${item.timeSlot}_${item.subject}`;
+                            return completedSessions[key] === true;
+                        }).length;
+                        
+                        if (completedCount === dayItems.length && dayItems.length > 0) {
+                            completionClass = isSelected 
+                                ? "bg-summerTeal text-white shadow-md shadow-sky-100" 
+                                : "bg-emerald-50 text-emerald-800 border border-emerald-200 hover:bg-emerald-100";
+                            checkBadge = "✨";
+                        } else if (completedCount > 0) {
+                            completionClass = isSelected 
+                                ? "bg-amber-500 text-white shadow-md shadow-amber-100" 
+                                : "bg-amber-50 text-amber-800 border border-amber-200 hover:bg-amber-100";
+                        } else {
+                            if (isSelected) {
+                                completionClass = "bg-gradient-to-r from-summerOrange to-amber-400 text-white shadow-md shadow-orange-100";
+                            }
+                        }
+                    } else {
+                        if (isSelected) {
+                            completionClass = "bg-slate-700 text-white shadow-md";
+                        }
+                    }
+                }
+
+                const dateObj = new Date(dateStr);
+                const dayOfWeekText = getDayOfWeekVietnamese(dateObj.getDay(), dateStr);
+                const dayNum = dateStr.split('-')[2];
+                const monthNum = dateStr.split('-')[1];
+
+                const tabBtn = document.createElement('button');
+                tabBtn.className = `flex-shrink-0 flex flex-col items-center justify-center w-16 py-3 rounded-2xl transition-all font-bold ${completionClass} relative overflow-hidden`;
+                tabBtn.onclick = () => selectDate(dateStr);
+                
+                // Today indicator dot
+                let todayDot = "";
+                if (isToday) {
+                    todayDot = `<span class="absolute top-1 right-1 w-2.5 h-2.5 bg-rose-500 border border-white rounded-full animate-pulse"></span>`;
+                }
+
+                tabBtn.innerHTML = `
+                    ${todayDot}
+                    <span class="text-[9px] uppercase tracking-wider opacity-80">${dayOfWeekText}</span>
+                    <span class="text-lg mt-0.5">${dayNum}/${monthNum}</span>
+                    <span class="text-[9px] mt-0.5">${checkBadge}</span>
+                `;
+                tabContainer.appendChild(tabBtn);
+            });
+
+            // Update Current Week Title
+            document.getElementById('current-week-title').innerText = activeWeek.title;
+        }
+
+        function getDayOfWeekVietnamese(dayInt, dateStr) {
+            const item = timetableData.find(i => i.date === dateStr);
+            if (item && item.dayOfWeek) {
+                return item.dayOfWeek.replace("Thứ ", "T").replace("Chủ Nhật", "CN");
+            }
+            switch (dayInt) {
+                case 0: return "CN";
+                case 1: return "T2";
+                case 2: return "T3";
+                case 3: return "T4";
+                case 4: return "T5";
+                case 5: return "T6";
+                case 6: return "T7";
+                default: return "T" + (dayInt + 1);
+            }
+        }
+
+        // Handle Date Selection
+        function selectDate(dateStr) {
+            selectedDate = dateStr;
+            renderDayTabs();
+
+            const dayItems = timetableData.filter(i => i.date === dateStr);
+            const dateObj = new Date(dateStr);
+            
+            const dayOfWeekFull = getDayOfWeekVietnameseFull(dateObj.getDay(), dateStr);
+            const formattedDate = dateStr.split('-').reverse().join('/');
+            
+            document.getElementById('selected-day-label').innerText = `Hôm nay • ${dayOfWeekFull} ${formattedDate}`;
+            
+            const titles = [
+                "Cùng bứt phá hôm nay nào! 🏄‍♂️",
+                "Chăm chỉ học tập, gặt hái ước mơ! 🌴",
+                "Mỗi bước đi nhỏ là một nỗ lực lớn! 🌊",
+                "Không sợ bài khó, chỉ sợ không kiên trì! 🍍",
+                "Mát mẻ sảng khoái, làm bài hăng hái! 🍧",
+                "Quyết tâm chinh phục mục tiêu IELTS! 🚀",
+                "Năng lượng bùng nổ ngày hè! 🦩"
+            ];
+            const randomTitle = titles[Math.abs(hashString(dateStr)) % titles.length];
+            
+            const isPast = isPastDate(dateStr);
+            if (isPast) {
+                document.getElementById('selected-day-title').innerText = "Xem lại ngày đã qua 📚🔒";
+            } else {
+                document.getElementById('selected-day-title').innerText = randomTitle;
+            }
+
+            document.getElementById('total-tasks-badge').innerText = `${dayItems.length} ca học trong ngày`;
+            
+            // Lock or unlock Notes area
+            const notesEl = document.getElementById('day-notes');
+            notesEl.value = userNotes[dateStr] || "";
+            if (isPast) {
+                notesEl.setAttribute('readonly', 'true');
+                notesEl.className = "w-full bg-slate-100 border border-slate-200 rounded-xl p-3 text-sm focus:outline-none text-slate-500 cursor-not-allowed";
+                document.getElementById('notes-status-text').innerHTML = `<i data-lucide="lock" class="w-3.5 h-3.5 inline mr-1 text-slate-400"></i> Nhật ký đã lưu (Không thể sửa)`;
+            } else {
+                notesEl.removeAttribute('readonly');
+                notesEl.className = "w-full bg-white/50 border border-amber-100 rounded-xl p-3 text-sm focus:outline-none focus:ring-2 focus:ring-summerOrange transition-all";
+                document.getElementById('notes-status-text').innerHTML = `<i data-lucide="check" class="w-3 h-3 inline"></i> Đã lưu`;
+            }
+
+            renderTimeline(dayItems);
+            updateProgressPercentage(dayItems);
+            updateWaterSlots(); // update hydration tracker for currently selected day
+            lucide.createIcons();
+        }
+
+        function getDayOfWeekVietnameseFull(dayInt, dateStr) {
+            const item = timetableData.find(i => i.date === dateStr);
+            if (item && item.dayOfWeek) return item.dayOfWeek;
+            
+            const days = ["Chủ Nhật", "Thứ Hai", "Thứ Ba", "Thứ Tư", "Thứ Năm", "Thứ Sáu", "Thứ Bảy"];
+            return days[dayInt];
+        }
+
+        // Render detailed timeline task blocks
+        function renderTimeline(dayItems) {
+            const container = document.getElementById('task-timeline-container');
+            container.innerHTML = '';
+
+            if (dayItems.length === 0) {
+                container.innerHTML = `
+                    <div class="glass-card rounded-3xl p-8 text-center text-slate-500">
+                        <span class="text-4xl">🏝️</span>
+                        <h4 class="font-bold text-slate-700 mt-2">Ngày này không có lịch học!</h4>
+                        <p class="text-xs text-slate-400 mt-1">Hãy dành thời gian nghỉ ngơi, vui chơi giải trí lành mạnh mùa hè nhé.</p>
+                    </div>
+                `;
+                return;
+            }
+
+            const isPast = isPastDate(selectedDate);
+
+            dayItems.forEach((item, index) => {
+                const itemKey = `${item.date}_${item.timeSlot}_${item.subject}`;
+                const isCompleted = completedSessions[itemKey] === true;
+                const visual = getSubjectVisual(item.subject);
+                const subtasks = parseSubtasksFromSuggestion(item.suggestion, item.subject);
+
+                let subtasksHtml = '';
+                if (subtasks.length > 0) {
+                    subtasksHtml = `
+                        <div class="mt-4 pt-3 border-t border-slate-100/60">
+                            <h5 class="text-[11px] font-bold text-slate-400 uppercase tracking-wider mb-2">Tiến trình bài nhỏ:</h5>
+                            <div class="grid grid-cols-1 sm:grid-cols-2 gap-2">
+                    `;
+                    subtasks.forEach((sub, subIdx) => {
+                        const subKey = `${itemKey}_sub_${subIdx}`;
+                        const isSubChecked = completedSubtasks[subKey] === true;
+                        subtasksHtml += `
+                            <label class="flex items-start space-x-2 bg-slate-50/50 hover:bg-slate-100/50 p-2 rounded-xl border border-slate-100 cursor-pointer transition-all text-xs group">
+                                <input type="checkbox" 
+                                       onchange="toggleSubtask('${itemKey}', ${subIdx}, this)"
+                                       ${isSubChecked ? 'checked' : ''} 
+                                       ${isPast ? 'disabled' : ''}
+                                       class="mt-0.5 rounded text-summerTeal focus:ring-summerTeal border-slate-300 w-4.5 h-4.5 disabled:opacity-60 disabled:cursor-not-allowed">
+                                <span class="text-slate-600 transition-all select-none group-hover:text-slate-900 ${isSubChecked ? 'line-through opacity-50' : ''}">
+                                    ${sub}
+                                </span>
+                            </label>
+                        `;
+                    });
+                    subtasksHtml += `
+                            </div>
+                        </div>
+                    `;
+                }
+
+                const card = document.createElement('div');
+                
+                // Color customization for past card
+                let cardClass = "";
+                let checkButtonHtml = "";
+
+                if (isPast) {
+                    // Muted styling for past tasks
+                    cardClass = `glass-card rounded-3xl p-5 shadow-sm border-l-8 border-slate-300 opacity-80`;
+                    checkButtonHtml = `
+                        <div class="w-8 h-8 rounded-full border-2 border-slate-300 transition-all flex items-center justify-center text-slate-300 
+                                   ${isCompleted ? 'bg-slate-300 text-white' : ''}">
+                            <i data-lucide="${isCompleted ? 'check' : 'lock'}" class="w-4 h-4"></i>
+                        </div>
+                    `;
+                } else {
+                    cardClass = `glass-card rounded-3xl p-5 shadow-sm transition-all relative overflow-hidden ${isCompleted ? 'border-l-8 border-emerald-400 bg-white/95 shadow-emerald-50' : `border-l-8 ${visual.borderColor} hover:translate-x-1 hover:shadow-md`}`;
+                    checkButtonHtml = `
+                        <button onclick="toggleMainSession('${itemKey}')" 
+                                class="w-8 h-8 rounded-full border-2 transition-all flex items-center justify-center cursor-pointer 
+                                       ${isCompleted 
+                                         ? 'bg-emerald-500 border-emerald-500 text-white shadow-sm hover:bg-emerald-600' 
+                                         : 'border-slate-300 hover:border-summerOrange hover:bg-orange-50/50 text-transparent hover:text-orange-400'}">
+                            <i data-lucide="check" class="w-5 h-5"></i>
+                        </button>
+                    `;
+                }
+
+                card.className = cardClass;
+                card.innerHTML = `
+                    <div class="flex items-start justify-between gap-4">
+                        <div class="flex items-start space-x-3.5">
+                            <div class="w-11 h-11 rounded-2xl ${isPast ? 'bg-slate-100 text-slate-400' : `${visual.bgColor} ${visual.textColor}`} flex items-center justify-center text-xl font-bold flex-shrink-0">
+                                ${isPast ? '📁' : visual.icon}
+                            </div>
+                            <div>
+                                <div class="flex items-center space-x-2">
+                                    <span class="text-[11px] font-bold text-slate-400 uppercase tracking-wider">${item.timeSlot}</span>
+                                    <span class="w-1.5 h-1.5 rounded-full bg-slate-300"></span>
+                                    <span class="px-2 py-0.5 rounded-md text-[11px] font-bold ${isPast ? 'bg-slate-100 text-slate-500' : `${visual.bgColor} ${visual.textColor}`} uppercase tracking-wider">
+                                        ${item.subject}
+                                    </span>
+                                    ${isPast ? '<span class="text-[10px] text-slate-400 font-semibold flex items-center gap-0.5"><i data-lucide="lock" class="w-3 h-3"></i> Đã qua</span>' : ''}
+                                </div>
+                                <h4 class="font-bold text-slate-800 text-base mt-1.5 ${isCompleted ? 'line-through text-slate-400' : ''}">
+                                    ${item.subject}
+                                </h4>
+                                <p class="text-xs text-slate-500 mt-1 leading-relaxed ${isCompleted ? 'opacity-60' : ''}">
+                                    ${item.suggestion || 'Không có gợi ý chi tiết cho ca học này'}
+                                </p>
+                            </div>
+                        </div>
+                        <div class="flex-shrink-0">
+                            ${checkButtonHtml}
+                        </div>
+                    </div>
+                    ${subtasksHtml}
+                `;
+
+                container.appendChild(card);
+            });
+
+            lucide.createIcons();
+        }
+
+        // Help map subjects to colorful icons & designs
+        function getSubjectVisual(subject) {
+            const sj = (subject || "").toLowerCase();
+            if (sj.includes("toán")) {
+                return { icon: "🧮", bgColor: "bg-amber-100", textColor: "text-amber-700", borderColor: "border-amber-400" };
+            }
+            if (sj.includes("code") || sj.includes("lập trình")) {
+                return { icon: "💻", bgColor: "bg-emerald-100", textColor: "text-emerald-700", borderColor: "border-emerald-400" };
+            }
+            if (sj.includes("reading") || sj.includes("đọc")) {
+                return { icon: "📖", bgColor: "bg-indigo-100", textColor: "text-indigo-700", borderColor: "border-indigo-400" };
+            }
+            if (sj.includes("writing") || sj.includes("viết")) {
+                return { icon: "✍️", bgColor: "bg-rose-100", textColor: "text-rose-700", borderColor: "border-rose-400" };
+            }
+            if (sj.includes("listening") || sj.includes("nghe")) {
+                return { icon: "🎧", bgColor: "bg-sky-100", textColor: "text-sky-700", borderColor: "border-sky-400" };
+            }
+            if (sj.includes("speaking") || sj.includes("nói")) {
+                return { icon: "🗣️", bgColor: "bg-orange-100", textColor: "text-orange-700", borderColor: "border-orange-400" };
+            }
+            if (sj.includes("đgnl")) {
+                return { icon: "🧠", bgColor: "bg-purple-100", textColor: "text-purple-700", borderColor: "border-purple-400" };
+            }
+            if (sj.includes("tự do") || sj.includes("off") || sj.includes("nghỉ")) {
+                return { icon: "🌴", bgColor: "bg-teal-50 text-teal-800", textColor: "text-teal-700", borderColor: "border-teal-300" };
+            }
+            return { icon: "🌟", bgColor: "bg-slate-100", textColor: "text-slate-700", borderColor: "border-slate-300" };
+        }
+
+        // Subtasks parsing algorithms from file strings
+        function parseSubtasksFromSuggestion(suggestion, subject) {
+            if (!suggestion) return [];
+            
+            // For code tasks like "Bài 44 (10 phút) + Bài 45 (17 phút) + Bài 46 (6 phút)"
+            if (suggestion.includes("+") && (suggestion.includes("Bài") || suggestion.includes("bài"))) {
+                return suggestion.split("+").map(part => {
+                    let s = part.split("→")[0].split("->")[0].trim();
+                    return s;
+                }).filter(Boolean);
+            }
+
+            if (suggestion.includes(";")) {
+                return suggestion.split(";").map(s => s.trim()).filter(s => s.length > 5);
+            }
+
+            const sub = (subject || "").toLowerCase();
+            if (sub.includes("toán") || sub.includes("đgnl") || sub.includes("reading") || sub.includes("listening") || sub.includes("writing") || sub.includes("speaking")) {
+                return [
+                    "Bắt đầu học đúng giờ ⏱️",
+                    "Đọc hiểu lý thuyết & tài liệu 📚",
+                    "Luyện bài tập thực tế ✍️",
+                    "Rà soát lỗi sai & note sổ tay 📝"
+                ];
+            }
+
+            return [];
+        }
+
+        // Check/uncheck main task
+        function toggleMainSession(itemKey) {
+            if (isPastDate(selectedDate)) return; // Lock check in the past
+
+            const isNowCompleted = !completedSessions[itemKey];
+            completedSessions[itemKey] = isNowCompleted;
+
+            // Automatically check or uncheck all subtasks related to this session
+            const subCount = getSubtasksCountForSession(itemKey);
+            for (let i = 0; i < subCount; i++) {
+                completedSubtasks[`${itemKey}_sub_${i}`] = isNowCompleted;
+            }
+
+            saveCompletedToLocalStorage();
+            
+            const dayItems = timetableData.filter(i => i.date === selectedDate);
+            renderTimeline(dayItems);
+            updateProgressPercentage(dayItems);
+            renderDayTabs();
+
+            if (isNowCompleted) {
+                confetti({
+                    particleCount: 30,
+                    spread: 40,
+                    origin: { y: 0.8 },
+                    colors: ['#FFD07B', '#FF8A5B', '#4ECDC4']
+                });
+                
+                const dayCompleted = dayItems.every(i => completedSessions[`${i.date}_${i.timeSlot}_${i.subject}`] === true);
+                if (dayCompleted) {
+                    triggerMegaCelebration();
+                }
+            }
+        }
+
+        // Check/uncheck subtask
+        function toggleSubtask(itemKey, subIdx, checkboxEl) {
+            if (isPastDate(selectedDate)) return; // Lock in the past
+
+            const subKey = `${itemKey}_sub_${subIdx}`;
+            completedSubtasks[subKey] = checkboxEl.checked;
+
+            const subCount = getSubtasksCountForSession(itemKey);
+            let checkedSubs = 0;
+            for (let i = 0; i < subCount; i++) {
+                if (completedSubtasks[`${itemKey}_sub_${i}`] === true) checkedSubs++;
+            }
+
+            if (checkedSubs === subCount) {
+                completedSessions[itemKey] = true;
+            } else if (checkedSubs === 0) {
+                completedSessions[itemKey] = false;
+            }
+
+            saveCompletedToLocalStorage();
+            
+            const dayItems = timetableData.filter(i => i.date === selectedDate);
+            renderTimeline(dayItems);
+            updateProgressPercentage(dayItems);
+            renderDayTabs();
+        }
+
+        function getSubtasksCountForSession(itemKey) {
+            const item = timetableData.find(i => {
+                const k = `${i.date}_${i.timeSlot}_${i.subject}`;
+                return k === itemKey;
+            });
+            if (!item) return 0;
+            return parseSubtasksFromSuggestion(item.suggestion, item.subject).length;
+        }
+
+        // Circular progress calculation
+        function updateProgressPercentage(dayItems) {
+            if (dayItems.length === 0) {
+                setCircularProgress(0);
+                document.getElementById('all-done-badge').classList.add('hidden');
+                return;
+            }
+
+            const total = dayItems.length;
+            const completed = dayItems.filter(item => {
+                const key = `${item.date}_${item.timeSlot}_${item.subject}`;
+                return completedSessions[key] === true;
+            }).length;
+
+            const percentage = Math.round((completed / total) * 100);
+            setCircularProgress(percentage);
+
+            if (percentage === 100) {
+                document.getElementById('all-done-badge').classList.remove('hidden');
+            } else {
+                document.getElementById('all-done-badge').classList.add('hidden');
+            }
+        }
+
+        function setCircularProgress(percent) {
+            const circle = document.getElementById('progress-circle');
+            const percentText = document.getElementById('progress-percent');
+            
+            percentText.innerText = `${percent}%`;
+            
+            const offset = 251.2 - (percent / 100) * 251.2;
+            circle.style.strokeDashoffset = offset;
+        }
+
+        function triggerMegaCelebration() {
+            const duration = 2.5 * 1000;
+            const end = Date.now() + duration;
+
+            (function frame() {
+                confetti({
+                    particleCount: 4,
+                    angle: 60,
+                    spread: 55,
+                    origin: { x: 0 },
+                    colors: ['#FFD07B', '#FF8A5B', '#4ECDC4', '#2AB7CA']
+                });
+                confetti({
+                    particleCount: 4,
+                    angle: 120,
+                    spread: 55,
+                    origin: { x: 1 },
+                    colors: ['#FFD07B', '#FF8A5B', '#4ECDC4', '#2AB7CA']
+                });
+
+                if (Date.now() < end) {
+                    requestAnimationFrame(frame);
+                }
+            }());
+        }
+
+        // Daily notes logic
+        function saveDayNotes() {
+            if (isPastDate(selectedDate)) return; // Prevent saving to past days
+            const text = document.getElementById('day-notes').value;
+            userNotes[selectedDate] = text;
+            saveNotesToLocalStorage();
+        }
+
+        // Water Tracker interaction
+        function updateWaterSlots() {
+            const slotsContainer = document.getElementById('water-slots');
+            slotsContainer.innerHTML = '';
+
+            const currentWater = waterIntake[selectedDate] || 0;
+            const isPast = isPastDate(selectedDate);
+
+            document.getElementById('water-count').innerText = `${currentWater} / 8 cốc`;
+
+            // Display Lock badge if past
+            const lockBadge = document.getElementById('water-lock-badge');
+            if (isPast) {
+                lockBadge.classList.remove('hidden');
+            } else {
+                lockBadge.classList.add('hidden');
+            }
+
+            for (let i = 1; i <= 8; i++) {
+                const isActive = (i <= currentWater);
+                const cupBtn = document.createElement('button');
+                
+                // Muted gray cups for past days
+                let cupClass = "";
+                if (isPast) {
+                    cupClass = `w-7 h-9 rounded-b-lg border-2 flex flex-col justify-end items-center relative cursor-not-allowed overflow-hidden
+                        ${isActive 
+                          ? 'border-slate-400 bg-slate-200 shadow-sm' 
+                          : 'border-slate-200 bg-white'}`;
+                } else {
+                    cupClass = `w-7 h-9 rounded-b-lg border-2 transition-all flex flex-col justify-end items-center relative active:scale-95 cursor-pointer overflow-hidden
+                        ${isActive 
+                          ? 'border-sky-500 bg-sky-100 shadow-sm shadow-sky-100' 
+                          : 'border-slate-300 bg-white hover:border-sky-300'}`;
+                }
+
+                cupBtn.className = cupClass;
+                cupBtn.onclick = () => toggleWater(i);
+
+                let fillHtml = "";
+                if (isActive) {
+                    const fillBg = isPast ? 'bg-slate-400' : 'bg-sky-400';
+                    fillHtml = `<div class="w-full ${fillBg} absolute bottom-0 left-0 transition-all" style="height: ${60 + (i*5)}%"></div>`;
+                }
+
+                cupBtn.innerHTML = `
+                    ${fillHtml}
+                    <span class="z-10 text-[9px] font-bold ${isActive ? 'text-white' : 'text-slate-400'}">${i}</span>
+                `;
+                slotsContainer.appendChild(cupBtn);
+            }
+            lucide.createIcons();
+        }
+
+        function toggleWater(index) {
+            if (isPastDate(selectedDate)) return; // Prevent edit for past dates
+
+            const currentWater = waterIntake[selectedDate] || 0;
+
+            if (currentWater === index) {
+                waterIntake[selectedDate] = index - 1;
+            } else {
+                waterIntake[selectedDate] = index;
+            }
+
+            if (waterIntake[selectedDate] < 0) waterIntake[selectedDate] = 0;
+
+            saveWaterToLocalStorage();
+            updateWaterSlots();
+
+            if (waterIntake[selectedDate] > currentWater) {
+                confetti({
+                    particleCount: 10,
+                    spread: 20,
+                    origin: { y: 0.8 },
+                    colors: ['#2AB7CA', '#E0F7FA']
+                });
+            }
+        }
+
+        // Streak computation
+        function calculateStreaks() {
+            const dates = [...new Set(timetableData.map(item => item.date))].sort();
+            let currentStreak = 0;
+            
+            for (let i = 0; i < dates.length; i++) {
+                const d = dates[i];
+                const dayItems = timetableData.filter(item => item.date === d);
+                
+                const hasFinishedSomething = dayItems.some(item => {
+                    const key = `${item.date}_${item.timeSlot}_${item.subject}`;
+                    return completedSessions[key] === true;
+                });
+
+                if (hasFinishedSomething) {
+                    currentStreak++;
+                } else {
+                    if (d !== getFormattedToday()) {
+                        currentStreak = 0; 
+                    }
+                }
+            }
+            streakCount = currentStreak;
+        }
+
+        function updateStreakDisplay() {
+            document.getElementById('streak-count').innerText = `${streakCount} ngày liên tiếp`;
+            
+            let label = "Bắt đầu khởi động!";
+            if (streakCount >= 3) label = "Chăm ngoan! 🍦";
+            if (streakCount >= 7) label = "Chiến thần IELTS! 🚀";
+            if (streakCount >= 14) label = "Vô Địch Mùa Hè! 🔥";
+            
+            document.getElementById('streak-level').innerText = label;
+        }
+
+        // Random Motivation Quotes generator
+        function refreshMotivationQuote() {
+            const random = MOTIVATION_QUOTES[Math.floor(Math.random() * MOTIVATION_QUOTES.length)];
+            document.getElementById('motivation-quote').innerText = random.quote;
+            document.getElementById('motivation-emoji').innerText = random.emoji;
+        }
+
+        // Helper string hash for random selection
+        function hashString(str) {
+            let hash = 0;
+            for (let i = 0; i < str.length; i++) {
+                hash = str.charCodeAt(i) + ((hash << 5) - hash);
+            }
+            return hash;
+        }
+
+        // Modal full calendar interaction
+        function toggleCalendarModal(show) {
+            const modal = document.getElementById('calendar-modal');
+            const content = document.getElementById('modal-content');
+            if (show) {
+                modal.classList.remove('hidden');
+                setTimeout(() => {
+                    modal.classList.remove('opacity-0');
+                    content.classList.remove('translate-y-full');
+                }, 10);
+                renderModalCalendarList();
+            } else {
+                modal.classList.add('opacity-0');
+                content.classList.add('translate-y-full');
+                setTimeout(() => {
+                    modal.classList.add('hidden');
+                }, 300);
+            }
+        }
+
+        function renderModalCalendarList() {
+            const container = document.getElementById('modal-weeks-list');
+            container.innerHTML = '';
+
+            weeksArray.forEach(week => {
+                const weekCard = document.createElement('div');
+                weekCard.className = "border border-slate-100 rounded-2xl p-4 bg-slate-50/50 mb-3";
+                
+                let dayGrids = '';
+                week.dates.forEach(dateStr => {
+                    const isSelected = (dateStr === selectedDate);
+                    const dayItems = timetableData.filter(i => i.date === dateStr);
+                    const dateObj = new Date(dateStr);
+                    const dayName = getDayOfWeekVietnameseFull(dateObj.getDay(), dateStr);
+                    const fmtDate = dateStr.split('-').reverse().join('/');
+                    const isPast = isPastDate(dateStr);
+                    
+                    const completedCount = dayItems.filter(item => {
+                        const key = `${item.date}_${item.timeSlot}_${item.subject}`;
+                        return completedSessions[key] === true;
+                    }).length;
+                    
+                    let completionBadge = "";
+                    let rowBg = "";
+
+                    if (isPast) {
+                        rowBg = "bg-slate-100 hover:bg-slate-200/50 opacity-75";
+                        completionBadge = `<span class="text-slate-400 text-[10px] flex items-center gap-0.5"><i data-lucide="lock" class="w-3 h-3"></i> Đã qua</span>`;
+                    } else {
+                        rowBg = "bg-white hover:bg-slate-100/50";
+                        completionBadge = `<span class="text-slate-400 text-[10px]">${completedCount}/${dayItems.length} ca</span>`;
+                        if (dayItems.length > 0 && completedCount === dayItems.length) {
+                            completionBadge = `<span class="bg-emerald-100 text-emerald-800 text-[10px] font-bold px-2 py-0.5 rounded-full">✓ Xong</span>`;
+                            rowBg = "bg-emerald-50/40 hover:bg-emerald-50";
+                        }
+                    }
+
+                    let subjectBadges = '';
+                    dayItems.forEach(item => {
+                        const vis = getSubjectVisual(item.subject);
+                        subjectBadges += `<span class="inline-block text-[9px] px-1.5 py-0.5 rounded font-medium ${isPast ? 'bg-slate-200 text-slate-500' : `${vis.bgColor} ${vis.textColor}`} mr-1 my-0.5">${item.subject}</span>`;
+                    });
+
+                    dayGrids += `
+                        <div onclick="jumpToDateFromModal('${dateStr}')" 
+                             class="flex items-center justify-between p-2.5 rounded-xl border border-slate-100 cursor-pointer transition-all mt-1.5 ${rowBg} ${isSelected ? 'ring-2 ring-summerOrange' : ''}">
+                            <div class="flex-1">
+                                <div class="flex items-center gap-2">
+                                    <span class="text-xs font-bold text-slate-800">${dayName}</span>
+                                    <span class="text-[10px] text-slate-400 font-medium">${fmtDate}</span>
+                                </div>
+                                <div class="flex flex-wrap mt-1">
+                                    ${subjectBadges || '<span class="text-[10px] text-slate-400 italic">OFF</span>'}
+                                </div>
+                            </div>
+                            <div>
+                                ${completionBadge}
+                            </div>
+                        </div>
+                    `;
+                });
+
+                weekCard.innerHTML = `
+                    <h4 class="font-bold text-slate-800 text-xs mb-2 text-summerOrange flex items-center justify-between">
+                        <span>${week.title}</span>
+                        <span class="text-[10px] text-slate-400">Xem chi tiết</span>
+                    </h4>
+                    <div class="space-y-1">
+                        ${dayGrids}
+                    </div>
+                `;
+                container.appendChild(weekCard);
+            });
+            lucide.createIcons();
+        }
+
+        function jumpToDateFromModal(dateStr) {
+            selectedDate = dateStr;
+            activeWeekIndex = findWeekIndexForDate(dateStr);
+            selectDate(dateStr);
+            toggleCalendarModal(false);
+        }
+
+        function filterCalendarModal() {
+            const query = document.getElementById('modal-search').value.toLowerCase();
+            const cards = document.querySelectorAll('#modal-weeks-list > div');
+            
+            cards.forEach(card => {
+                const text = card.innerText.toLowerCase();
+                if (text.includes(query)) {
+                    card.classList.remove('hidden');
+                } else {
+                    card.classList.add('hidden');
+                }
+            });
+        }
+    </script>
+</body>
+</html>

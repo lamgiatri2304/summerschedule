@@ -1,0 +1,14 @@
+body{
+    background-image: url(./img/maybay.jpg);
+    background-size:cover;
+}
+h1{
+    visibility: visible; 
+    /* ẩn là hidden, hiện là visibility */
+}
+h2{
+    display:none;
+}
+h3{
+    opacity: 0.7;
+}

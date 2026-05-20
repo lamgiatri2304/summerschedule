@@ -1,0 +1,9 @@
+img{
+  transition: 1.5s;
+  border-radius: 15px;
+}
+input:checked ~ img{
+  /* display:none; */
+  opacity: 0;
+  /* visibility: hidden; */
+}
