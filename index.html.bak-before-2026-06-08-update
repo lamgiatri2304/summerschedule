@@ -972,89 +972,75 @@
           "date": "2026-06-08",
           "dayOfWeek": "Thứ Hai",
           "timeSlot": "8h-9h45",
+          "subject": "Toán",
+          "suggestion": "Học toán anh Kid"
+        },
+        {
+          "date": "2026-06-08",
+          "dayOfWeek": "Thứ Hai",
+          "timeSlot": "10h-11h",
           "subject": "code",
           "suggestion": "Bài 57 (19 phút) + Bài 58 (4 phút) + Bài 59 (6 phút) + Bài 60 (11 phút) → Tổng 40 phút"
         },
         {
           "date": "2026-06-08",
           "dayOfWeek": "Thứ Hai",
-          "timeSlot": "10h-11h",
-          "subject": "Speaking (learn vocab for topic)",
-          "suggestion": "Học collocations + idioms tự nhiên cho chủ đề 'City life'. Tạo ví dụ cá nhân hóa."
-        },
-        {
-          "date": "2026-06-08",
-          "dayOfWeek": "Thứ Hai",
           "timeSlot": "13h30-15h10",
-          "subject": "Read",
+          "subject": "Reading",
           "suggestion": "Làm 1 passage timed practice. Trọng tâm: Diagram/table completion. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-06-08",
           "dayOfWeek": "Thứ Hai",
           "timeSlot": "15h25-17h",
-          "subject": "Lý",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-06-08",
-          "dayOfWeek": "Thứ Hai",
-          "timeSlot": "17h30-19h",
-          "subject": "Hóa",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-06-08",
-          "dayOfWeek": "Thứ Hai",
-          "timeSlot": "19h-20h40",
           "subject": "Writing (task 1 book)",
           "suggestion": "Lesson 02: Static Charts (Continued)"
         },
         {
           "date": "2026-06-08",
           "dayOfWeek": "Thứ Hai",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
+          "timeSlot": "19h-20h40",
+          "subject": "Speaking (learn vocab for topic)",
+          "suggestion": "Học collocations + idioms tự nhiên cho chủ đề 'City life'. Tạo ví dụ cá nhân hóa."
         },
         {
           "date": "2026-06-08",
           "dayOfWeek": "Thứ Hai",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Tự do",
+          "suggestion": null
         },
         {
           "date": "2026-06-09",
           "dayOfWeek": "Thứ Ba",
           "timeSlot": "8h-9h45",
+          "subject": "ĐGNL",
+          "suggestion": "Tự ôn"
+        },
+        {
+          "date": "2026-06-09",
+          "dayOfWeek": "Thứ Ba",
+          "timeSlot": "10h-11h",
           "subject": "Speaking (xem sample answer)",
           "suggestion": "Nghe và phân tích sample answer Band 7.5+ chủ đề 'Health & fitness'. Gạch structure và linking words."
         },
         {
           "date": "2026-06-09",
           "dayOfWeek": "Thứ Ba",
-          "timeSlot": "10h-11h",
+          "timeSlot": "13h30-15h10",
+          "subject": "Toán",
+          "suggestion": "Học toán anh Kid"
+        },
+        {
+          "date": "2026-06-09",
+          "dayOfWeek": "Thứ Ba",
+          "timeSlot": "15h25-17h",
           "subject": "Listening",
           "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Section 1 form completion. Nghe lại transcript và shadowing 5-10 phút."
         },
         {
           "date": "2026-06-09",
           "dayOfWeek": "Thứ Ba",
-          "timeSlot": "13h30-15h10",
-          "subject": "Toán",
-          "suggestion": "Học toán anh Kid"
-        },
-        {
-          "date": "2026-06-09",
-          "dayOfWeek": "Thứ Ba",
-          "timeSlot": "15h25-17h",
-          "subject": "Writing (task 1)",
-          "suggestion": "Task 1 – Line graph — viết 150-190 từ, tập overview và so sánh số liệu."
-        },
-        {
-          "date": "2026-06-09",
-          "dayOfWeek": "Thứ Ba",
           "timeSlot": "19h-20h40",
           "subject": "Writing (task 1)",
           "suggestion": "Task 1 – Line graph — viết 150-190 từ, tập overview và so sánh số liệu."
@@ -1062,100 +1048,79 @@
         {
           "date": "2026-06-09",
           "dayOfWeek": "Thứ Ba",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-06-09",
-          "dayOfWeek": "Thứ Ba",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Writing (task 1)",
+          "suggestion": "Task 1 – Line graph — viết 150-190 từ, tập overview và so sánh số liệu."
         },
         {
           "date": "2026-06-10",
           "dayOfWeek": "Thứ Tư",
           "timeSlot": "8h-9h45",
-          "subject": "OFF",
-          "suggestion": "Nghỉ ngơi"
+          "subject": "Toán",
+          "suggestion": "Học toán anh Kid"
         },
         {
           "date": "2026-06-10",
           "dayOfWeek": "Thứ Tư",
           "timeSlot": "10h-11h",
+          "subject": "code",
+          "suggestion": "Bài 61 (9 phút) + Bài 62 (9 phút) + Bài 63 (8 phút) + Bài 64 (9 phút) → Tổng 35 phút"
+        },
+        {
+          "date": "2026-06-10",
+          "dayOfWeek": "Thứ Tư",
+          "timeSlot": "13h30-15h10",
+          "subject": "ĐGNL",
+          "suggestion": "Tự ôn"
+        },
+        {
+          "date": "2026-06-10",
+          "dayOfWeek": "Thứ Tư",
+          "timeSlot": "15h25-17h",
           "subject": "Speaking (part 1)",
           "suggestion": "Luyện Speaking Part 1 chủ đề 'Travel experience'. Trả lời 15-20 giây/câu, thêm reason + example."
         },
         {
           "date": "2026-06-10",
           "dayOfWeek": "Thứ Tư",
-          "timeSlot": "13h30-15h10",
+          "timeSlot": "19h-20h40",
           "subject": "Listening",
           "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Map labelling. Nghe lại transcript và shadowing 5-10 phút."
         },
         {
           "date": "2026-06-10",
           "dayOfWeek": "Thứ Tư",
-          "timeSlot": "15h25-17h",
-          "subject": "Lý",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-06-10",
-          "dayOfWeek": "Thứ Tư",
-          "timeSlot": "17h30-19h",
-          "subject": "Hóa",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-06-10",
-          "dayOfWeek": "Thứ Tư",
-          "timeSlot": "19h-20h40",
+          "timeSlot": "20h55-22h30",
           "subject": "Reading",
           "suggestion": "Làm 1 passage timed practice. Trọng tâm: Matching headings. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
-        },
-        {
-          "date": "2026-06-10",
-          "dayOfWeek": "Thứ Tư",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-06-10",
-          "dayOfWeek": "Thứ Tư",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
         },
         {
           "date": "2026-06-11",
           "dayOfWeek": "Thứ Năm",
           "timeSlot": "8h-9h45",
-          "subject": "code",
-          "suggestion": "Bài 61 (9 phút) + Bài 62 (9 phút) + Bài 63 (8 phút) + Bài 64 (9 phút) → Tổng 35 phút"
+          "subject": "ĐGNL",
+          "suggestion": "Tự ôn"
         },
         {
           "date": "2026-06-11",
           "dayOfWeek": "Thứ Năm",
           "timeSlot": "10h-11h",
-          "subject": "Speaking (part 2)",
-          "suggestion": "Luyện cue card về 'Dreams'. Nói đủ gần 2 phút, dùng timeline past-present-future."
+          "subject": "code",
+          "suggestion": "Bài 65 (9 phút) + Bài 66 (9 phút) + Bài 67 (6 phút) + Bài 68 (6 phút) → Tổng 30 phút"
         },
         {
           "date": "2026-06-11",
           "dayOfWeek": "Thứ Năm",
           "timeSlot": "13h30-15h10",
-          "subject": "Toán",
-          "suggestion": "Học toán anh Kid"
+          "subject": "Listening",
+          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Multiple choice traps. Nghe lại transcript và shadowing 5-10 phút."
         },
         {
           "date": "2026-06-11",
           "dayOfWeek": "Thứ Năm",
           "timeSlot": "15h25-17h",
-          "subject": "Listening",
-          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Multiple choice traps. Nghe lại transcript và shadowing 5-10 phút."
+          "subject": "Speaking (part 2)",
+          "suggestion": "Luyện cue card về 'Dreams'. Nói đủ gần 2 phút, dùng timeline past-present-future."
         },
         {
           "date": "2026-06-11",
@@ -1167,30 +1132,23 @@
         {
           "date": "2026-06-11",
           "dayOfWeek": "Thứ Năm",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-06-11",
-          "dayOfWeek": "Thứ Năm",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Tự do",
+          "suggestion": null
         },
         {
           "date": "2026-06-12",
           "dayOfWeek": "Thứ Sáu",
           "timeSlot": "8h-9h45",
-          "subject": "code",
-          "suggestion": "Bài 65 (9 phút) + Bài 66 (9 phút) + Bài 67 (6 phút) + Bài 68 (6 phút) → Tổng 30 phút"
+          "subject": "Toán",
+          "suggestion": "Học toán anh Kid"
         },
         {
           "date": "2026-06-12",
           "dayOfWeek": "Thứ Sáu",
           "timeSlot": "10h-11h",
-          "subject": "Speaking (part 3)",
-          "suggestion": "Luyện discussion Part 3 liên quan 'Pets'. Tập nêu opinion, compare và explain."
+          "subject": "code",
+          "suggestion": "Bài 69 (6 phút) + Bài 70 (10 phút) + Bài 71 (10 phút) + Bài 72 (11 phút) → Tổng 37 phút"
         },
         {
           "date": "2026-06-12",
@@ -1203,43 +1161,29 @@
           "date": "2026-06-12",
           "dayOfWeek": "Thứ Sáu",
           "timeSlot": "15h25-17h",
-          "subject": "Lý",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-06-12",
-          "dayOfWeek": "Thứ Sáu",
-          "timeSlot": "17h30-19h",
-          "subject": "Hóa",
-          "suggestion": "Học online"
+          "subject": "Speaking (part 3)",
+          "suggestion": "Luyện discussion Part 3 liên quan 'Pets'. Tập nêu opinion, compare và explain."
         },
         {
           "date": "2026-06-12",
           "dayOfWeek": "Thứ Sáu",
           "timeSlot": "19h-20h40",
-          "subject": "Writing (task 2)",
-          "suggestion": "Task 2 – Agree/Disagree – online learning vs classroom — viết 260-290 từ, focus thesis + coherence."
+          "subject": "Listening",
+          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Lecture note completion. Nghe lại transcript và shadowing 5-10 phút."
         },
         {
           "date": "2026-06-12",
           "dayOfWeek": "Thứ Sáu",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-06-12",
-          "dayOfWeek": "Thứ Sáu",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Reading",
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Multiple choice strategy. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-06-13",
           "dayOfWeek": "Thứ Bảy",
           "timeSlot": "8h-9h45",
-          "subject": "code",
-          "suggestion": "Bài 69 (6 phút) + Bài 70 (10 phút) + Bài 71 (10 phút) + Bài 72 (11 phút) → Tổng 37 phút"
+          "subject": "ĐGNL",
+          "suggestion": "Tự ôn"
         },
         {
           "date": "2026-06-13",
@@ -1252,41 +1196,34 @@
           "date": "2026-06-13",
           "dayOfWeek": "Thứ Bảy",
           "timeSlot": "13h30-15h10",
-          "subject": "Toán",
-          "suggestion": "Học toán anh Kid"
+          "subject": "Writing (task 2)",
+          "suggestion": "Task 2 – Agree/Disagree – online learning vs classroom — viết 260-290 từ, focus thesis + coherence."
         },
         {
           "date": "2026-06-13",
           "dayOfWeek": "Thứ Bảy",
           "timeSlot": "15h25-17h",
-          "subject": "Reading",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Multiple choice strategy. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
-        },
-        {
-          "date": "2026-06-13",
-          "dayOfWeek": "Thứ Bảy",
-          "timeSlot": "19h-20h40",
           "subject": "Writing (task 2)",
           "suggestion": "Task 2 – Agree/Disagree – environmental protection — viết 260-290 từ, focus thesis + coherence."
         },
         {
           "date": "2026-06-13",
           "dayOfWeek": "Thứ Bảy",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
+          "timeSlot": "19h-20h40",
+          "subject": "Reading",
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Skimming & scanning speed. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-06-13",
           "dayOfWeek": "Thứ Bảy",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Tự do",
+          "suggestion": null
         },
         {
           "date": "2026-06-14",
           "dayOfWeek": "Chủ nhật",
-          "timeSlot": "8h-11h",
+          "timeSlot": "8h-9h45",
           "subject": "OFF",
           "suggestion": "Nghỉ ngơi"
         },
@@ -1309,95 +1246,74 @@
           "dayOfWeek": "Chủ nhật",
           "timeSlot": "19h-20h40",
           "subject": "Reading",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Skimming & scanning speed. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Matching information. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-06-14",
           "dayOfWeek": "Chủ nhật",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-06-14",
-          "dayOfWeek": "Chủ nhật",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Tự do",
+          "suggestion": null
         },
         {
           "date": "2026-06-15",
           "dayOfWeek": "Thứ Hai",
           "timeSlot": "8h-9h45",
+          "subject": "Toán",
+          "suggestion": "Học toán anh Kid"
+        },
+        {
+          "date": "2026-06-15",
+          "dayOfWeek": "Thứ Hai",
+          "timeSlot": "10h-11h",
           "subject": "code",
           "suggestion": "Bài 73 (10 phút) + Bài 74 (6 phút) + Bài 75 (11 phút) + Bài 76 (6 phút) → Tổng 33 phút"
         },
         {
           "date": "2026-06-15",
           "dayOfWeek": "Thứ Hai",
-          "timeSlot": "10h-11h",
-          "subject": "Speaking (learn vocab for topic)",
-          "suggestion": "Học collocations + idioms tự nhiên cho chủ đề 'Environment'. Tạo ví dụ cá nhân hóa."
-        },
-        {
-          "date": "2026-06-15",
-          "dayOfWeek": "Thứ Hai",
           "timeSlot": "13h30-15h10",
-          "subject": "Read",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Matching information. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
+          "subject": "Reading",
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Sentence completion. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-06-15",
           "dayOfWeek": "Thứ Hai",
           "timeSlot": "15h25-17h",
-          "subject": "Lý",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-06-15",
-          "dayOfWeek": "Thứ Hai",
-          "timeSlot": "17h30-19h",
-          "subject": "Hóa",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-06-15",
-          "dayOfWeek": "Thứ Hai",
-          "timeSlot": "19h-20h40",
           "subject": "Writing (task 1 book)",
           "suggestion": "Lesson 03: Dynamic Charts"
         },
         {
           "date": "2026-06-15",
           "dayOfWeek": "Thứ Hai",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
+          "timeSlot": "19h-20h40",
+          "subject": "Speaking (learn vocab for topic)",
+          "suggestion": "Học collocations + idioms tự nhiên cho chủ đề 'Environment'. Tạo ví dụ cá nhân hóa."
         },
         {
           "date": "2026-06-15",
           "dayOfWeek": "Thứ Hai",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Tự do",
+          "suggestion": null
         },
         {
           "date": "2026-06-16",
           "dayOfWeek": "Thứ Ba",
           "timeSlot": "8h-9h45",
+          "subject": "ĐGNL",
+          "suggestion": "Tự ôn"
+        },
+        {
+          "date": "2026-06-16",
+          "dayOfWeek": "Thứ Ba",
+          "timeSlot": "10h-11h",
           "subject": "Speaking (xem sample answer)",
           "suggestion": "Nghe và phân tích sample answer Band 7.5+ chủ đề 'Encouraging someone'. Gạch structure và linking words."
         },
         {
           "date": "2026-06-16",
           "dayOfWeek": "Thứ Ba",
-          "timeSlot": "10h-11h",
-          "subject": "Listening",
-          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Lecture note completion. Nghe lại transcript và shadowing 5-10 phút."
-        },
-        {
-          "date": "2026-06-16",
-          "dayOfWeek": "Thứ Ba",
           "timeSlot": "13h30-15h10",
           "subject": "Toán",
           "suggestion": "Học toán anh Kid"
@@ -1406,8 +1322,8 @@
           "date": "2026-06-16",
           "dayOfWeek": "Thứ Ba",
           "timeSlot": "15h25-17h",
-          "subject": "Writing (task 1)",
-          "suggestion": "Task 1 – Line graph — viết 150-190 từ, tập overview và so sánh số liệu."
+          "subject": "Listening",
+          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Shadowing + transcript analysis. Nghe lại transcript và shadowing 5-10 phút."
         },
         {
           "date": "2026-06-16",
@@ -1419,135 +1335,107 @@
         {
           "date": "2026-06-16",
           "dayOfWeek": "Thứ Ba",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-06-16",
-          "dayOfWeek": "Thứ Ba",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Writing (task 1)",
+          "suggestion": "Task 1 – Line graph — viết 150-190 từ, tập overview và so sánh số liệu."
         },
         {
           "date": "2026-06-17",
           "dayOfWeek": "Thứ Tư",
           "timeSlot": "8h-9h45",
-          "subject": "OFF",
-          "suggestion": "Nghỉ ngơi"
+          "subject": "Toán",
+          "suggestion": "Học toán anh Kid"
         },
         {
           "date": "2026-06-17",
           "dayOfWeek": "Thứ Tư",
           "timeSlot": "10h-11h",
+          "subject": "code",
+          "suggestion": "Bài 77 (23 phút) + Bài 78 (9 phút) → Tổng 32 phút"
+        },
+        {
+          "date": "2026-06-17",
+          "dayOfWeek": "Thứ Tư",
+          "timeSlot": "13h30-15h10",
+          "subject": "ĐGNL",
+          "suggestion": "Tự ôn"
+        },
+        {
+          "date": "2026-06-17",
+          "dayOfWeek": "Thứ Tư",
+          "timeSlot": "15h25-17h",
           "subject": "Speaking (part 1)",
           "suggestion": "Luyện Speaking Part 1 chủ đề 'Problem solving'. Trả lời 15-20 giây/câu, thêm reason + example."
         },
         {
           "date": "2026-06-17",
           "dayOfWeek": "Thứ Tư",
-          "timeSlot": "13h30-15h10",
-          "subject": "Listening",
-          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Shadowing + transcript analysis. Nghe lại transcript và shadowing 5-10 phút."
-        },
-        {
-          "date": "2026-06-17",
-          "dayOfWeek": "Thứ Tư",
-          "timeSlot": "15h25-17h",
-          "subject": "Lý",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-06-17",
-          "dayOfWeek": "Thứ Tư",
-          "timeSlot": "17h30-19h",
-          "subject": "Hóa",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-06-17",
-          "dayOfWeek": "Thứ Tư",
           "timeSlot": "19h-20h40",
-          "subject": "Reading",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Sentence completion. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
-        },
-        {
-          "date": "2026-06-17",
-          "dayOfWeek": "Thứ Tư",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-06-17",
-          "dayOfWeek": "Thứ Tư",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-06-18",
-          "dayOfWeek": "Thứ Năm",
-          "timeSlot": "8h-9h45",
-          "subject": "code",
-          "suggestion": "Bài 77 (23 phút) + Bài 78 (9 phút) → Tổng 32 phút"
-        },
-        {
-          "date": "2026-06-18",
-          "dayOfWeek": "Thứ Năm",
-          "timeSlot": "10h-11h",
-          "subject": "Speaking (part 2)",
-          "suggestion": "Luyện cue card về 'Social media'. Nói đủ gần 2 phút, dùng timeline past-present-future."
-        },
-        {
-          "date": "2026-06-18",
-          "dayOfWeek": "Thứ Năm",
-          "timeSlot": "13h30-15h10",
-          "subject": "Toán",
-          "suggestion": "Học toán anh Kid"
-        },
-        {
-          "date": "2026-06-18",
-          "dayOfWeek": "Thứ Năm",
-          "timeSlot": "15h25-17h",
           "subject": "Listening",
           "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Section 1 form completion. Nghe lại transcript và shadowing 5-10 phút."
         },
         {
-          "date": "2026-06-18",
-          "dayOfWeek": "Thứ Năm",
-          "timeSlot": "19h-20h40",
+          "date": "2026-06-17",
+          "dayOfWeek": "Thứ Tư",
+          "timeSlot": "20h55-22h30",
           "subject": "Reading",
           "suggestion": "Làm 1 passage timed practice. Trọng tâm: T/F/NG + paraphrase tracking. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-06-18",
           "dayOfWeek": "Thứ Năm",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
+          "timeSlot": "8h-9h45",
+          "subject": "ĐGNL",
+          "suggestion": "Tự ôn"
         },
         {
           "date": "2026-06-18",
           "dayOfWeek": "Thứ Năm",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "10h-11h",
+          "subject": "code",
+          "suggestion": "Bài 79 (16 phút) + Bài 80 (8 phút) + Bài 81 (6 phút) → Tổng 30 phút"
+        },
+        {
+          "date": "2026-06-18",
+          "dayOfWeek": "Thứ Năm",
+          "timeSlot": "13h30-15h10",
+          "subject": "Listening",
+          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Map labelling. Nghe lại transcript và shadowing 5-10 phút."
+        },
+        {
+          "date": "2026-06-18",
+          "dayOfWeek": "Thứ Năm",
+          "timeSlot": "15h25-17h",
+          "subject": "Speaking (part 2)",
+          "suggestion": "Luyện cue card về 'Social media'. Nói đủ gần 2 phút, dùng timeline past-present-future."
+        },
+        {
+          "date": "2026-06-18",
+          "dayOfWeek": "Thứ Năm",
+          "timeSlot": "19h-20h40",
+          "subject": "Reading",
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Matching headings. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
+        },
+        {
+          "date": "2026-06-18",
+          "dayOfWeek": "Thứ Năm",
+          "timeSlot": "20h55-22h30",
+          "subject": "Tự do",
+          "suggestion": null
         },
         {
           "date": "2026-06-19",
           "dayOfWeek": "Thứ Sáu",
           "timeSlot": "8h-9h45",
-          "subject": "code",
-          "suggestion": "Bài 79 (16 phút) + Bài 80 (8 phút) + Bài 81 (6 phút) → Tổng 30 phút"
+          "subject": "Toán",
+          "suggestion": "Học toán anh Kid"
         },
         {
           "date": "2026-06-19",
           "dayOfWeek": "Thứ Sáu",
           "timeSlot": "10h-11h",
-          "subject": "Speaking (part 3)",
-          "suggestion": "Luyện discussion Part 3 liên quan 'Proud moment'. Tập nêu opinion, compare và explain."
+          "subject": "code",
+          "suggestion": "Bài 82 (7 phút) + Bài 83 (11 phút) + Bài 84 (11 phút) + Bài 85 (8 phút) → Tổng 37 phút"
         },
         {
           "date": "2026-06-19",
@@ -1560,43 +1448,29 @@
           "date": "2026-06-19",
           "dayOfWeek": "Thứ Sáu",
           "timeSlot": "15h25-17h",
-          "subject": "Lý",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-06-19",
-          "dayOfWeek": "Thứ Sáu",
-          "timeSlot": "17h30-19h",
-          "subject": "Hóa",
-          "suggestion": "Học online"
+          "subject": "Speaking (part 3)",
+          "suggestion": "Luyện discussion Part 3 liên quan 'Proud moment'. Tập nêu opinion, compare và explain."
         },
         {
           "date": "2026-06-19",
           "dayOfWeek": "Thứ Sáu",
           "timeSlot": "19h-20h40",
-          "subject": "Writing (task 2)",
-          "suggestion": "Task 2 – Agree/Disagree – remote work culture — viết 260-290 từ, focus thesis + coherence."
+          "subject": "Listening",
+          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Multiple choice traps. Nghe lại transcript và shadowing 5-10 phút."
         },
         {
           "date": "2026-06-19",
           "dayOfWeek": "Thứ Sáu",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-06-19",
-          "dayOfWeek": "Thứ Sáu",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Reading",
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Summary completion. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-06-20",
           "dayOfWeek": "Thứ Bảy",
           "timeSlot": "8h-9h45",
-          "subject": "code",
-          "suggestion": "Bài 82 (7 phút) + Bài 83 (11 phút) + Bài 84 (11 phút) + Bài 85 (8 phút) → Tổng 37 phút"
+          "subject": "ĐGNL",
+          "suggestion": "Tự ôn"
         },
         {
           "date": "2026-06-20",
@@ -1609,41 +1483,34 @@
           "date": "2026-06-20",
           "dayOfWeek": "Thứ Bảy",
           "timeSlot": "13h30-15h10",
-          "subject": "Toán",
-          "suggestion": "Học toán anh Kid"
+          "subject": "Writing (task 2)",
+          "suggestion": "Task 2 – Agree/Disagree – remote work culture — viết 260-290 từ, focus thesis + coherence."
         },
         {
           "date": "2026-06-20",
           "dayOfWeek": "Thứ Bảy",
           "timeSlot": "15h25-17h",
-          "subject": "Reading",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Matching headings. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
-        },
-        {
-          "date": "2026-06-20",
-          "dayOfWeek": "Thứ Bảy",
-          "timeSlot": "19h-20h40",
           "subject": "Writing (task 2)",
           "suggestion": "Task 2 – Agree/Disagree – crime among teenagers — viết 260-290 từ, focus thesis + coherence."
         },
         {
           "date": "2026-06-20",
           "dayOfWeek": "Thứ Bảy",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
+          "timeSlot": "19h-20h40",
+          "subject": "Reading",
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Multiple choice strategy. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-06-20",
           "dayOfWeek": "Thứ Bảy",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Tự do",
+          "suggestion": null
         },
         {
           "date": "2026-06-21",
           "dayOfWeek": "Chủ nhật",
-          "timeSlot": "8h-11h",
+          "timeSlot": "8h-9h45",
           "subject": "OFF",
           "suggestion": "Nghỉ ngơi"
         },
@@ -1666,95 +1533,74 @@
           "dayOfWeek": "Chủ nhật",
           "timeSlot": "19h-20h40",
           "subject": "Reading",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Summary completion. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Skimming & scanning speed. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-06-21",
           "dayOfWeek": "Chủ nhật",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-06-21",
-          "dayOfWeek": "Chủ nhật",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Tự do",
+          "suggestion": null
         },
         {
           "date": "2026-06-22",
           "dayOfWeek": "Thứ Hai",
           "timeSlot": "8h-9h45",
+          "subject": "Toán",
+          "suggestion": "Học toán anh Kid"
+        },
+        {
+          "date": "2026-06-22",
+          "dayOfWeek": "Thứ Hai",
+          "timeSlot": "10h-11h",
           "subject": "code",
           "suggestion": "Bài 86 (13 phút) + Bài 87.1 (8 phút) + Bài 87.2 (10 phút) → Tổng 31 phút"
         },
         {
           "date": "2026-06-22",
           "dayOfWeek": "Thứ Hai",
-          "timeSlot": "10h-11h",
-          "subject": "Speaking (learn vocab for topic)",
-          "suggestion": "Học collocations + idioms tự nhiên cho chủ đề 'Work/Study'. Tạo ví dụ cá nhân hóa."
-        },
-        {
-          "date": "2026-06-22",
-          "dayOfWeek": "Thứ Hai",
           "timeSlot": "13h30-15h10",
-          "subject": "Read",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Multiple choice strategy. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
+          "subject": "Reading",
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Matching information. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-06-22",
           "dayOfWeek": "Thứ Hai",
           "timeSlot": "15h25-17h",
-          "subject": "Lý",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-06-22",
-          "dayOfWeek": "Thứ Hai",
-          "timeSlot": "17h30-19h",
-          "subject": "Hóa",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-06-22",
-          "dayOfWeek": "Thứ Hai",
-          "timeSlot": "19h-20h40",
           "subject": "Writing (task 1 book)",
           "suggestion": "Lesson 04: Dynamic Charts (Continued)"
         },
         {
           "date": "2026-06-22",
           "dayOfWeek": "Thứ Hai",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
+          "timeSlot": "19h-20h40",
+          "subject": "Speaking (learn vocab for topic)",
+          "suggestion": "Học collocations + idioms tự nhiên cho chủ đề 'Work/Study'. Tạo ví dụ cá nhân hóa."
         },
         {
           "date": "2026-06-22",
           "dayOfWeek": "Thứ Hai",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Tự do",
+          "suggestion": null
         },
         {
           "date": "2026-06-23",
           "dayOfWeek": "Thứ Ba",
           "timeSlot": "8h-9h45",
+          "subject": "ĐGNL",
+          "suggestion": "Tự ôn"
+        },
+        {
+          "date": "2026-06-23",
+          "dayOfWeek": "Thứ Ba",
+          "timeSlot": "10h-11h",
           "subject": "Speaking (xem sample answer)",
           "suggestion": "Nghe và phân tích sample answer Band 7.5+ chủ đề 'Reading habits'. Gạch structure và linking words."
         },
         {
           "date": "2026-06-23",
           "dayOfWeek": "Thứ Ba",
-          "timeSlot": "10h-11h",
-          "subject": "Listening",
-          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Map labelling. Nghe lại transcript và shadowing 5-10 phút."
-        },
-        {
-          "date": "2026-06-23",
-          "dayOfWeek": "Thứ Ba",
           "timeSlot": "13h30-15h10",
           "subject": "Toán",
           "suggestion": "Học toán anh Kid"
@@ -1763,8 +1609,8 @@
           "date": "2026-06-23",
           "dayOfWeek": "Thứ Ba",
           "timeSlot": "15h25-17h",
-          "subject": "Writing (task 1)",
-          "suggestion": "Task 1 – Bar chart — viết 150-190 từ, tập overview và so sánh số liệu."
+          "subject": "Listening",
+          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Section 4 academic lecture. Nghe lại transcript và shadowing 5-10 phút."
         },
         {
           "date": "2026-06-23",
@@ -1776,135 +1622,107 @@
         {
           "date": "2026-06-23",
           "dayOfWeek": "Thứ Ba",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-06-23",
-          "dayOfWeek": "Thứ Ba",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Writing (task 1)",
+          "suggestion": "Task 1 – Bar chart — viết 150-190 từ, tập overview và so sánh số liệu."
         },
         {
           "date": "2026-06-24",
           "dayOfWeek": "Thứ Tư",
           "timeSlot": "8h-9h45",
-          "subject": "OFF",
-          "suggestion": "Nghỉ ngơi"
+          "subject": "Toán",
+          "suggestion": "Học toán anh Kid"
         },
         {
           "date": "2026-06-24",
           "dayOfWeek": "Thứ Tư",
           "timeSlot": "10h-11h",
+          "subject": "code",
+          "suggestion": "Bài 87.3 (7 phút) + Bài 87.4 (12 phút) + Bài 87.5 (8 phút) + Bài 87.6 (8 phút) → Tổng 35 phút"
+        },
+        {
+          "date": "2026-06-24",
+          "dayOfWeek": "Thứ Tư",
+          "timeSlot": "13h30-15h10",
+          "subject": "ĐGNL",
+          "suggestion": "Tự ôn"
+        },
+        {
+          "date": "2026-06-24",
+          "dayOfWeek": "Thứ Tư",
+          "timeSlot": "15h25-17h",
           "subject": "Speaking (part 1)",
           "suggestion": "Luyện Speaking Part 1 chủ đề 'Quiet place'. Trả lời 15-20 giây/câu, thêm reason + example."
         },
         {
           "date": "2026-06-24",
           "dayOfWeek": "Thứ Tư",
-          "timeSlot": "13h30-15h10",
-          "subject": "Listening",
-          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Multiple choice traps. Nghe lại transcript và shadowing 5-10 phút."
-        },
-        {
-          "date": "2026-06-24",
-          "dayOfWeek": "Thứ Tư",
-          "timeSlot": "15h25-17h",
-          "subject": "Lý",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-06-24",
-          "dayOfWeek": "Thứ Tư",
-          "timeSlot": "17h30-19h",
-          "subject": "Hóa",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-06-24",
-          "dayOfWeek": "Thứ Tư",
           "timeSlot": "19h-20h40",
+          "subject": "Listening",
+          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Shadowing + transcript analysis. Nghe lại transcript và shadowing 5-10 phút."
+        },
+        {
+          "date": "2026-06-24",
+          "dayOfWeek": "Thứ Tư",
+          "timeSlot": "20h55-22h30",
           "subject": "Reading",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Skimming & scanning speed. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
-        },
-        {
-          "date": "2026-06-24",
-          "dayOfWeek": "Thứ Tư",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-06-24",
-          "dayOfWeek": "Thứ Tư",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Diagram/table completion. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-06-25",
           "dayOfWeek": "Thứ Năm",
           "timeSlot": "8h-9h45",
-          "subject": "code",
-          "suggestion": "Bài 87.3 (7 phút) + Bài 87.4 (12 phút) + Bài 87.5 (8 phút) + Bài 87.6 (8 phút) → Tổng 35 phút"
+          "subject": "ĐGNL",
+          "suggestion": "Tự ôn"
         },
         {
           "date": "2026-06-25",
           "dayOfWeek": "Thứ Năm",
           "timeSlot": "10h-11h",
+          "subject": "code",
+          "suggestion": "Bài 88 (10 phút) + Bài 89.1 (9 phút) + Bài 89.2 (7 phút) + Bài 89.3 (11 phút) → Tổng 37 phút"
+        },
+        {
+          "date": "2026-06-25",
+          "dayOfWeek": "Thứ Năm",
+          "timeSlot": "13h30-15h10",
+          "subject": "Listening",
+          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Section 1 form completion. Nghe lại transcript và shadowing 5-10 phút."
+        },
+        {
+          "date": "2026-06-25",
+          "dayOfWeek": "Thứ Năm",
+          "timeSlot": "15h25-17h",
           "subject": "Speaking (part 2)",
           "suggestion": "Luyện cue card về 'Technology'. Nói đủ gần 2 phút, dùng timeline past-present-future."
         },
         {
           "date": "2026-06-25",
           "dayOfWeek": "Thứ Năm",
-          "timeSlot": "13h30-15h10",
-          "subject": "Toán",
-          "suggestion": "Học toán anh Kid"
-        },
-        {
-          "date": "2026-06-25",
-          "dayOfWeek": "Thứ Năm",
-          "timeSlot": "15h25-17h",
-          "subject": "Listening",
-          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Section 4 academic lecture. Nghe lại transcript và shadowing 5-10 phút."
-        },
-        {
-          "date": "2026-06-25",
-          "dayOfWeek": "Thứ Năm",
           "timeSlot": "19h-20h40",
           "subject": "Reading",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Matching information. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: T/F/NG + paraphrase tracking. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-06-25",
           "dayOfWeek": "Thứ Năm",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-06-25",
-          "dayOfWeek": "Thứ Năm",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Tự do",
+          "suggestion": null
         },
         {
           "date": "2026-06-26",
           "dayOfWeek": "Thứ Sáu",
           "timeSlot": "8h-9h45",
-          "subject": "code",
-          "suggestion": "Bài 88 (10 phút) + Bài 89.1 (9 phút) + Bài 89.2 (7 phút) + Bài 89.3 (11 phút) → Tổng 37 phút"
+          "subject": "Toán",
+          "suggestion": "Học toán anh Kid"
         },
         {
           "date": "2026-06-26",
           "dayOfWeek": "Thứ Sáu",
           "timeSlot": "10h-11h",
-          "subject": "Speaking (part 3)",
-          "suggestion": "Luyện discussion Part 3 liên quan 'Childhood activities'. Tập nêu opinion, compare và explain."
+          "subject": "code",
+          "suggestion": "Bài 89.4 (10 phút) + Bài 89.5 (15 phút) + Bài 89.6 (11 phút) → Tổng 36 phút"
         },
         {
           "date": "2026-06-26",
@@ -1917,43 +1735,29 @@
           "date": "2026-06-26",
           "dayOfWeek": "Thứ Sáu",
           "timeSlot": "15h25-17h",
-          "subject": "Lý",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-06-26",
-          "dayOfWeek": "Thứ Sáu",
-          "timeSlot": "17h30-19h",
-          "subject": "Hóa",
-          "suggestion": "Học online"
+          "subject": "Speaking (part 3)",
+          "suggestion": "Luyện discussion Part 3 liên quan 'Childhood activities'. Tập nêu opinion, compare và explain."
         },
         {
           "date": "2026-06-26",
           "dayOfWeek": "Thứ Sáu",
           "timeSlot": "19h-20h40",
-          "subject": "Writing (task 2)",
-          "suggestion": "Task 2 – Agree/Disagree – mental health awareness — viết 260-290 từ, focus thesis + coherence."
+          "subject": "Listening",
+          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Map labelling. Nghe lại transcript và shadowing 5-10 phút."
         },
         {
           "date": "2026-06-26",
           "dayOfWeek": "Thứ Sáu",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-06-26",
-          "dayOfWeek": "Thứ Sáu",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Reading",
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Matching headings. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-06-27",
           "dayOfWeek": "Thứ Bảy",
           "timeSlot": "8h-9h45",
-          "subject": "code",
-          "suggestion": "Bài 89.4 (10 phút) + Bài 89.5 (15 phút) + Bài 89.6 (11 phút) → Tổng 36 phút"
+          "subject": "ĐGNL",
+          "suggestion": "Tự ôn"
         },
         {
           "date": "2026-06-27",
@@ -1966,41 +1770,34 @@
           "date": "2026-06-27",
           "dayOfWeek": "Thứ Bảy",
           "timeSlot": "13h30-15h10",
-          "subject": "Toán",
-          "suggestion": "Học toán anh Kid"
+          "subject": "Writing (task 2)",
+          "suggestion": "Task 2 – Agree/Disagree – mental health awareness — viết 260-290 từ, focus thesis + coherence."
         },
         {
           "date": "2026-06-27",
           "dayOfWeek": "Thứ Bảy",
           "timeSlot": "15h25-17h",
-          "subject": "Reading",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Diagram/table completion. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
-        },
-        {
-          "date": "2026-06-27",
-          "dayOfWeek": "Thứ Bảy",
-          "timeSlot": "19h-20h40",
           "subject": "Writing (task 2)",
           "suggestion": "Task 2 – Agree/Disagree – screen time for children — viết 260-290 từ, focus thesis + coherence."
         },
         {
           "date": "2026-06-27",
           "dayOfWeek": "Thứ Bảy",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
+          "timeSlot": "19h-20h40",
+          "subject": "Reading",
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Summary completion. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-06-27",
           "dayOfWeek": "Thứ Bảy",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Tự do",
+          "suggestion": null
         },
         {
           "date": "2026-06-28",
           "dayOfWeek": "Chủ nhật",
-          "timeSlot": "8h-11h",
+          "timeSlot": "8h-9h45",
           "subject": "OFF",
           "suggestion": "Nghỉ ngơi"
         },
@@ -2023,95 +1820,74 @@
           "dayOfWeek": "Chủ nhật",
           "timeSlot": "19h-20h40",
           "subject": "Reading",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: T/F/NG + paraphrase tracking. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Multiple choice strategy. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-06-28",
           "dayOfWeek": "Chủ nhật",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-06-28",
-          "dayOfWeek": "Chủ nhật",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Tự do",
+          "suggestion": null
         },
         {
           "date": "2026-06-29",
           "dayOfWeek": "Thứ Hai",
           "timeSlot": "8h-9h45",
+          "subject": "Toán",
+          "suggestion": "Học toán anh Kid"
+        },
+        {
+          "date": "2026-06-29",
+          "dayOfWeek": "Thứ Hai",
+          "timeSlot": "10h-11h",
           "subject": "code",
           "suggestion": "Bài 89.7 (8 phút) + Bài 89.8 (8 phút) + Bài 89.9 (14 phút) → Tổng 30 phút"
         },
         {
           "date": "2026-06-29",
           "dayOfWeek": "Thứ Hai",
-          "timeSlot": "10h-11h",
-          "subject": "Speaking (learn vocab for topic)",
-          "suggestion": "Học collocations + idioms tự nhiên cho chủ đề 'Travel experience'. Tạo ví dụ cá nhân hóa."
-        },
-        {
-          "date": "2026-06-29",
-          "dayOfWeek": "Thứ Hai",
           "timeSlot": "13h30-15h10",
-          "subject": "Read",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Matching headings. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
+          "subject": "Reading",
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Skimming & scanning speed. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-06-29",
           "dayOfWeek": "Thứ Hai",
           "timeSlot": "15h25-17h",
-          "subject": "Lý",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-06-29",
-          "dayOfWeek": "Thứ Hai",
-          "timeSlot": "17h30-19h",
-          "subject": "Hóa",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-06-29",
-          "dayOfWeek": "Thứ Hai",
-          "timeSlot": "19h-20h40",
           "subject": "Writing (task 1 book)",
           "suggestion": "Lesson 05: Map"
         },
         {
           "date": "2026-06-29",
           "dayOfWeek": "Thứ Hai",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
+          "timeSlot": "19h-20h40",
+          "subject": "Speaking (learn vocab for topic)",
+          "suggestion": "Học collocations + idioms tự nhiên cho chủ đề 'Travel experience'. Tạo ví dụ cá nhân hóa."
         },
         {
           "date": "2026-06-29",
           "dayOfWeek": "Thứ Hai",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Tự do",
+          "suggestion": null
         },
         {
           "date": "2026-06-30",
           "dayOfWeek": "Thứ Ba",
           "timeSlot": "8h-9h45",
+          "subject": "ĐGNL",
+          "suggestion": "Tự ôn"
+        },
+        {
+          "date": "2026-06-30",
+          "dayOfWeek": "Thứ Ba",
+          "timeSlot": "10h-11h",
           "subject": "Speaking (xem sample answer)",
           "suggestion": "Nghe và phân tích sample answer Band 7.5+ chủ đề 'Dreams'. Gạch structure và linking words."
         },
         {
           "date": "2026-06-30",
           "dayOfWeek": "Thứ Ba",
-          "timeSlot": "10h-11h",
-          "subject": "Listening",
-          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Shadowing + transcript analysis. Nghe lại transcript và shadowing 5-10 phút."
-        },
-        {
-          "date": "2026-06-30",
-          "dayOfWeek": "Thứ Ba",
           "timeSlot": "13h30-15h10",
           "subject": "Toán",
           "suggestion": "Học toán anh Kid"
@@ -2120,8 +1896,8 @@
           "date": "2026-06-30",
           "dayOfWeek": "Thứ Ba",
           "timeSlot": "15h25-17h",
-          "subject": "Writing (task 1)",
-          "suggestion": "Task 1 – Bar chart — viết 150-190 từ, tập overview và so sánh số liệu."
+          "subject": "Listening",
+          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Paraphrase recognition. Nghe lại transcript và shadowing 5-10 phút."
         },
         {
           "date": "2026-06-30",
@@ -2133,135 +1909,107 @@
         {
           "date": "2026-06-30",
           "dayOfWeek": "Thứ Ba",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-06-30",
-          "dayOfWeek": "Thứ Ba",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Writing (task 1)",
+          "suggestion": "Task 1 – Bar chart — viết 150-190 từ, tập overview và so sánh số liệu."
         },
         {
           "date": "2026-07-01",
           "dayOfWeek": "Thứ Tư",
           "timeSlot": "8h-9h45",
-          "subject": "OFF",
-          "suggestion": "Nghỉ ngơi"
+          "subject": "Toán",
+          "suggestion": "Học toán anh Kid"
         },
         {
           "date": "2026-07-01",
           "dayOfWeek": "Thứ Tư",
           "timeSlot": "10h-11h",
+          "subject": "code",
+          "suggestion": "Bài 89.10 (7 phút) + Bài 90.1 (6 phút) + Bài 90.2 (11 phút) → Tổng 24 phút"
+        },
+        {
+          "date": "2026-07-01",
+          "dayOfWeek": "Thứ Tư",
+          "timeSlot": "13h30-15h10",
+          "subject": "ĐGNL",
+          "suggestion": "Tự ôn"
+        },
+        {
+          "date": "2026-07-01",
+          "dayOfWeek": "Thứ Tư",
+          "timeSlot": "15h25-17h",
           "subject": "Speaking (part 1)",
           "suggestion": "Luyện Speaking Part 1 chủ đề 'Pets'. Trả lời 15-20 giây/câu, thêm reason + example."
         },
         {
           "date": "2026-07-01",
           "dayOfWeek": "Thứ Tư",
-          "timeSlot": "13h30-15h10",
-          "subject": "Listening",
-          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Section 1 form completion. Nghe lại transcript và shadowing 5-10 phút."
-        },
-        {
-          "date": "2026-07-01",
-          "dayOfWeek": "Thứ Tư",
-          "timeSlot": "15h25-17h",
-          "subject": "Lý",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-07-01",
-          "dayOfWeek": "Thứ Tư",
-          "timeSlot": "17h30-19h",
-          "subject": "Hóa",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-07-01",
-          "dayOfWeek": "Thứ Tư",
           "timeSlot": "19h-20h40",
+          "subject": "Listening",
+          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Section 4 academic lecture. Nghe lại transcript và shadowing 5-10 phút."
+        },
+        {
+          "date": "2026-07-01",
+          "dayOfWeek": "Thứ Tư",
+          "timeSlot": "20h55-22h30",
           "subject": "Reading",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Summary completion. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
-        },
-        {
-          "date": "2026-07-01",
-          "dayOfWeek": "Thứ Tư",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-07-01",
-          "dayOfWeek": "Thứ Tư",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Sentence completion. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-07-02",
           "dayOfWeek": "Thứ Năm",
           "timeSlot": "8h-9h45",
-          "subject": "code",
-          "suggestion": "Bài 89.10 (7 phút) + Bài 90.1 (6 phút) + Bài 90.2 (11 phút) → Tổng 24 phút"
+          "subject": "ĐGNL",
+          "suggestion": "Tự ôn"
         },
         {
           "date": "2026-07-02",
           "dayOfWeek": "Thứ Năm",
           "timeSlot": "10h-11h",
+          "subject": "code",
+          "suggestion": "Bài 90.3 (38 phút) → Tổng 38 phút"
+        },
+        {
+          "date": "2026-07-02",
+          "dayOfWeek": "Thứ Năm",
+          "timeSlot": "13h30-15h10",
+          "subject": "Listening",
+          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Shadowing + transcript analysis. Nghe lại transcript và shadowing 5-10 phút."
+        },
+        {
+          "date": "2026-07-02",
+          "dayOfWeek": "Thứ Năm",
+          "timeSlot": "15h25-17h",
           "subject": "Speaking (part 2)",
           "suggestion": "Luyện cue card về 'Sports team'. Nói đủ gần 2 phút, dùng timeline past-present-future."
         },
         {
           "date": "2026-07-02",
           "dayOfWeek": "Thứ Năm",
-          "timeSlot": "13h30-15h10",
-          "subject": "Toán",
-          "suggestion": "Học toán anh Kid"
-        },
-        {
-          "date": "2026-07-02",
-          "dayOfWeek": "Thứ Năm",
-          "timeSlot": "15h25-17h",
-          "subject": "Listening",
-          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Map labelling. Nghe lại transcript và shadowing 5-10 phút."
-        },
-        {
-          "date": "2026-07-02",
-          "dayOfWeek": "Thứ Năm",
           "timeSlot": "19h-20h40",
           "subject": "Reading",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Multiple choice strategy. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Diagram/table completion. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-07-02",
           "dayOfWeek": "Thứ Năm",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-07-02",
-          "dayOfWeek": "Thứ Năm",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Tự do",
+          "suggestion": null
         },
         {
           "date": "2026-07-03",
           "dayOfWeek": "Thứ Sáu",
           "timeSlot": "8h-9h45",
-          "subject": "code",
-          "suggestion": "Bài 90.3 (38 phút) → Tổng 38 phút"
+          "subject": "Toán",
+          "suggestion": "Học toán anh Kid"
         },
         {
           "date": "2026-07-03",
           "dayOfWeek": "Thứ Sáu",
           "timeSlot": "10h-11h",
-          "subject": "Speaking (part 3)",
-          "suggestion": "Luyện discussion Part 3 liên quan 'Food'. Tập nêu opinion, compare và explain."
+          "subject": "code",
+          "suggestion": "Bài 90.4 (49p)"
         },
         {
           "date": "2026-07-03",
@@ -2274,43 +2022,29 @@
           "date": "2026-07-03",
           "dayOfWeek": "Thứ Sáu",
           "timeSlot": "15h25-17h",
-          "subject": "Lý",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-07-03",
-          "dayOfWeek": "Thứ Sáu",
-          "timeSlot": "17h30-19h",
-          "subject": "Hóa",
-          "suggestion": "Học online"
+          "subject": "Speaking (part 3)",
+          "suggestion": "Luyện discussion Part 3 liên quan 'Food'. Tập nêu opinion, compare và explain."
         },
         {
           "date": "2026-07-03",
           "dayOfWeek": "Thứ Sáu",
           "timeSlot": "19h-20h40",
-          "subject": "Writing (task 2)",
-          "suggestion": "Task 2 – Agree/Disagree – public transport investment — viết 260-290 từ, focus thesis + coherence."
+          "subject": "Listening",
+          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Section 1 form completion. Nghe lại transcript và shadowing 5-10 phút."
         },
         {
           "date": "2026-07-03",
           "dayOfWeek": "Thứ Sáu",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-07-03",
-          "dayOfWeek": "Thứ Sáu",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Reading",
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: T/F/NG + paraphrase tracking. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-07-04",
           "dayOfWeek": "Thứ Bảy",
           "timeSlot": "8h-9h45",
-          "subject": "code",
-          "suggestion": "Bài 90.4 (49p)"
+          "subject": "ĐGNL",
+          "suggestion": "Tự ôn"
         },
         {
           "date": "2026-07-04",
@@ -2323,41 +2057,34 @@
           "date": "2026-07-04",
           "dayOfWeek": "Thứ Bảy",
           "timeSlot": "13h30-15h10",
-          "subject": "Toán",
-          "suggestion": "Học toán anh Kid"
+          "subject": "Writing (task 2)",
+          "suggestion": "Task 2 – Agree/Disagree – public transport investment — viết 260-290 từ, focus thesis + coherence."
         },
         {
           "date": "2026-07-04",
           "dayOfWeek": "Thứ Bảy",
           "timeSlot": "15h25-17h",
-          "subject": "Reading",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Skimming & scanning speed. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
-        },
-        {
-          "date": "2026-07-04",
-          "dayOfWeek": "Thứ Bảy",
-          "timeSlot": "19h-20h40",
           "subject": "Writing (task 2)",
           "suggestion": "Task 2 – Agree/Disagree – robots in society — viết 260-290 từ, focus thesis + coherence."
         },
         {
           "date": "2026-07-04",
           "dayOfWeek": "Thứ Bảy",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
+          "timeSlot": "19h-20h40",
+          "subject": "Reading",
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Matching headings. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-07-04",
           "dayOfWeek": "Thứ Bảy",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Tự do",
+          "suggestion": null
         },
         {
           "date": "2026-07-05",
           "dayOfWeek": "Chủ nhật",
-          "timeSlot": "8h-11h",
+          "timeSlot": "8h-9h45",
           "subject": "OFF",
           "suggestion": "Nghỉ ngơi"
         },
@@ -2380,95 +2107,74 @@
           "dayOfWeek": "Chủ nhật",
           "timeSlot": "19h-20h40",
           "subject": "Reading",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Sentence completion. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Summary completion. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-07-05",
           "dayOfWeek": "Chủ nhật",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-07-05",
-          "dayOfWeek": "Chủ nhật",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Tự do",
+          "suggestion": null
         },
         {
           "date": "2026-07-06",
           "dayOfWeek": "Thứ Hai",
           "timeSlot": "8h-9h45",
+          "subject": "Toán",
+          "suggestion": "Học toán anh Kid"
+        },
+        {
+          "date": "2026-07-06",
+          "dayOfWeek": "Thứ Hai",
+          "timeSlot": "10h-11h",
           "subject": "code",
           "suggestion": "Bài 90.5 (15p) + Bài 90.6 (22p) → 37p"
         },
         {
           "date": "2026-07-06",
           "dayOfWeek": "Thứ Hai",
-          "timeSlot": "10h-11h",
-          "subject": "Speaking (learn vocab for topic)",
-          "suggestion": "Học collocations + idioms tự nhiên cho chủ đề 'Problem solving'. Tạo ví dụ cá nhân hóa."
-        },
-        {
-          "date": "2026-07-06",
-          "dayOfWeek": "Thứ Hai",
           "timeSlot": "13h30-15h10",
-          "subject": "Read",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Diagram/table completion. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
+          "subject": "Reading",
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Multiple choice strategy. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-07-06",
           "dayOfWeek": "Thứ Hai",
           "timeSlot": "15h25-17h",
-          "subject": "Lý",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-07-06",
-          "dayOfWeek": "Thứ Hai",
-          "timeSlot": "17h30-19h",
-          "subject": "Hóa",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-07-06",
-          "dayOfWeek": "Thứ Hai",
-          "timeSlot": "19h-20h40",
           "subject": "Writing (task 1 book)",
           "suggestion": "Lesson 06: Process"
         },
         {
           "date": "2026-07-06",
           "dayOfWeek": "Thứ Hai",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
+          "timeSlot": "19h-20h40",
+          "subject": "Speaking (learn vocab for topic)",
+          "suggestion": "Học collocations + idioms tự nhiên cho chủ đề 'Problem solving'. Tạo ví dụ cá nhân hóa."
         },
         {
           "date": "2026-07-06",
           "dayOfWeek": "Thứ Hai",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Tự do",
+          "suggestion": null
         },
         {
           "date": "2026-07-07",
           "dayOfWeek": "Thứ Ba",
           "timeSlot": "8h-9h45",
+          "subject": "ĐGNL",
+          "suggestion": "Tự ôn"
+        },
+        {
+          "date": "2026-07-07",
+          "dayOfWeek": "Thứ Ba",
+          "timeSlot": "10h-11h",
           "subject": "Speaking (xem sample answer)",
           "suggestion": "Nghe và phân tích sample answer Band 7.5+ chủ đề 'Social media'. Gạch structure và linking words."
         },
         {
           "date": "2026-07-07",
           "dayOfWeek": "Thứ Ba",
-          "timeSlot": "10h-11h",
-          "subject": "Listening",
-          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Paraphrase recognition. Nghe lại transcript và shadowing 5-10 phút."
-        },
-        {
-          "date": "2026-07-07",
-          "dayOfWeek": "Thứ Ba",
           "timeSlot": "13h30-15h10",
           "subject": "Toán",
           "suggestion": "Học toán anh Kid"
@@ -2477,8 +2183,8 @@
           "date": "2026-07-07",
           "dayOfWeek": "Thứ Ba",
           "timeSlot": "15h25-17h",
-          "subject": "Writing (task 1)",
-          "suggestion": "Task 1 – Bar chart — viết 150-190 từ, tập overview và so sánh số liệu."
+          "subject": "Listening",
+          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Numbers & spelling accuracy. Nghe lại transcript và shadowing 5-10 phút."
         },
         {
           "date": "2026-07-07",
@@ -2490,135 +2196,107 @@
         {
           "date": "2026-07-07",
           "dayOfWeek": "Thứ Ba",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-07-07",
-          "dayOfWeek": "Thứ Ba",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Writing (task 1)",
+          "suggestion": "Task 1 – Bar chart — viết 150-190 từ, tập overview và so sánh số liệu."
         },
         {
           "date": "2026-07-08",
           "dayOfWeek": "Thứ Tư",
           "timeSlot": "8h-9h45",
-          "subject": "OFF",
-          "suggestion": "Nghỉ ngơi"
+          "subject": "Toán",
+          "suggestion": "Học toán anh Kid"
         },
         {
           "date": "2026-07-08",
           "dayOfWeek": "Thứ Tư",
           "timeSlot": "10h-11h",
+          "subject": "code",
+          "suggestion": "Bài 90.7 (9p) + Bài 90.8 (15p) + Bài 90.9 (6p) → 30p"
+        },
+        {
+          "date": "2026-07-08",
+          "dayOfWeek": "Thứ Tư",
+          "timeSlot": "13h30-15h10",
+          "subject": "ĐGNL",
+          "suggestion": "Tự ôn"
+        },
+        {
+          "date": "2026-07-08",
+          "dayOfWeek": "Thứ Tư",
+          "timeSlot": "15h25-17h",
           "subject": "Speaking (part 1)",
           "suggestion": "Luyện Speaking Part 1 chủ đề 'Proud moment'. Trả lời 15-20 giây/câu, thêm reason + example."
         },
         {
           "date": "2026-07-08",
           "dayOfWeek": "Thứ Tư",
-          "timeSlot": "13h30-15h10",
-          "subject": "Listening",
-          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Section 4 academic lecture. Nghe lại transcript và shadowing 5-10 phút."
-        },
-        {
-          "date": "2026-07-08",
-          "dayOfWeek": "Thứ Tư",
-          "timeSlot": "15h25-17h",
-          "subject": "Lý",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-07-08",
-          "dayOfWeek": "Thứ Tư",
-          "timeSlot": "17h30-19h",
-          "subject": "Hóa",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-07-08",
-          "dayOfWeek": "Thứ Tư",
           "timeSlot": "19h-20h40",
+          "subject": "Listening",
+          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Paraphrase recognition. Nghe lại transcript và shadowing 5-10 phút."
+        },
+        {
+          "date": "2026-07-08",
+          "dayOfWeek": "Thứ Tư",
+          "timeSlot": "20h55-22h30",
           "subject": "Reading",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: T/F/NG + paraphrase tracking. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
-        },
-        {
-          "date": "2026-07-08",
-          "dayOfWeek": "Thứ Tư",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-07-08",
-          "dayOfWeek": "Thứ Tư",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Matching information. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-07-09",
           "dayOfWeek": "Thứ Năm",
           "timeSlot": "8h-9h45",
-          "subject": "code",
-          "suggestion": "Bài 90.7 (9p) + Bài 90.8 (15p) + Bài 90.9 (6p) → 30p"
+          "subject": "ĐGNL",
+          "suggestion": "Tự ôn"
         },
         {
           "date": "2026-07-09",
           "dayOfWeek": "Thứ Năm",
           "timeSlot": "10h-11h",
+          "subject": "code",
+          "suggestion": "Bài 90.10 (13p) + Bài 90.11 (7p) + Bài 90.12 (20p) → 40p"
+        },
+        {
+          "date": "2026-07-09",
+          "dayOfWeek": "Thứ Năm",
+          "timeSlot": "13h30-15h10",
+          "subject": "Listening",
+          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Section 4 academic lecture. Nghe lại transcript và shadowing 5-10 phút."
+        },
+        {
+          "date": "2026-07-09",
+          "dayOfWeek": "Thứ Năm",
+          "timeSlot": "15h25-17h",
           "subject": "Speaking (part 2)",
           "suggestion": "Luyện cue card về 'Views & scenery'. Nói đủ gần 2 phút, dùng timeline past-present-future."
         },
         {
           "date": "2026-07-09",
           "dayOfWeek": "Thứ Năm",
-          "timeSlot": "13h30-15h10",
-          "subject": "Toán",
-          "suggestion": "Học toán anh Kid"
-        },
-        {
-          "date": "2026-07-09",
-          "dayOfWeek": "Thứ Năm",
-          "timeSlot": "15h25-17h",
-          "subject": "Listening",
-          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Shadowing + transcript analysis. Nghe lại transcript và shadowing 5-10 phút."
-        },
-        {
-          "date": "2026-07-09",
-          "dayOfWeek": "Thứ Năm",
           "timeSlot": "19h-20h40",
           "subject": "Reading",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Matching headings. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Sentence completion. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-07-09",
           "dayOfWeek": "Thứ Năm",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-07-09",
-          "dayOfWeek": "Thứ Năm",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Tự do",
+          "suggestion": null
         },
         {
           "date": "2026-07-10",
           "dayOfWeek": "Thứ Sáu",
           "timeSlot": "8h-9h45",
-          "subject": "code",
-          "suggestion": "Bài 90.10 (13p) + Bài 90.11 (7p) + Bài 90.12 (20p) → 40p"
+          "subject": "Toán",
+          "suggestion": "Học toán anh Kid"
         },
         {
           "date": "2026-07-10",
           "dayOfWeek": "Thứ Sáu",
           "timeSlot": "10h-11h",
-          "subject": "Speaking (part 3)",
-          "suggestion": "Luyện discussion Part 3 liên quan 'Daily routine'. Tập nêu opinion, compare và explain."
+          "subject": "code",
+          "suggestion": "Bài 90.13 (7p) + Bài 90.14 (22p) + Bài 91 (10p) → 39p"
         },
         {
           "date": "2026-07-10",
@@ -2631,43 +2309,29 @@
           "date": "2026-07-10",
           "dayOfWeek": "Thứ Sáu",
           "timeSlot": "15h25-17h",
-          "subject": "Lý",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-07-10",
-          "dayOfWeek": "Thứ Sáu",
-          "timeSlot": "17h30-19h",
-          "subject": "Hóa",
-          "suggestion": "Học online"
+          "subject": "Speaking (part 3)",
+          "suggestion": "Luyện discussion Part 3 liên quan 'Daily routine'. Tập nêu opinion, compare và explain."
         },
         {
           "date": "2026-07-10",
           "dayOfWeek": "Thứ Sáu",
           "timeSlot": "19h-20h40",
-          "subject": "Writing (task 2)",
-          "suggestion": "Task 2 – Agree/Disagree – housing shortage in cities — viết 260-290 từ, focus thesis + coherence."
+          "subject": "Listening",
+          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Shadowing + transcript analysis. Nghe lại transcript và shadowing 5-10 phút."
         },
         {
           "date": "2026-07-10",
           "dayOfWeek": "Thứ Sáu",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-07-10",
-          "dayOfWeek": "Thứ Sáu",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Reading",
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Diagram/table completion. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-07-11",
           "dayOfWeek": "Thứ Bảy",
           "timeSlot": "8h-9h45",
-          "subject": "code",
-          "suggestion": "Bài 90.13 (7p) + Bài 90.14 (22p) + Bài 91 (10p) → 39p"
+          "subject": "ĐGNL",
+          "suggestion": "Tự ôn"
         },
         {
           "date": "2026-07-11",
@@ -2680,41 +2344,34 @@
           "date": "2026-07-11",
           "dayOfWeek": "Thứ Bảy",
           "timeSlot": "13h30-15h10",
-          "subject": "Toán",
-          "suggestion": "Học toán anh Kid"
+          "subject": "Writing (task 2)",
+          "suggestion": "Task 2 – Agree/Disagree – housing shortage in cities — viết 260-290 từ, focus thesis + coherence."
         },
         {
           "date": "2026-07-11",
           "dayOfWeek": "Thứ Bảy",
           "timeSlot": "15h25-17h",
-          "subject": "Reading",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Summary completion. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
-        },
-        {
-          "date": "2026-07-11",
-          "dayOfWeek": "Thứ Bảy",
-          "timeSlot": "19h-20h40",
           "subject": "Writing (task 2)",
           "suggestion": "Task 2 – Agree/Disagree – work-life balance — viết 260-290 từ, focus thesis + coherence."
         },
         {
           "date": "2026-07-11",
           "dayOfWeek": "Thứ Bảy",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
+          "timeSlot": "19h-20h40",
+          "subject": "Reading",
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: T/F/NG + paraphrase tracking. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-07-11",
           "dayOfWeek": "Thứ Bảy",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Tự do",
+          "suggestion": null
         },
         {
           "date": "2026-07-12",
           "dayOfWeek": "Chủ nhật",
-          "timeSlot": "8h-11h",
+          "timeSlot": "8h-9h45",
           "subject": "OFF",
           "suggestion": "Nghỉ ngơi"
         },
@@ -2737,95 +2394,74 @@
           "dayOfWeek": "Chủ nhật",
           "timeSlot": "19h-20h40",
           "subject": "Reading",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Multiple choice strategy. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Matching headings. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-07-12",
           "dayOfWeek": "Chủ nhật",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-07-12",
-          "dayOfWeek": "Chủ nhật",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Tự do",
+          "suggestion": null
         },
         {
           "date": "2026-07-13",
           "dayOfWeek": "Thứ Hai",
           "timeSlot": "8h-9h45",
+          "subject": "Toán",
+          "suggestion": "Học toán anh Kid"
+        },
+        {
+          "date": "2026-07-13",
+          "dayOfWeek": "Thứ Hai",
+          "timeSlot": "10h-11h",
           "subject": "code",
           "suggestion": "Bài 92.1 (8p) + Bài 92.2 (24p) → 32p"
         },
         {
           "date": "2026-07-13",
           "dayOfWeek": "Thứ Hai",
-          "timeSlot": "10h-11h",
-          "subject": "Speaking (learn vocab for topic)",
-          "suggestion": "Học collocations + idioms tự nhiên cho chủ đề 'Quiet place'. Tạo ví dụ cá nhân hóa."
-        },
-        {
-          "date": "2026-07-13",
-          "dayOfWeek": "Thứ Hai",
           "timeSlot": "13h30-15h10",
-          "subject": "Read",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Matching information. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
+          "subject": "Reading",
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Summary completion. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-07-13",
           "dayOfWeek": "Thứ Hai",
           "timeSlot": "15h25-17h",
-          "subject": "Lý",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-07-13",
-          "dayOfWeek": "Thứ Hai",
-          "timeSlot": "17h30-19h",
-          "subject": "Hóa",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-07-13",
-          "dayOfWeek": "Thứ Hai",
-          "timeSlot": "19h-20h40",
           "subject": "Writing (task 1 book)",
           "suggestion": "Lesson 03 & 04 (Review Mixed Charts)"
         },
         {
           "date": "2026-07-13",
           "dayOfWeek": "Thứ Hai",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
+          "timeSlot": "19h-20h40",
+          "subject": "Speaking (learn vocab for topic)",
+          "suggestion": "Học collocations + idioms tự nhiên cho chủ đề 'Quiet place'. Tạo ví dụ cá nhân hóa."
         },
         {
           "date": "2026-07-13",
           "dayOfWeek": "Thứ Hai",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Tự do",
+          "suggestion": null
         },
         {
           "date": "2026-07-14",
           "dayOfWeek": "Thứ Ba",
           "timeSlot": "8h-9h45",
+          "subject": "ĐGNL",
+          "suggestion": "Tự ôn"
+        },
+        {
+          "date": "2026-07-14",
+          "dayOfWeek": "Thứ Ba",
+          "timeSlot": "10h-11h",
           "subject": "Speaking (xem sample answer)",
           "suggestion": "Nghe và phân tích sample answer Band 7.5+ chủ đề 'Technology'. Gạch structure và linking words."
         },
         {
           "date": "2026-07-14",
           "dayOfWeek": "Thứ Ba",
-          "timeSlot": "10h-11h",
-          "subject": "Listening",
-          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Section 1 form completion. Nghe lại transcript và shadowing 5-10 phút."
-        },
-        {
-          "date": "2026-07-14",
-          "dayOfWeek": "Thứ Ba",
           "timeSlot": "13h30-15h10",
           "subject": "Toán",
           "suggestion": "Học toán anh Kid"
@@ -2834,8 +2470,8 @@
           "date": "2026-07-14",
           "dayOfWeek": "Thứ Ba",
           "timeSlot": "15h25-17h",
-          "subject": "Writing (task 1)",
-          "suggestion": "Task 1 – Mixed — viết 150-190 từ, tập overview và so sánh số liệu."
+          "subject": "Listening",
+          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Lecture note completion. Nghe lại transcript và shadowing 5-10 phút."
         },
         {
           "date": "2026-07-14",
@@ -2847,135 +2483,107 @@
         {
           "date": "2026-07-14",
           "dayOfWeek": "Thứ Ba",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-07-14",
-          "dayOfWeek": "Thứ Ba",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Writing (task 1)",
+          "suggestion": "Task 1 – Mixed — viết 150-190 từ, tập overview và so sánh số liệu."
         },
         {
           "date": "2026-07-15",
           "dayOfWeek": "Thứ Tư",
           "timeSlot": "8h-9h45",
-          "subject": "OFF",
-          "suggestion": "Nghỉ ngơi"
+          "subject": "Toán",
+          "suggestion": "Học toán anh Kid"
         },
         {
           "date": "2026-07-15",
           "dayOfWeek": "Thứ Tư",
           "timeSlot": "10h-11h",
+          "subject": "code",
+          "suggestion": "ài 92.3 (25p) + Bài 92.4 (12p) → 37p"
+        },
+        {
+          "date": "2026-07-15",
+          "dayOfWeek": "Thứ Tư",
+          "timeSlot": "13h30-15h10",
+          "subject": "ĐGNL",
+          "suggestion": "Tự ôn"
+        },
+        {
+          "date": "2026-07-15",
+          "dayOfWeek": "Thứ Tư",
+          "timeSlot": "15h25-17h",
           "subject": "Speaking (part 1)",
           "suggestion": "Luyện Speaking Part 1 chủ đề 'Childhood activities'. Trả lời 15-20 giây/câu, thêm reason + example."
         },
         {
           "date": "2026-07-15",
           "dayOfWeek": "Thứ Tư",
-          "timeSlot": "13h30-15h10",
+          "timeSlot": "19h-20h40",
           "subject": "Listening",
           "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Numbers & spelling accuracy. Nghe lại transcript và shadowing 5-10 phút."
         },
         {
           "date": "2026-07-15",
           "dayOfWeek": "Thứ Tư",
-          "timeSlot": "15h25-17h",
-          "subject": "Lý",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-07-15",
-          "dayOfWeek": "Thứ Tư",
-          "timeSlot": "17h30-19h",
-          "subject": "Hóa",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-07-15",
-          "dayOfWeek": "Thứ Tư",
-          "timeSlot": "19h-20h40",
+          "timeSlot": "20h55-22h30",
           "subject": "Reading",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Sentence completion. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
-        },
-        {
-          "date": "2026-07-15",
-          "dayOfWeek": "Thứ Tư",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-07-15",
-          "dayOfWeek": "Thứ Tư",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Skimming & scanning speed. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-07-16",
           "dayOfWeek": "Thứ Năm",
           "timeSlot": "8h-9h45",
-          "subject": "code",
-          "suggestion": "ài 92.3 (25p) + Bài 92.4 (12p) → 37p"
+          "subject": "ĐGNL",
+          "suggestion": "Tự ôn"
         },
         {
           "date": "2026-07-16",
           "dayOfWeek": "Thứ Năm",
           "timeSlot": "10h-11h",
-          "subject": "Speaking (part 2)",
-          "suggestion": "Luyện cue card về 'City life'. Nói đủ gần 2 phút, dùng timeline past-present-future."
+          "subject": "code",
+          "suggestion": "Bài 92.5 (6p) + Bài 92.6 (9p) + Bài 92.7 (6p) + Bài 92.8 (9p) → 30p"
         },
         {
           "date": "2026-07-16",
           "dayOfWeek": "Thứ Năm",
           "timeSlot": "13h30-15h10",
-          "subject": "Toán",
-          "suggestion": "Học toán anh Kid"
-        },
-        {
-          "date": "2026-07-16",
-          "dayOfWeek": "Thứ Năm",
-          "timeSlot": "15h25-17h",
           "subject": "Listening",
           "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Paraphrase recognition. Nghe lại transcript và shadowing 5-10 phút."
         },
         {
           "date": "2026-07-16",
           "dayOfWeek": "Thứ Năm",
+          "timeSlot": "15h25-17h",
+          "subject": "Speaking (part 2)",
+          "suggestion": "Luyện cue card về 'City life'. Nói đủ gần 2 phút, dùng timeline past-present-future."
+        },
+        {
+          "date": "2026-07-16",
+          "dayOfWeek": "Thứ Năm",
           "timeSlot": "19h-20h40",
           "subject": "Reading",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Diagram/table completion. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Matching information. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-07-16",
           "dayOfWeek": "Thứ Năm",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-07-16",
-          "dayOfWeek": "Thứ Năm",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Tự do",
+          "suggestion": null
         },
         {
           "date": "2026-07-17",
           "dayOfWeek": "Thứ Sáu",
           "timeSlot": "8h-9h45",
-          "subject": "code",
-          "suggestion": "Bài 92.5 (6p) + Bài 92.6 (9p) + Bài 92.7 (6p) + Bài 92.8 (9p) → 30p"
+          "subject": "Toán",
+          "suggestion": "Học toán anh Kid"
         },
         {
           "date": "2026-07-17",
           "dayOfWeek": "Thứ Sáu",
           "timeSlot": "10h-11h",
-          "subject": "Speaking (part 3)",
-          "suggestion": "Luyện discussion Part 3 liên quan 'Health & fitness'. Tập nêu opinion, compare và explain."
+          "subject": "code",
+          "suggestion": "Bài 93 (16p) + Bài 94 (8p) + Bài 95.1 (7p) → 31p"
         },
         {
           "date": "2026-07-17",
@@ -2988,43 +2596,29 @@
           "date": "2026-07-17",
           "dayOfWeek": "Thứ Sáu",
           "timeSlot": "15h25-17h",
-          "subject": "Lý",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-07-17",
-          "dayOfWeek": "Thứ Sáu",
-          "timeSlot": "17h30-19h",
-          "subject": "Hóa",
-          "suggestion": "Học online"
+          "subject": "Speaking (part 3)",
+          "suggestion": "Luyện discussion Part 3 liên quan 'Health & fitness'. Tập nêu opinion, compare và explain."
         },
         {
           "date": "2026-07-17",
           "dayOfWeek": "Thứ Sáu",
           "timeSlot": "19h-20h40",
-          "subject": "Writing (task 2)",
-          "suggestion": "Task 2 – Agree/Disagree – climate change responsibility — viết 260-290 từ, focus thesis + coherence."
+          "subject": "Listening",
+          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Section 4 academic lecture. Nghe lại transcript và shadowing 5-10 phút."
         },
         {
           "date": "2026-07-17",
           "dayOfWeek": "Thứ Sáu",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-07-17",
-          "dayOfWeek": "Thứ Sáu",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Reading",
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Sentence completion. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-07-18",
           "dayOfWeek": "Thứ Bảy",
           "timeSlot": "8h-9h45",
-          "subject": "code",
-          "suggestion": "Bài 93 (16p) + Bài 94 (8p) + Bài 95.1 (7p) → 31p"
+          "subject": "ĐGNL",
+          "suggestion": "Tự ôn"
         },
         {
           "date": "2026-07-18",
@@ -3037,41 +2631,34 @@
           "date": "2026-07-18",
           "dayOfWeek": "Thứ Bảy",
           "timeSlot": "13h30-15h10",
-          "subject": "Toán",
-          "suggestion": "Học toán anh Kid"
+          "subject": "Writing (task 2)",
+          "suggestion": "Task 2 – Agree/Disagree – climate change responsibility — viết 260-290 từ, focus thesis + coherence."
         },
         {
           "date": "2026-07-18",
           "dayOfWeek": "Thứ Bảy",
           "timeSlot": "15h25-17h",
-          "subject": "Reading",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: T/F/NG + paraphrase tracking. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
-        },
-        {
-          "date": "2026-07-18",
-          "dayOfWeek": "Thứ Bảy",
-          "timeSlot": "19h-20h40",
           "subject": "Writing (task 2)",
           "suggestion": "Task 2 – Agree/Disagree – advertising influence — viết 260-290 từ, focus thesis + coherence."
         },
         {
           "date": "2026-07-18",
           "dayOfWeek": "Thứ Bảy",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
+          "timeSlot": "19h-20h40",
+          "subject": "Reading",
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Diagram/table completion. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-07-18",
           "dayOfWeek": "Thứ Bảy",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Tự do",
+          "suggestion": null
         },
         {
           "date": "2026-07-19",
           "dayOfWeek": "Chủ nhật",
-          "timeSlot": "8h-11h",
+          "timeSlot": "8h-9h45",
           "subject": "OFF",
           "suggestion": "Nghỉ ngơi"
         },
@@ -3094,95 +2681,74 @@
           "dayOfWeek": "Chủ nhật",
           "timeSlot": "19h-20h40",
           "subject": "Reading",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Matching headings. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: T/F/NG + paraphrase tracking. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-07-19",
           "dayOfWeek": "Chủ nhật",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-07-19",
-          "dayOfWeek": "Chủ nhật",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Tự do",
+          "suggestion": null
         },
         {
           "date": "2026-07-20",
           "dayOfWeek": "Thứ Hai",
           "timeSlot": "8h-9h45",
+          "subject": "Toán",
+          "suggestion": "Học toán anh Kid"
+        },
+        {
+          "date": "2026-07-20",
+          "dayOfWeek": "Thứ Hai",
+          "timeSlot": "10h-11h",
           "subject": "code",
           "suggestion": "Bài 95.2 (5p) + Bài 95.3 (23p) + Bài 95.4 (14p) → 42p"
         },
         {
           "date": "2026-07-20",
           "dayOfWeek": "Thứ Hai",
-          "timeSlot": "10h-11h",
-          "subject": "Speaking (learn vocab for topic)",
-          "suggestion": "Học collocations + idioms tự nhiên cho chủ đề 'Pets'. Tạo ví dụ cá nhân hóa."
-        },
-        {
-          "date": "2026-07-20",
-          "dayOfWeek": "Thứ Hai",
           "timeSlot": "13h30-15h10",
-          "subject": "Read",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Summary completion. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
+          "subject": "Reading",
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Matching headings. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-07-20",
           "dayOfWeek": "Thứ Hai",
           "timeSlot": "15h25-17h",
-          "subject": "Lý",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-07-20",
-          "dayOfWeek": "Thứ Hai",
-          "timeSlot": "17h30-19h",
-          "subject": "Hóa",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-07-20",
-          "dayOfWeek": "Thứ Hai",
-          "timeSlot": "19h-20h40",
           "subject": "Writing (task 1 book)",
           "suggestion": "Lesson 06: Process (Review)"
         },
         {
           "date": "2026-07-20",
           "dayOfWeek": "Thứ Hai",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
+          "timeSlot": "19h-20h40",
+          "subject": "Speaking (learn vocab for topic)",
+          "suggestion": "Học collocations + idioms tự nhiên cho chủ đề 'Pets'. Tạo ví dụ cá nhân hóa."
         },
         {
           "date": "2026-07-20",
           "dayOfWeek": "Thứ Hai",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Tự do",
+          "suggestion": null
         },
         {
           "date": "2026-07-21",
           "dayOfWeek": "Thứ Ba",
           "timeSlot": "8h-9h45",
+          "subject": "ĐGNL",
+          "suggestion": "Tự ôn"
+        },
+        {
+          "date": "2026-07-21",
+          "dayOfWeek": "Thứ Ba",
+          "timeSlot": "10h-11h",
           "subject": "Speaking (xem sample answer)",
           "suggestion": "Nghe và phân tích sample answer Band 7.5+ chủ đề 'Sports team'. Gạch structure và linking words."
         },
         {
           "date": "2026-07-21",
           "dayOfWeek": "Thứ Ba",
-          "timeSlot": "10h-11h",
-          "subject": "Listening",
-          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Section 4 academic lecture. Nghe lại transcript và shadowing 5-10 phút."
-        },
-        {
-          "date": "2026-07-21",
-          "dayOfWeek": "Thứ Ba",
           "timeSlot": "13h30-15h10",
           "subject": "Toán",
           "suggestion": "Học toán anh Kid"
@@ -3191,8 +2757,8 @@
           "date": "2026-07-21",
           "dayOfWeek": "Thứ Ba",
           "timeSlot": "15h25-17h",
-          "subject": "Writing (task 1)",
-          "suggestion": "Task 1 – Mixed — viết 150-190 từ, tập overview và so sánh số liệu."
+          "subject": "Listening",
+          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Multiple choice traps. Nghe lại transcript và shadowing 5-10 phút."
         },
         {
           "date": "2026-07-21",
@@ -3204,135 +2770,107 @@
         {
           "date": "2026-07-21",
           "dayOfWeek": "Thứ Ba",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-07-21",
-          "dayOfWeek": "Thứ Ba",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Writing (task 1)",
+          "suggestion": "Task 1 – Mixed — viết 150-190 từ, tập overview và so sánh số liệu."
         },
         {
           "date": "2026-07-22",
           "dayOfWeek": "Thứ Tư",
           "timeSlot": "8h-9h45",
-          "subject": "OFF",
-          "suggestion": "Nghỉ ngơi"
+          "subject": "Toán",
+          "suggestion": "Học toán anh Kid"
         },
         {
           "date": "2026-07-22",
           "dayOfWeek": "Thứ Tư",
           "timeSlot": "10h-11h",
+          "subject": "code",
+          "suggestion": "Bài 95.5 (24p) + Bài 95.6 (13p) → 37p"
+        },
+        {
+          "date": "2026-07-22",
+          "dayOfWeek": "Thứ Tư",
+          "timeSlot": "13h30-15h10",
+          "subject": "ĐGNL",
+          "suggestion": "Tự ôn"
+        },
+        {
+          "date": "2026-07-22",
+          "dayOfWeek": "Thứ Tư",
+          "timeSlot": "15h25-17h",
           "subject": "Speaking (part 1)",
           "suggestion": "Luyện Speaking Part 1 chủ đề 'Food'. Trả lời 15-20 giây/câu, thêm reason + example."
         },
         {
           "date": "2026-07-22",
           "dayOfWeek": "Thứ Tư",
-          "timeSlot": "13h30-15h10",
-          "subject": "Listening",
-          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Shadowing + transcript analysis. Nghe lại transcript và shadowing 5-10 phút."
-        },
-        {
-          "date": "2026-07-22",
-          "dayOfWeek": "Thứ Tư",
-          "timeSlot": "15h25-17h",
-          "subject": "Lý",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-07-22",
-          "dayOfWeek": "Thứ Tư",
-          "timeSlot": "17h30-19h",
-          "subject": "Hóa",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-07-22",
-          "dayOfWeek": "Thứ Tư",
           "timeSlot": "19h-20h40",
+          "subject": "Listening",
+          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Lecture note completion. Nghe lại transcript và shadowing 5-10 phút."
+        },
+        {
+          "date": "2026-07-22",
+          "dayOfWeek": "Thứ Tư",
+          "timeSlot": "20h55-22h30",
           "subject": "Reading",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Skimming & scanning speed. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
-        },
-        {
-          "date": "2026-07-22",
-          "dayOfWeek": "Thứ Tư",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-07-22",
-          "dayOfWeek": "Thứ Tư",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Multiple choice strategy. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-07-23",
           "dayOfWeek": "Thứ Năm",
           "timeSlot": "8h-9h45",
-          "subject": "code",
-          "suggestion": "Bài 95.5 (24p) + Bài 95.6 (13p) → 37p"
+          "subject": "ĐGNL",
+          "suggestion": "Tự ôn"
         },
         {
           "date": "2026-07-23",
           "dayOfWeek": "Thứ Năm",
           "timeSlot": "10h-11h",
+          "subject": "code",
+          "suggestion": "Bài 95.7 (10p) + Bài 95.8 (19p) + Bài 95.9 (12p) → 41p"
+        },
+        {
+          "date": "2026-07-23",
+          "dayOfWeek": "Thứ Năm",
+          "timeSlot": "13h30-15h10",
+          "subject": "Listening",
+          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Numbers & spelling accuracy. Nghe lại transcript và shadowing 5-10 phút."
+        },
+        {
+          "date": "2026-07-23",
+          "dayOfWeek": "Thứ Năm",
+          "timeSlot": "15h25-17h",
           "subject": "Speaking (part 2)",
           "suggestion": "Luyện cue card về 'Environment'. Nói đủ gần 2 phút, dùng timeline past-present-future."
         },
         {
           "date": "2026-07-23",
           "dayOfWeek": "Thứ Năm",
-          "timeSlot": "13h30-15h10",
-          "subject": "Toán",
-          "suggestion": "Học toán anh Kid"
-        },
-        {
-          "date": "2026-07-23",
-          "dayOfWeek": "Thứ Năm",
-          "timeSlot": "15h25-17h",
-          "subject": "Listening",
-          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Lecture note completion. Nghe lại transcript và shadowing 5-10 phút."
-        },
-        {
-          "date": "2026-07-23",
-          "dayOfWeek": "Thứ Năm",
           "timeSlot": "19h-20h40",
           "subject": "Reading",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Matching information. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Skimming & scanning speed. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-07-23",
           "dayOfWeek": "Thứ Năm",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-07-23",
-          "dayOfWeek": "Thứ Năm",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Tự do",
+          "suggestion": null
         },
         {
           "date": "2026-07-24",
           "dayOfWeek": "Thứ Sáu",
           "timeSlot": "8h-9h45",
-          "subject": "code",
-          "suggestion": "Bài 95.7 (10p) + Bài 95.8 (19p) + Bài 95.9 (12p) → 41p"
+          "subject": "Toán",
+          "suggestion": "Học toán anh Kid"
         },
         {
           "date": "2026-07-24",
           "dayOfWeek": "Thứ Sáu",
           "timeSlot": "10h-11h",
-          "subject": "Speaking (part 3)",
-          "suggestion": "Luyện discussion Part 3 liên quan 'Encouraging someone'. Tập nêu opinion, compare và explain."
+          "subject": "code",
+          "suggestion": "Bài 95.10 (21p) + Bài 95.11 (5p) → 26p"
         },
         {
           "date": "2026-07-24",
@@ -3345,43 +2883,29 @@
           "date": "2026-07-24",
           "dayOfWeek": "Thứ Sáu",
           "timeSlot": "15h25-17h",
-          "subject": "Lý",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-07-24",
-          "dayOfWeek": "Thứ Sáu",
-          "timeSlot": "17h30-19h",
-          "subject": "Hóa",
-          "suggestion": "Học online"
+          "subject": "Speaking (part 3)",
+          "suggestion": "Luyện discussion Part 3 liên quan 'Encouraging someone'. Tập nêu opinion, compare và explain."
         },
         {
           "date": "2026-07-24",
           "dayOfWeek": "Thứ Sáu",
           "timeSlot": "19h-20h40",
-          "subject": "Writing (task 2)",
-          "suggestion": "Task 2 – Agree/Disagree – tourism impact — viết 260-290 từ, focus thesis + coherence."
+          "subject": "Listening",
+          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Paraphrase recognition. Nghe lại transcript và shadowing 5-10 phút."
         },
         {
           "date": "2026-07-24",
           "dayOfWeek": "Thứ Sáu",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-07-24",
-          "dayOfWeek": "Thứ Sáu",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Reading",
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Matching information. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-07-25",
           "dayOfWeek": "Thứ Bảy",
           "timeSlot": "8h-9h45",
-          "subject": "code",
-          "suggestion": "Bài 95.10 (21p) + Bài 95.11 (5p) → 26p"
+          "subject": "ĐGNL",
+          "suggestion": "Tự ôn"
         },
         {
           "date": "2026-07-25",
@@ -3394,41 +2918,34 @@
           "date": "2026-07-25",
           "dayOfWeek": "Thứ Bảy",
           "timeSlot": "13h30-15h10",
-          "subject": "Toán",
-          "suggestion": "Học toán anh Kid"
+          "subject": "Writing (task 2)",
+          "suggestion": "Task 2 – Agree/Disagree – tourism impact — viết 260-290 từ, focus thesis + coherence."
         },
         {
           "date": "2026-07-25",
           "dayOfWeek": "Thứ Bảy",
           "timeSlot": "15h25-17h",
-          "subject": "Reading",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Sentence completion. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
-        },
-        {
-          "date": "2026-07-25",
-          "dayOfWeek": "Thứ Bảy",
-          "timeSlot": "19h-20h40",
           "subject": "Writing (task 2)",
           "suggestion": "Task 2 – Agree/Disagree – space exploration spending — viết 260-290 từ, focus thesis + coherence."
         },
         {
           "date": "2026-07-25",
           "dayOfWeek": "Thứ Bảy",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
+          "timeSlot": "19h-20h40",
+          "subject": "Reading",
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Sentence completion. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-07-25",
           "dayOfWeek": "Thứ Bảy",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Tự do",
+          "suggestion": null
         },
         {
           "date": "2026-07-26",
           "dayOfWeek": "Chủ nhật",
-          "timeSlot": "8h-11h",
+          "timeSlot": "8h-9h45",
           "subject": "OFF",
           "suggestion": "Nghỉ ngơi"
         },
@@ -3456,90 +2973,69 @@
         {
           "date": "2026-07-26",
           "dayOfWeek": "Chủ nhật",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-07-26",
-          "dayOfWeek": "Chủ nhật",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Tự do",
+          "suggestion": null
         },
         {
           "date": "2026-07-27",
           "dayOfWeek": "Thứ Hai",
           "timeSlot": "8h-9h45",
+          "subject": "Toán",
+          "suggestion": "Học toán anh Kid"
+        },
+        {
+          "date": "2026-07-27",
+          "dayOfWeek": "Thứ Hai",
+          "timeSlot": "10h-11h",
           "subject": "code",
           "suggestion": "Bài 95.12 (25p) + Bài 96.1 (15p) → 40p"
         },
         {
           "date": "2026-07-27",
           "dayOfWeek": "Thứ Hai",
-          "timeSlot": "10h-11h",
-          "subject": "Speaking (learn vocab for topic)",
-          "suggestion": "Học collocations + idioms tự nhiên cho chủ đề 'Proud moment'. Tạo ví dụ cá nhân hóa."
-        },
-        {
-          "date": "2026-07-27",
-          "dayOfWeek": "Thứ Hai",
           "timeSlot": "13h30-15h10",
-          "subject": "Read",
+          "subject": "Reading",
           "suggestion": "Làm 1 passage timed practice. Trọng tâm: T/F/NG + paraphrase tracking. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-07-27",
           "dayOfWeek": "Thứ Hai",
           "timeSlot": "15h25-17h",
-          "subject": "Lý",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-07-27",
-          "dayOfWeek": "Thứ Hai",
-          "timeSlot": "17h30-19h",
-          "subject": "Hóa",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-07-27",
-          "dayOfWeek": "Thứ Hai",
-          "timeSlot": "19h-20h40",
           "subject": "Writing (task 1 book)",
           "suggestion": "Vocabulary Mind Map (Page 219)"
         },
         {
           "date": "2026-07-27",
           "dayOfWeek": "Thứ Hai",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
+          "timeSlot": "19h-20h40",
+          "subject": "Speaking (learn vocab for topic)",
+          "suggestion": "Học collocations + idioms tự nhiên cho chủ đề 'Proud moment'. Tạo ví dụ cá nhân hóa."
         },
         {
           "date": "2026-07-27",
           "dayOfWeek": "Thứ Hai",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Tự do",
+          "suggestion": null
         },
         {
           "date": "2026-07-28",
           "dayOfWeek": "Thứ Ba",
           "timeSlot": "8h-9h45",
+          "subject": "ĐGNL",
+          "suggestion": "Tự ôn"
+        },
+        {
+          "date": "2026-07-28",
+          "dayOfWeek": "Thứ Ba",
+          "timeSlot": "10h-11h",
           "subject": "Speaking (xem sample answer)",
           "suggestion": "Nghe và phân tích sample answer Band 7.5+ chủ đề 'Views & scenery'. Gạch structure và linking words."
         },
         {
           "date": "2026-07-28",
           "dayOfWeek": "Thứ Ba",
-          "timeSlot": "10h-11h",
-          "subject": "Listening",
-          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Numbers & spelling accuracy. Nghe lại transcript và shadowing 5-10 phút."
-        },
-        {
-          "date": "2026-07-28",
-          "dayOfWeek": "Thứ Ba",
           "timeSlot": "13h30-15h10",
           "subject": "Toán",
           "suggestion": "Học toán anh Kid"
@@ -3548,8 +3044,8 @@
           "date": "2026-07-28",
           "dayOfWeek": "Thứ Ba",
           "timeSlot": "15h25-17h",
-          "subject": "Writing (task 1)",
-          "suggestion": "Task 1 – Mixed — viết 150-190 từ, tập overview và so sánh số liệu."
+          "subject": "Listening",
+          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Map labelling. Nghe lại transcript và shadowing 5-10 phút."
         },
         {
           "date": "2026-07-28",
@@ -3561,100 +3057,79 @@
         {
           "date": "2026-07-28",
           "dayOfWeek": "Thứ Ba",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-07-28",
-          "dayOfWeek": "Thứ Ba",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Writing (task 1)",
+          "suggestion": "Task 1 – Mixed — viết 150-190 từ, tập overview và so sánh số liệu."
         },
         {
           "date": "2026-07-29",
           "dayOfWeek": "Thứ Tư",
           "timeSlot": "8h-9h45",
-          "subject": "OFF",
-          "suggestion": "Nghỉ ngơi"
+          "subject": "Toán",
+          "suggestion": "Học toán anh Kid"
         },
         {
           "date": "2026-07-29",
           "dayOfWeek": "Thứ Tư",
           "timeSlot": "10h-11h",
+          "subject": "code",
+          "suggestion": "Bài 96.2 (15p) + Bài 96.3 (6p) + Bài 96.4 (4p) + Bài 96.5 (10p) → 35p"
+        },
+        {
+          "date": "2026-07-29",
+          "dayOfWeek": "Thứ Tư",
+          "timeSlot": "13h30-15h10",
+          "subject": "ĐGNL",
+          "suggestion": "Tự ôn"
+        },
+        {
+          "date": "2026-07-29",
+          "dayOfWeek": "Thứ Tư",
+          "timeSlot": "15h25-17h",
           "subject": "Speaking (part 1)",
           "suggestion": "Luyện Speaking Part 1 chủ đề 'Daily routine'. Trả lời 15-20 giây/câu, thêm reason + example."
         },
         {
           "date": "2026-07-29",
           "dayOfWeek": "Thứ Tư",
-          "timeSlot": "13h30-15h10",
-          "subject": "Listening",
-          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Paraphrase recognition. Nghe lại transcript và shadowing 5-10 phút."
-        },
-        {
-          "date": "2026-07-29",
-          "dayOfWeek": "Thứ Tư",
-          "timeSlot": "15h25-17h",
-          "subject": "Lý",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-07-29",
-          "dayOfWeek": "Thứ Tư",
-          "timeSlot": "17h30-19h",
-          "subject": "Hóa",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-07-29",
-          "dayOfWeek": "Thứ Tư",
           "timeSlot": "19h-20h40",
+          "subject": "Listening",
+          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Multiple choice traps. Nghe lại transcript và shadowing 5-10 phút."
+        },
+        {
+          "date": "2026-07-29",
+          "dayOfWeek": "Thứ Tư",
+          "timeSlot": "20h55-22h30",
           "subject": "Reading",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Matching headings. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
-        },
-        {
-          "date": "2026-07-29",
-          "dayOfWeek": "Thứ Tư",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-07-29",
-          "dayOfWeek": "Thứ Tư",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Summary completion. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-07-30",
           "dayOfWeek": "Thứ Năm",
           "timeSlot": "8h-9h45",
-          "subject": "code",
-          "suggestion": "Bài 96.2 (15p) + Bài 96.3 (6p) + Bài 96.4 (4p) + Bài 96.5 (10p) → 35p"
+          "subject": "ĐGNL",
+          "suggestion": "Tự ôn"
         },
         {
           "date": "2026-07-30",
           "dayOfWeek": "Thứ Năm",
           "timeSlot": "10h-11h",
-          "subject": "Speaking (part 2)",
-          "suggestion": "Luyện cue card về 'Work/Study'. Nói đủ gần 2 phút, dùng timeline past-present-future."
+          "subject": "code",
+          "suggestion": "Bài 97.1 (18p) + Bài 97.2 (14p) → 32p"
         },
         {
           "date": "2026-07-30",
           "dayOfWeek": "Thứ Năm",
           "timeSlot": "13h30-15h10",
-          "subject": "Toán",
-          "suggestion": "Học toán anh Kid"
+          "subject": "Listening",
+          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Lecture note completion. Nghe lại transcript và shadowing 5-10 phút."
         },
         {
           "date": "2026-07-30",
           "dayOfWeek": "Thứ Năm",
           "timeSlot": "15h25-17h",
-          "subject": "Listening",
-          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Section 4 academic lecture. Nghe lại transcript và shadowing 5-10 phút."
+          "subject": "Speaking (part 2)",
+          "suggestion": "Luyện cue card về 'Work/Study'. Nói đủ gần 2 phút, dùng timeline past-present-future."
         },
         {
           "date": "2026-07-30",
@@ -3666,30 +3141,23 @@
         {
           "date": "2026-07-30",
           "dayOfWeek": "Thứ Năm",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-07-30",
-          "dayOfWeek": "Thứ Năm",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Tự do",
+          "suggestion": null
         },
         {
           "date": "2026-07-31",
           "dayOfWeek": "Thứ Sáu",
           "timeSlot": "8h-9h45",
-          "subject": "code",
-          "suggestion": "Bài 97.1 (18p) + Bài 97.2 (14p) → 32p"
+          "subject": "Toán",
+          "suggestion": "Học toán anh Kid"
         },
         {
           "date": "2026-07-31",
           "dayOfWeek": "Thứ Sáu",
           "timeSlot": "10h-11h",
-          "subject": "Speaking (part 3)",
-          "suggestion": "Luyện discussion Part 3 liên quan 'Reading habits'. Tập nêu opinion, compare và explain."
+          "subject": "code",
+          "suggestion": "Bài 97.3 (9p) + Bài 97.4 (14p) + Bài 98.1 (22p) → 45p"
         },
         {
           "date": "2026-07-31",
@@ -3702,43 +3170,29 @@
           "date": "2026-07-31",
           "dayOfWeek": "Thứ Sáu",
           "timeSlot": "15h25-17h",
-          "subject": "Lý",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-07-31",
-          "dayOfWeek": "Thứ Sáu",
-          "timeSlot": "17h30-19h",
-          "subject": "Hóa",
-          "suggestion": "Học online"
+          "subject": "Speaking (part 3)",
+          "suggestion": "Luyện discussion Part 3 liên quan 'Reading habits'. Tập nêu opinion, compare và explain."
         },
         {
           "date": "2026-07-31",
           "dayOfWeek": "Thứ Sáu",
           "timeSlot": "19h-20h40",
-          "subject": "Writing (task 2)",
-          "suggestion": "Task 2 – Agree/Disagree – healthy lifestyle — viết 260-290 từ, focus thesis + coherence."
+          "subject": "Listening",
+          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Numbers & spelling accuracy. Nghe lại transcript và shadowing 5-10 phút."
         },
         {
           "date": "2026-07-31",
           "dayOfWeek": "Thứ Sáu",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-07-31",
-          "dayOfWeek": "Thứ Sáu",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Reading",
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Skimming & scanning speed. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-08-01",
           "dayOfWeek": "Thứ Bảy",
           "timeSlot": "8h-9h45",
-          "subject": "code",
-          "suggestion": "Bài 97.3 (9p) + Bài 97.4 (14p) + Bài 98.1 (22p) → 45p"
+          "subject": "ĐGNL",
+          "suggestion": "Tự ôn"
         },
         {
           "date": "2026-08-01",
@@ -3751,41 +3205,34 @@
           "date": "2026-08-01",
           "dayOfWeek": "Thứ Bảy",
           "timeSlot": "13h30-15h10",
-          "subject": "Toán",
-          "suggestion": "Học toán anh Kid"
+          "subject": "Writing (task 2)",
+          "suggestion": "Task 2 – Agree/Disagree – healthy lifestyle — viết 260-290 từ, focus thesis + coherence."
         },
         {
           "date": "2026-08-01",
           "dayOfWeek": "Thứ Bảy",
           "timeSlot": "15h25-17h",
-          "subject": "Reading",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Skimming & scanning speed. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
-        },
-        {
-          "date": "2026-08-01",
-          "dayOfWeek": "Thứ Bảy",
-          "timeSlot": "19h-20h40",
           "subject": "Writing (task 2)",
           "suggestion": "Task 2 – Agree/Disagree – government funding for arts — viết 260-290 từ, focus thesis + coherence."
         },
         {
           "date": "2026-08-01",
           "dayOfWeek": "Thứ Bảy",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
+          "timeSlot": "19h-20h40",
+          "subject": "Reading",
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Matching information. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-08-01",
           "dayOfWeek": "Thứ Bảy",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Tự do",
+          "suggestion": null
         },
         {
           "date": "2026-08-02",
           "dayOfWeek": "Chủ nhật",
-          "timeSlot": "8h-11h",
+          "timeSlot": "8h-9h45",
           "subject": "OFF",
           "suggestion": "Nghỉ ngơi"
         },
@@ -3808,95 +3255,74 @@
           "dayOfWeek": "Chủ nhật",
           "timeSlot": "19h-20h40",
           "subject": "Reading",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Matching information. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Sentence completion. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-08-02",
           "dayOfWeek": "Chủ nhật",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-08-02",
-          "dayOfWeek": "Chủ nhật",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Tự do",
+          "suggestion": null
         },
         {
           "date": "2026-08-03",
           "dayOfWeek": "Thứ Hai",
           "timeSlot": "8h-9h45",
+          "subject": "Toán",
+          "suggestion": "Học toán anh Kid"
+        },
+        {
+          "date": "2026-08-03",
+          "dayOfWeek": "Thứ Hai",
+          "timeSlot": "10h-11h",
           "subject": "code",
           "suggestion": "Bài 98.2 (6p) + Bài 98.3 (19p) + Bài 98.4 (8p) → 33p"
         },
         {
           "date": "2026-08-03",
           "dayOfWeek": "Thứ Hai",
-          "timeSlot": "10h-11h",
-          "subject": "Speaking (learn vocab for topic)",
-          "suggestion": "Học collocations + idioms tự nhiên cho chủ đề 'Childhood activities'. Tạo ví dụ cá nhân hóa."
-        },
-        {
-          "date": "2026-08-03",
-          "dayOfWeek": "Thứ Hai",
           "timeSlot": "13h30-15h10",
-          "subject": "Read",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Sentence completion. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
+          "subject": "Reading",
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Diagram/table completion. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-08-03",
           "dayOfWeek": "Thứ Hai",
           "timeSlot": "15h25-17h",
-          "subject": "Lý",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-08-03",
-          "dayOfWeek": "Thứ Hai",
-          "timeSlot": "17h30-19h",
-          "subject": "Hóa",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-08-03",
-          "dayOfWeek": "Thứ Hai",
-          "timeSlot": "19h-20h40",
           "subject": "Writing (task 1 book)",
           "suggestion": "Appendix (Model Essays Review)"
         },
         {
           "date": "2026-08-03",
           "dayOfWeek": "Thứ Hai",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
+          "timeSlot": "19h-20h40",
+          "subject": "Speaking (learn vocab for topic)",
+          "suggestion": "Học collocations + idioms tự nhiên cho chủ đề 'Childhood activities'. Tạo ví dụ cá nhân hóa."
         },
         {
           "date": "2026-08-03",
           "dayOfWeek": "Thứ Hai",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Tự do",
+          "suggestion": null
         },
         {
           "date": "2026-08-04",
           "dayOfWeek": "Thứ Ba",
           "timeSlot": "8h-9h45",
+          "subject": "ĐGNL",
+          "suggestion": "Tự ôn"
+        },
+        {
+          "date": "2026-08-04",
+          "dayOfWeek": "Thứ Ba",
+          "timeSlot": "10h-11h",
           "subject": "Speaking (xem sample answer)",
           "suggestion": "Nghe và phân tích sample answer Band 7.5+ chủ đề 'City life'. Gạch structure và linking words."
         },
         {
           "date": "2026-08-04",
           "dayOfWeek": "Thứ Ba",
-          "timeSlot": "10h-11h",
-          "subject": "Listening",
-          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Multiple choice traps. Nghe lại transcript và shadowing 5-10 phút."
-        },
-        {
-          "date": "2026-08-04",
-          "dayOfWeek": "Thứ Ba",
           "timeSlot": "13h30-15h10",
           "subject": "Toán",
           "suggestion": "Học toán anh Kid"
@@ -3905,8 +3331,8 @@
           "date": "2026-08-04",
           "dayOfWeek": "Thứ Ba",
           "timeSlot": "15h25-17h",
-          "subject": "Writing (task 1)",
-          "suggestion": "Task 1 – Process — viết 150-190 từ, tập overview và so sánh số liệu."
+          "subject": "Listening",
+          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Section 1 form completion. Nghe lại transcript và shadowing 5-10 phút."
         },
         {
           "date": "2026-08-04",
@@ -3918,135 +3344,107 @@
         {
           "date": "2026-08-04",
           "dayOfWeek": "Thứ Ba",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-08-04",
-          "dayOfWeek": "Thứ Ba",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Writing (task 1)",
+          "suggestion": "Task 1 – Process — viết 150-190 từ, tập overview và so sánh số liệu."
         },
         {
           "date": "2026-08-05",
           "dayOfWeek": "Thứ Tư",
           "timeSlot": "8h-9h45",
-          "subject": "OFF",
-          "suggestion": "Nghỉ ngơi"
+          "subject": "Toán",
+          "suggestion": "Học toán anh Kid"
         },
         {
           "date": "2026-08-05",
           "dayOfWeek": "Thứ Tư",
           "timeSlot": "10h-11h",
+          "subject": "code",
+          "suggestion": "Bài 98.5 (7p) + Bài 99 (17p) + Bài 100.1 (17p) → 41p"
+        },
+        {
+          "date": "2026-08-05",
+          "dayOfWeek": "Thứ Tư",
+          "timeSlot": "13h30-15h10",
+          "subject": "ĐGNL",
+          "suggestion": "Tự ôn"
+        },
+        {
+          "date": "2026-08-05",
+          "dayOfWeek": "Thứ Tư",
+          "timeSlot": "15h25-17h",
           "subject": "Speaking (part 1)",
           "suggestion": "Luyện Speaking Part 1 chủ đề 'Health & fitness'. Trả lời 15-20 giây/câu, thêm reason + example."
         },
         {
           "date": "2026-08-05",
           "dayOfWeek": "Thứ Tư",
-          "timeSlot": "13h30-15h10",
-          "subject": "Listening",
-          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Lecture note completion. Nghe lại transcript và shadowing 5-10 phút."
-        },
-        {
-          "date": "2026-08-05",
-          "dayOfWeek": "Thứ Tư",
-          "timeSlot": "15h25-17h",
-          "subject": "Lý",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-08-05",
-          "dayOfWeek": "Thứ Tư",
-          "timeSlot": "17h30-19h",
-          "subject": "Hóa",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-08-05",
-          "dayOfWeek": "Thứ Tư",
           "timeSlot": "19h-20h40",
+          "subject": "Listening",
+          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Map labelling. Nghe lại transcript và shadowing 5-10 phút."
+        },
+        {
+          "date": "2026-08-05",
+          "dayOfWeek": "Thứ Tư",
+          "timeSlot": "20h55-22h30",
           "subject": "Reading",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Diagram/table completion. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
-        },
-        {
-          "date": "2026-08-05",
-          "dayOfWeek": "Thứ Tư",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-08-05",
-          "dayOfWeek": "Thứ Tư",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Matching headings. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-08-06",
           "dayOfWeek": "Thứ Năm",
           "timeSlot": "8h-9h45",
-          "subject": "code",
-          "suggestion": "Bài 98.5 (7p) + Bài 99 (17p) + Bài 100.1 (17p) → 41p"
+          "subject": "ĐGNL",
+          "suggestion": "Tự ôn"
         },
         {
           "date": "2026-08-06",
           "dayOfWeek": "Thứ Năm",
           "timeSlot": "10h-11h",
+          "subject": "code",
+          "suggestion": "Bài 100.2 → 100.6 → 32p"
+        },
+        {
+          "date": "2026-08-06",
+          "dayOfWeek": "Thứ Năm",
+          "timeSlot": "13h30-15h10",
+          "subject": "Listening",
+          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Multiple choice traps. Nghe lại transcript và shadowing 5-10 phút."
+        },
+        {
+          "date": "2026-08-06",
+          "dayOfWeek": "Thứ Năm",
+          "timeSlot": "15h25-17h",
           "subject": "Speaking (part 2)",
           "suggestion": "Luyện cue card về 'Travel experience'. Nói đủ gần 2 phút, dùng timeline past-present-future."
         },
         {
           "date": "2026-08-06",
           "dayOfWeek": "Thứ Năm",
-          "timeSlot": "13h30-15h10",
-          "subject": "Toán",
-          "suggestion": "Học toán anh Kid"
-        },
-        {
-          "date": "2026-08-06",
-          "dayOfWeek": "Thứ Năm",
-          "timeSlot": "15h25-17h",
-          "subject": "Listening",
-          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Numbers & spelling accuracy. Nghe lại transcript và shadowing 5-10 phút."
-        },
-        {
-          "date": "2026-08-06",
-          "dayOfWeek": "Thứ Năm",
           "timeSlot": "19h-20h40",
           "subject": "Reading",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: T/F/NG + paraphrase tracking. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Summary completion. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-08-06",
           "dayOfWeek": "Thứ Năm",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-08-06",
-          "dayOfWeek": "Thứ Năm",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Tự do",
+          "suggestion": null
         },
         {
           "date": "2026-08-07",
           "dayOfWeek": "Thứ Sáu",
           "timeSlot": "8h-9h45",
-          "subject": "code",
-          "suggestion": "Bài 100.2 → 100.6 → 32p"
+          "subject": "Toán",
+          "suggestion": "Học toán anh Kid"
         },
         {
           "date": "2026-08-07",
           "dayOfWeek": "Thứ Sáu",
           "timeSlot": "10h-11h",
-          "subject": "Speaking (part 3)",
-          "suggestion": "Luyện discussion Part 3 liên quan 'Dreams'. Tập nêu opinion, compare và explain."
+          "subject": "code",
+          "suggestion": "Bài 100.7 (11p) + Bài 100.8 (12p) + Bài 100.9 (9p) + Bài 101.1 (8p) → 40p"
         },
         {
           "date": "2026-08-07",
@@ -4059,43 +3457,29 @@
           "date": "2026-08-07",
           "dayOfWeek": "Thứ Sáu",
           "timeSlot": "15h25-17h",
-          "subject": "Lý",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-08-07",
-          "dayOfWeek": "Thứ Sáu",
-          "timeSlot": "17h30-19h",
-          "subject": "Hóa",
-          "suggestion": "Học online"
+          "subject": "Speaking (part 3)",
+          "suggestion": "Luyện discussion Part 3 liên quan 'Dreams'. Tập nêu opinion, compare và explain."
         },
         {
           "date": "2026-08-07",
           "dayOfWeek": "Thứ Sáu",
           "timeSlot": "19h-20h40",
-          "subject": "Writing (task 2)",
-          "suggestion": "Task 2 – Discuss Both Views – AI replacing jobs — viết 260-290 từ, focus thesis + coherence."
+          "subject": "Listening",
+          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Lecture note completion. Nghe lại transcript và shadowing 5-10 phút."
         },
         {
           "date": "2026-08-07",
           "dayOfWeek": "Thứ Sáu",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-08-07",
-          "dayOfWeek": "Thứ Sáu",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Reading",
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Multiple choice strategy. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-08-08",
           "dayOfWeek": "Thứ Bảy",
           "timeSlot": "8h-9h45",
-          "subject": "code",
-          "suggestion": "Bài 100.7 (11p) + Bài 100.8 (12p) + Bài 100.9 (9p) + Bài 101.1 (8p) → 40p"
+          "subject": "ĐGNL",
+          "suggestion": "Tự ôn"
         },
         {
           "date": "2026-08-08",
@@ -4108,41 +3492,34 @@
           "date": "2026-08-08",
           "dayOfWeek": "Thứ Bảy",
           "timeSlot": "13h30-15h10",
-          "subject": "Toán",
-          "suggestion": "Học toán anh Kid"
+          "subject": "Writing (task 2)",
+          "suggestion": "Task 2 – Discuss Both Views – AI replacing jobs — viết 260-290 từ, focus thesis + coherence."
         },
         {
           "date": "2026-08-08",
           "dayOfWeek": "Thứ Bảy",
           "timeSlot": "15h25-17h",
-          "subject": "Reading",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Summary completion. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
-        },
-        {
-          "date": "2026-08-08",
-          "dayOfWeek": "Thứ Bảy",
-          "timeSlot": "19h-20h40",
           "subject": "Writing (task 2)",
           "suggestion": "Task 2 – Discuss Both Views – social media influence — viết 260-290 từ, focus thesis + coherence."
         },
         {
           "date": "2026-08-08",
           "dayOfWeek": "Thứ Bảy",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
+          "timeSlot": "19h-20h40",
+          "subject": "Reading",
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Skimming & scanning speed. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-08-08",
           "dayOfWeek": "Thứ Bảy",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Tự do",
+          "suggestion": null
         },
         {
           "date": "2026-08-09",
           "dayOfWeek": "Chủ nhật",
-          "timeSlot": "8h-11h",
+          "timeSlot": "8h-9h45",
           "subject": "OFF",
           "suggestion": "Nghỉ ngơi"
         },
@@ -4165,95 +3542,74 @@
           "dayOfWeek": "Chủ nhật",
           "timeSlot": "19h-20h40",
           "subject": "Reading",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Multiple choice strategy. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Matching information. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-08-09",
           "dayOfWeek": "Chủ nhật",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-08-09",
-          "dayOfWeek": "Chủ nhật",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Tự do",
+          "suggestion": null
         },
         {
           "date": "2026-08-10",
           "dayOfWeek": "Thứ Hai",
           "timeSlot": "8h-9h45",
+          "subject": "Toán",
+          "suggestion": "Học toán anh Kid"
+        },
+        {
+          "date": "2026-08-10",
+          "dayOfWeek": "Thứ Hai",
+          "timeSlot": "10h-11h",
           "subject": "code",
           "suggestion": "Bài 101.2 (16p) + Bài 101.3 (14p) + Bài 101.4 (9p) → 39p"
         },
         {
           "date": "2026-08-10",
           "dayOfWeek": "Thứ Hai",
-          "timeSlot": "10h-11h",
-          "subject": "Speaking (learn vocab for topic)",
-          "suggestion": "Học collocations + idioms tự nhiên cho chủ đề 'Food'. Tạo ví dụ cá nhân hóa."
-        },
-        {
-          "date": "2026-08-10",
-          "dayOfWeek": "Thứ Hai",
           "timeSlot": "13h30-15h10",
-          "subject": "Read",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Skimming & scanning speed. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
+          "subject": "Reading",
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Sentence completion. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-08-10",
           "dayOfWeek": "Thứ Hai",
           "timeSlot": "15h25-17h",
-          "subject": "Lý",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-08-10",
-          "dayOfWeek": "Thứ Hai",
-          "timeSlot": "17h30-19h",
-          "subject": "Hóa",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-08-10",
-          "dayOfWeek": "Thứ Hai",
-          "timeSlot": "19h-20h40",
           "subject": "Writing (task 1 book)",
           "suggestion": null
         },
         {
           "date": "2026-08-10",
           "dayOfWeek": "Thứ Hai",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
+          "timeSlot": "19h-20h40",
+          "subject": "Speaking (learn vocab for topic)",
+          "suggestion": "Học collocations + idioms tự nhiên cho chủ đề 'Food'. Tạo ví dụ cá nhân hóa."
         },
         {
           "date": "2026-08-10",
           "dayOfWeek": "Thứ Hai",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Tự do",
+          "suggestion": null
         },
         {
           "date": "2026-08-11",
           "dayOfWeek": "Thứ Ba",
           "timeSlot": "8h-9h45",
+          "subject": "ĐGNL",
+          "suggestion": "Tự ôn"
+        },
+        {
+          "date": "2026-08-11",
+          "dayOfWeek": "Thứ Ba",
+          "timeSlot": "10h-11h",
           "subject": "Speaking (xem sample answer)",
           "suggestion": "Nghe và phân tích sample answer Band 7.5+ chủ đề 'Environment'. Gạch structure và linking words."
         },
         {
           "date": "2026-08-11",
           "dayOfWeek": "Thứ Ba",
-          "timeSlot": "10h-11h",
-          "subject": "Listening",
-          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Paraphrase recognition. Nghe lại transcript và shadowing 5-10 phút."
-        },
-        {
-          "date": "2026-08-11",
-          "dayOfWeek": "Thứ Ba",
           "timeSlot": "13h30-15h10",
           "subject": "Toán",
           "suggestion": "Học toán anh Kid"
@@ -4262,8 +3618,8 @@
           "date": "2026-08-11",
           "dayOfWeek": "Thứ Ba",
           "timeSlot": "15h25-17h",
-          "subject": "Writing (task 1)",
-          "suggestion": "Task 1 – Process — viết 150-190 từ, tập overview và so sánh số liệu."
+          "subject": "Listening",
+          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Shadowing + transcript analysis. Nghe lại transcript và shadowing 5-10 phút."
         },
         {
           "date": "2026-08-11",
@@ -4275,135 +3631,107 @@
         {
           "date": "2026-08-11",
           "dayOfWeek": "Thứ Ba",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-08-11",
-          "dayOfWeek": "Thứ Ba",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Writing (task 1)",
+          "suggestion": "Task 1 – Process — viết 150-190 từ, tập overview và so sánh số liệu."
         },
         {
           "date": "2026-08-12",
           "dayOfWeek": "Thứ Tư",
           "timeSlot": "8h-9h45",
-          "subject": "OFF",
-          "suggestion": "Nghỉ ngơi"
+          "subject": "Toán",
+          "suggestion": "Học toán anh Kid"
         },
         {
           "date": "2026-08-12",
           "dayOfWeek": "Thứ Tư",
           "timeSlot": "10h-11h",
+          "subject": "code",
+          "suggestion": "Bài 101.5 (18p) + Bài 101.6 (13p) → 31p"
+        },
+        {
+          "date": "2026-08-12",
+          "dayOfWeek": "Thứ Tư",
+          "timeSlot": "13h30-15h10",
+          "subject": "ĐGNL",
+          "suggestion": "Tự ôn"
+        },
+        {
+          "date": "2026-08-12",
+          "dayOfWeek": "Thứ Tư",
+          "timeSlot": "15h25-17h",
           "subject": "Speaking (part 1)",
           "suggestion": "Luyện Speaking Part 1 chủ đề 'Encouraging someone'. Trả lời 15-20 giây/câu, thêm reason + example."
         },
         {
           "date": "2026-08-12",
           "dayOfWeek": "Thứ Tư",
-          "timeSlot": "13h30-15h10",
-          "subject": "Listening",
-          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Map labelling. Nghe lại transcript và shadowing 5-10 phút."
-        },
-        {
-          "date": "2026-08-12",
-          "dayOfWeek": "Thứ Tư",
-          "timeSlot": "15h25-17h",
-          "subject": "Lý",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-08-12",
-          "dayOfWeek": "Thứ Tư",
-          "timeSlot": "17h30-19h",
-          "subject": "Hóa",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-08-12",
-          "dayOfWeek": "Thứ Tư",
           "timeSlot": "19h-20h40",
+          "subject": "Listening",
+          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Section 1 form completion. Nghe lại transcript và shadowing 5-10 phút."
+        },
+        {
+          "date": "2026-08-12",
+          "dayOfWeek": "Thứ Tư",
+          "timeSlot": "20h55-22h30",
           "subject": "Reading",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Matching information. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
-        },
-        {
-          "date": "2026-08-12",
-          "dayOfWeek": "Thứ Tư",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-08-12",
-          "dayOfWeek": "Thứ Tư",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: T/F/NG + paraphrase tracking. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-08-13",
           "dayOfWeek": "Thứ Năm",
           "timeSlot": "8h-9h45",
-          "subject": "code",
-          "suggestion": "Bài 101.5 (18p) + Bài 101.6 (13p) → 31p"
+          "subject": "ĐGNL",
+          "suggestion": "Tự ôn"
         },
         {
           "date": "2026-08-13",
           "dayOfWeek": "Thứ Năm",
           "timeSlot": "10h-11h",
+          "subject": "code",
+          "suggestion": "Bài 102.1 (22p) + Bài 102.2 (17p) → 39p"
+        },
+        {
+          "date": "2026-08-13",
+          "dayOfWeek": "Thứ Năm",
+          "timeSlot": "13h30-15h10",
+          "subject": "Listening",
+          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Map labelling. Nghe lại transcript và shadowing 5-10 phút."
+        },
+        {
+          "date": "2026-08-13",
+          "dayOfWeek": "Thứ Năm",
+          "timeSlot": "15h25-17h",
           "subject": "Speaking (part 2)",
           "suggestion": "Luyện cue card về 'Problem solving'. Nói đủ gần 2 phút, dùng timeline past-present-future."
         },
         {
           "date": "2026-08-13",
           "dayOfWeek": "Thứ Năm",
-          "timeSlot": "13h30-15h10",
-          "subject": "Toán",
-          "suggestion": "Học toán anh Kid"
-        },
-        {
-          "date": "2026-08-13",
-          "dayOfWeek": "Thứ Năm",
-          "timeSlot": "15h25-17h",
-          "subject": "Listening",
-          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Multiple choice traps. Nghe lại transcript và shadowing 5-10 phút."
-        },
-        {
-          "date": "2026-08-13",
-          "dayOfWeek": "Thứ Năm",
           "timeSlot": "19h-20h40",
           "subject": "Reading",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Sentence completion. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Matching headings. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-08-13",
           "dayOfWeek": "Thứ Năm",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-08-13",
-          "dayOfWeek": "Thứ Năm",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Tự do",
+          "suggestion": null
         },
         {
           "date": "2026-08-14",
           "dayOfWeek": "Thứ Sáu",
           "timeSlot": "8h-9h45",
-          "subject": "code",
-          "suggestion": "Bài 102.1 (22p) + Bài 102.2 (17p) → 39p"
+          "subject": "Toán",
+          "suggestion": "Học toán anh Kid"
         },
         {
           "date": "2026-08-14",
           "dayOfWeek": "Thứ Sáu",
           "timeSlot": "10h-11h",
-          "subject": "Speaking (part 3)",
-          "suggestion": "Luyện discussion Part 3 liên quan 'Social media'. Tập nêu opinion, compare và explain."
+          "subject": "code",
+          "suggestion": "Bài 102.3 (12p) + Bài 102.4 (10p) + Bài 102.5 (8p) + Bài 103.1 (7p) → 37p"
         },
         {
           "date": "2026-08-14",
@@ -4416,43 +3744,29 @@
           "date": "2026-08-14",
           "dayOfWeek": "Thứ Sáu",
           "timeSlot": "15h25-17h",
-          "subject": "Lý",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-08-14",
-          "dayOfWeek": "Thứ Sáu",
-          "timeSlot": "17h30-19h",
-          "subject": "Hóa",
-          "suggestion": "Học online"
+          "subject": "Speaking (part 3)",
+          "suggestion": "Luyện discussion Part 3 liên quan 'Social media'. Tập nêu opinion, compare và explain."
         },
         {
           "date": "2026-08-14",
           "dayOfWeek": "Thứ Sáu",
           "timeSlot": "19h-20h40",
-          "subject": "Writing (task 2)",
-          "suggestion": "Task 2 – Discuss Both Views – online learning vs classroom — viết 260-290 từ, focus thesis + coherence."
+          "subject": "Listening",
+          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Multiple choice traps. Nghe lại transcript và shadowing 5-10 phút."
         },
         {
           "date": "2026-08-14",
           "dayOfWeek": "Thứ Sáu",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-08-14",
-          "dayOfWeek": "Thứ Sáu",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Reading",
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Summary completion. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-08-15",
           "dayOfWeek": "Thứ Bảy",
           "timeSlot": "8h-9h45",
-          "subject": "code",
-          "suggestion": "Bài 102.3 (12p) + Bài 102.4 (10p) + Bài 102.5 (8p) + Bài 103.1 (7p) → 37p"
+          "subject": "ĐGNL",
+          "suggestion": "Tự ôn"
         },
         {
           "date": "2026-08-15",
@@ -4465,41 +3779,34 @@
           "date": "2026-08-15",
           "dayOfWeek": "Thứ Bảy",
           "timeSlot": "13h30-15h10",
-          "subject": "Toán",
-          "suggestion": "Học toán anh Kid"
+          "subject": "Writing (task 2)",
+          "suggestion": "Task 2 – Discuss Both Views – online learning vs classroom — viết 260-290 từ, focus thesis + coherence."
         },
         {
           "date": "2026-08-15",
           "dayOfWeek": "Thứ Bảy",
           "timeSlot": "15h25-17h",
-          "subject": "Reading",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Diagram/table completion. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
-        },
-        {
-          "date": "2026-08-15",
-          "dayOfWeek": "Thứ Bảy",
-          "timeSlot": "19h-20h40",
           "subject": "Writing (task 2)",
           "suggestion": "Task 2 – Discuss Both Views – environmental protection — viết 260-290 từ, focus thesis + coherence."
         },
         {
           "date": "2026-08-15",
           "dayOfWeek": "Thứ Bảy",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
+          "timeSlot": "19h-20h40",
+          "subject": "Reading",
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Multiple choice strategy. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-08-15",
           "dayOfWeek": "Thứ Bảy",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Tự do",
+          "suggestion": null
         },
         {
           "date": "2026-08-16",
           "dayOfWeek": "Chủ nhật",
-          "timeSlot": "8h-11h",
+          "timeSlot": "8h-9h45",
           "subject": "OFF",
           "suggestion": "Nghỉ ngơi"
         },
@@ -4522,95 +3829,74 @@
           "dayOfWeek": "Chủ nhật",
           "timeSlot": "19h-20h40",
           "subject": "Reading",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Matching headings. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Skimming & scanning speed. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-08-16",
           "dayOfWeek": "Chủ nhật",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-08-16",
-          "dayOfWeek": "Chủ nhật",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Tự do",
+          "suggestion": null
         },
         {
           "date": "2026-08-17",
           "dayOfWeek": "Thứ Hai",
           "timeSlot": "8h-9h45",
+          "subject": "Toán",
+          "suggestion": "Học toán anh Kid"
+        },
+        {
+          "date": "2026-08-17",
+          "dayOfWeek": "Thứ Hai",
+          "timeSlot": "10h-11h",
           "subject": "code",
           "suggestion": "Bài 103.2 (21p) + Bài 103.3 (14p) → 35p"
         },
         {
           "date": "2026-08-17",
           "dayOfWeek": "Thứ Hai",
-          "timeSlot": "10h-11h",
-          "subject": "Speaking (learn vocab for topic)",
-          "suggestion": "Học collocations + idioms tự nhiên cho chủ đề 'Daily routine'. Tạo ví dụ cá nhân hóa."
-        },
-        {
-          "date": "2026-08-17",
-          "dayOfWeek": "Thứ Hai",
           "timeSlot": "13h30-15h10",
-          "subject": "Read",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Summary completion. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
+          "subject": "Reading",
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Matching information. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-08-17",
           "dayOfWeek": "Thứ Hai",
           "timeSlot": "15h25-17h",
-          "subject": "Lý",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-08-17",
-          "dayOfWeek": "Thứ Hai",
-          "timeSlot": "17h30-19h",
-          "subject": "Hóa",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-08-17",
-          "dayOfWeek": "Thứ Hai",
-          "timeSlot": "19h-20h40",
           "subject": "Writing (task 1 book)",
           "suggestion": null
         },
         {
           "date": "2026-08-17",
           "dayOfWeek": "Thứ Hai",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
+          "timeSlot": "19h-20h40",
+          "subject": "Speaking (learn vocab for topic)",
+          "suggestion": "Học collocations + idioms tự nhiên cho chủ đề 'Daily routine'. Tạo ví dụ cá nhân hóa."
         },
         {
           "date": "2026-08-17",
           "dayOfWeek": "Thứ Hai",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Tự do",
+          "suggestion": null
         },
         {
           "date": "2026-08-18",
           "dayOfWeek": "Thứ Ba",
           "timeSlot": "8h-9h45",
+          "subject": "ĐGNL",
+          "suggestion": "Tự ôn"
+        },
+        {
+          "date": "2026-08-18",
+          "dayOfWeek": "Thứ Ba",
+          "timeSlot": "10h-11h",
           "subject": "Speaking (xem sample answer)",
           "suggestion": "Nghe và phân tích sample answer Band 7.5+ chủ đề 'Work/Study'. Gạch structure và linking words."
         },
         {
           "date": "2026-08-18",
           "dayOfWeek": "Thứ Ba",
-          "timeSlot": "10h-11h",
-          "subject": "Listening",
-          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Lecture note completion. Nghe lại transcript và shadowing 5-10 phút."
-        },
-        {
-          "date": "2026-08-18",
-          "dayOfWeek": "Thứ Ba",
           "timeSlot": "13h30-15h10",
           "subject": "Toán",
           "suggestion": "Học toán anh Kid"
@@ -4619,8 +3905,8 @@
           "date": "2026-08-18",
           "dayOfWeek": "Thứ Ba",
           "timeSlot": "15h25-17h",
-          "subject": "Writing (task 1)",
-          "suggestion": "Task 1 – Process — viết 150-190 từ, tập overview và so sánh số liệu."
+          "subject": "Listening",
+          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Section 4 academic lecture. Nghe lại transcript và shadowing 5-10 phút."
         },
         {
           "date": "2026-08-18",
@@ -4632,135 +3918,107 @@
         {
           "date": "2026-08-18",
           "dayOfWeek": "Thứ Ba",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-08-18",
-          "dayOfWeek": "Thứ Ba",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Writing (task 1)",
+          "suggestion": "Task 1 – Process — viết 150-190 từ, tập overview và so sánh số liệu."
         },
         {
           "date": "2026-08-19",
           "dayOfWeek": "Thứ Tư",
           "timeSlot": "8h-9h45",
-          "subject": "OFF",
-          "suggestion": "Nghỉ ngơi"
+          "subject": "Toán",
+          "suggestion": "Học toán anh Kid"
         },
         {
           "date": "2026-08-19",
           "dayOfWeek": "Thứ Tư",
           "timeSlot": "10h-11h",
+          "subject": "code",
+          "suggestion": "Bài 103.4 (9p) + Bài 103.5 (11p) + Bài 104.1 (15p) → 35p"
+        },
+        {
+          "date": "2026-08-19",
+          "dayOfWeek": "Thứ Tư",
+          "timeSlot": "13h30-15h10",
+          "subject": "ĐGNL",
+          "suggestion": "Tự ôn"
+        },
+        {
+          "date": "2026-08-19",
+          "dayOfWeek": "Thứ Tư",
+          "timeSlot": "15h25-17h",
           "subject": "Speaking (part 1)",
           "suggestion": "Luyện Speaking Part 1 chủ đề 'Reading habits'. Trả lời 15-20 giây/câu, thêm reason + example."
         },
         {
           "date": "2026-08-19",
           "dayOfWeek": "Thứ Tư",
-          "timeSlot": "13h30-15h10",
-          "subject": "Listening",
-          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Numbers & spelling accuracy. Nghe lại transcript và shadowing 5-10 phút."
-        },
-        {
-          "date": "2026-08-19",
-          "dayOfWeek": "Thứ Tư",
-          "timeSlot": "15h25-17h",
-          "subject": "Lý",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-08-19",
-          "dayOfWeek": "Thứ Tư",
-          "timeSlot": "17h30-19h",
-          "subject": "Hóa",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-08-19",
-          "dayOfWeek": "Thứ Tư",
           "timeSlot": "19h-20h40",
+          "subject": "Listening",
+          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Shadowing + transcript analysis. Nghe lại transcript và shadowing 5-10 phút."
+        },
+        {
+          "date": "2026-08-19",
+          "dayOfWeek": "Thứ Tư",
+          "timeSlot": "20h55-22h30",
           "subject": "Reading",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Multiple choice strategy. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
-        },
-        {
-          "date": "2026-08-19",
-          "dayOfWeek": "Thứ Tư",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-08-19",
-          "dayOfWeek": "Thứ Tư",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Diagram/table completion. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-08-20",
           "dayOfWeek": "Thứ Năm",
           "timeSlot": "8h-9h45",
-          "subject": "code",
-          "suggestion": "Bài 103.4 (9p) + Bài 103.5 (11p) + Bài 104.1 (15p) → 35p"
+          "subject": "ĐGNL",
+          "suggestion": "Tự ôn"
         },
         {
           "date": "2026-08-20",
           "dayOfWeek": "Thứ Năm",
           "timeSlot": "10h-11h",
-          "subject": "Speaking (part 2)",
-          "suggestion": "Luyện cue card về 'Quiet place'. Nói đủ gần 2 phút, dùng timeline past-present-future."
+          "subject": "code",
+          "suggestion": "Bài 104.2 (24p) + Bài 104.3 (13p) → 37p"
         },
         {
           "date": "2026-08-20",
           "dayOfWeek": "Thứ Năm",
           "timeSlot": "13h30-15h10",
-          "subject": "Toán",
-          "suggestion": "Học toán anh Kid"
-        },
-        {
-          "date": "2026-08-20",
-          "dayOfWeek": "Thứ Năm",
-          "timeSlot": "15h25-17h",
           "subject": "Listening",
           "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Section 1 form completion. Nghe lại transcript và shadowing 5-10 phút."
         },
         {
           "date": "2026-08-20",
           "dayOfWeek": "Thứ Năm",
+          "timeSlot": "15h25-17h",
+          "subject": "Speaking (part 2)",
+          "suggestion": "Luyện cue card về 'Quiet place'. Nói đủ gần 2 phút, dùng timeline past-present-future."
+        },
+        {
+          "date": "2026-08-20",
+          "dayOfWeek": "Thứ Năm",
           "timeSlot": "19h-20h40",
           "subject": "Reading",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Skimming & scanning speed. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: T/F/NG + paraphrase tracking. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-08-20",
           "dayOfWeek": "Thứ Năm",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-08-20",
-          "dayOfWeek": "Thứ Năm",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Tự do",
+          "suggestion": null
         },
         {
           "date": "2026-08-21",
           "dayOfWeek": "Thứ Sáu",
           "timeSlot": "8h-9h45",
-          "subject": "code",
-          "suggestion": "Bài 104.2 (24p) + Bài 104.3 (13p) → 37p"
+          "subject": "Toán",
+          "suggestion": "Học toán anh Kid"
         },
         {
           "date": "2026-08-21",
           "dayOfWeek": "Thứ Sáu",
           "timeSlot": "10h-11h",
-          "subject": "Speaking (part 3)",
-          "suggestion": "Luyện discussion Part 3 liên quan 'Technology'. Tập nêu opinion, compare và explain."
+          "subject": "code",
+          "suggestion": "Bài 104.4 (8p) + Bài 104.5 (10p) + Bài 105.1 (19p) → 37p"
         },
         {
           "date": "2026-08-21",
@@ -4773,43 +4031,29 @@
           "date": "2026-08-21",
           "dayOfWeek": "Thứ Sáu",
           "timeSlot": "15h25-17h",
-          "subject": "Lý",
-          "suggestion": "Học online"
-        },
-        {
-          "date": "2026-08-21",
-          "dayOfWeek": "Thứ Sáu",
-          "timeSlot": "17h30-19h",
-          "subject": "Hóa",
-          "suggestion": "Học online"
+          "subject": "Speaking (part 3)",
+          "suggestion": "Luyện discussion Part 3 liên quan 'Technology'. Tập nêu opinion, compare và explain."
         },
         {
           "date": "2026-08-21",
           "dayOfWeek": "Thứ Sáu",
           "timeSlot": "19h-20h40",
-          "subject": "Writing (task 2)",
-          "suggestion": "Task 2 – Discuss Both Views – remote work culture — viết 260-290 từ, focus thesis + coherence."
+          "subject": "Listening",
+          "suggestion": "Làm 1-2 sections theo thời gian thật. Trọng tâm: Map labelling. Nghe lại transcript và shadowing 5-10 phút."
         },
         {
           "date": "2026-08-21",
           "dayOfWeek": "Thứ Sáu",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-08-21",
-          "dayOfWeek": "Thứ Sáu",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Reading",
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Matching headings. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-08-22",
           "dayOfWeek": "Thứ Bảy",
           "timeSlot": "8h-9h45",
-          "subject": "code",
-          "suggestion": "Bài 104.4 (8p) + Bài 104.5 (10p) + Bài 105.1 (19p) → 37p"
+          "subject": "ĐGNL",
+          "suggestion": "Tự ôn"
         },
         {
           "date": "2026-08-22",
@@ -4822,41 +4066,34 @@
           "date": "2026-08-22",
           "dayOfWeek": "Thứ Bảy",
           "timeSlot": "13h30-15h10",
-          "subject": "Toán",
-          "suggestion": "Học toán anh Kid"
+          "subject": "Writing (task 2)",
+          "suggestion": "Task 2 – Discuss Both Views – remote work culture — viết 260-290 từ, focus thesis + coherence."
         },
         {
           "date": "2026-08-22",
           "dayOfWeek": "Thứ Bảy",
           "timeSlot": "15h25-17h",
-          "subject": "Reading",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Matching information. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
-        },
-        {
-          "date": "2026-08-22",
-          "dayOfWeek": "Thứ Bảy",
-          "timeSlot": "19h-20h40",
           "subject": "Writing (task 2)",
           "suggestion": "Task 2 – Discuss Both Views – crime among teenagers — viết 260-290 từ, focus thesis + coherence."
         },
         {
           "date": "2026-08-22",
           "dayOfWeek": "Thứ Bảy",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
+          "timeSlot": "19h-20h40",
+          "subject": "Reading",
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Summary completion. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-08-22",
           "dayOfWeek": "Thứ Bảy",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Tự do",
+          "suggestion": null
         },
         {
           "date": "2026-08-23",
           "dayOfWeek": "Chủ nhật",
-          "timeSlot": "8h-11h",
+          "timeSlot": "8h-9h45",
           "subject": "OFF",
           "suggestion": "Nghỉ ngơi"
         },
@@ -4879,21 +4116,14 @@
           "dayOfWeek": "Chủ nhật",
           "timeSlot": "19h-20h40",
           "subject": "Reading",
-          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Sentence completion. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
+          "suggestion": "Làm 1 passage timed practice. Trọng tâm: Multiple choice strategy. Sau khi chữa bài, note paraphrase và từ vựng học thuật."
         },
         {
           "date": "2026-08-23",
           "dayOfWeek": "Chủ nhật",
-          "timeSlot": "20h45-21h30",
-          "subject": "BTVN các môn",
-          "suggestion": "Làm bài tập về nhà"
-        },
-        {
-          "date": "2026-08-23",
-          "dayOfWeek": "Chủ nhật",
-          "timeSlot": "21h30-23h",
-          "subject": "Empire",
-          "suggestion": "Học online"
+          "timeSlot": "20h55-22h30",
+          "subject": "Tự do",
+          "suggestion": null
         }
       ];
 
@@ -5557,7 +4787,7 @@
             borderColor: "border-emerald-400",
           };
         }
-        if (sj.includes("reading") || sj.includes("read") || sj.includes("đọc")) {
+        if (sj.includes("reading") || sj.includes("đọc")) {
           return {
             icon: "📖",
             bgColor: "bg-indigo-100",
@@ -5595,38 +4825,6 @@
             bgColor: "bg-purple-100",
             textColor: "text-purple-700",
             borderColor: "border-purple-400",
-          };
-        }
-        if (sj.includes("lý")) {
-          return {
-            icon: "⚛️",
-            bgColor: "bg-cyan-100",
-            textColor: "text-cyan-700",
-            borderColor: "border-cyan-400",
-          };
-        }
-        if (sj.includes("hóa")) {
-          return {
-            icon: "🧪",
-            bgColor: "bg-lime-100",
-            textColor: "text-lime-700",
-            borderColor: "border-lime-400",
-          };
-        }
-        if (sj.includes("btvn") || sj.includes("bài tập")) {
-          return {
-            icon: "📚",
-            bgColor: "bg-yellow-100",
-            textColor: "text-yellow-800",
-            borderColor: "border-yellow-400",
-          };
-        }
-        if (sj.includes("empire")) {
-          return {
-            icon: "🏰",
-            bgColor: "bg-stone-100",
-            textColor: "text-stone-700",
-            borderColor: "border-stone-400",
           };
         }
         if (sj.includes("tự do") || sj.includes("off") || sj.includes("nghỉ")) {
@@ -5675,10 +4873,6 @@
           sub.includes("toán") ||
           sub.includes("đgnl") ||
           sub.includes("reading") ||
-          sub.includes("read") ||
-          sub.includes("lý") ||
-          sub.includes("hóa") ||
-          sub.includes("btvn") ||
           sub.includes("listening") ||
           sub.includes("writing") ||
           sub.includes("speaking")
